@@ -1,0 +1,1076 @@
+polygon_id,polygon_name,code_INEGI,cve_edo
+22106,Aguascalientes,1001,1
+22153,Asientos,1002,1
+22229,Calvillo,1003,1
+22314,Cos-o,1004,1
+22440,Jes-s Mar-a,1005,1
+22562,Pabell-n de Arteaga,1006,1
+22676,Rinc-n de Romos,1007,1
+22710,San Jos- de Gracia,1008,1
+22812,Comond-,3001,3
+23026,La Paz,3003,3
+23045,Muleg-,3002,3
+23508,Ensenada,2001,2
+23615,Mexicali,2002,2
+23673,Tecate,2003,2
+23674,Tijuana,2004,2
+23675,Calkin-,4001,4
+23676,Campeche,4002,4
+23677,Carmen,4003,4
+23678,Champot-n,4004,4
+23679,Hecelchak-n,4005,4
+23680,Hopelch-n,4006,4
+23682,Tenabo,4008,4
+23705,Acala,7002,7
+23716,Acapetahua,7003,7
+23749,Amatenango de la Frontera,7006,7
+23771,Angel Albino Corzo,7008,7
+23782,Arriaga,7009,7
+23695,Bella Vista,7011,7
+23696,Berrioz-bal,7012,7
+23697,Bochil,7013,7
+23698,Cacahoat-n,7015,7
+23701,Chamula,7023,7
+23706,Chiapa de Corzo,7027,7
+23709,Chicomuselo,7030,7
+23710,Chil-n,7031,7
+23711,Cintalapa,7017,7
+23713,Comit-n de Dom-nguez,7019,7
+23714,Copainal-,7021,7
+23718,Escuintla,7032,7
+23720,Frontera Comalapa,7034,7
+23722,Huehuet-n,7037,7
+23725,Huixtla,7040,7
+23731,Jiquipilas,7046,7
+23733,Ju-rez,7048,7
+23734,La Concordia,7020,7
+23739,La Trinitaria,7099,7
+23741,Las Margaritas,7052,7
+23742,Las Rosas,7075,7
+23743,Mapastepec,7051,7
+23745,Mazat-n,7054,7
+23748,Motozintla,7057,7
+23751,Ocosingo,7059,7
+23753,Ocozocoautla de Espinosa,7061,7
+23754,Ostuac-n,7062,7
+23757,Palenque,7065,7
+23761,Pichucalco,7068,7
+23762,Pijijiapan,7069,7
+23763,Pueblo Nuevo Solistahuac-n,7072,7
+23765,Reforma,7074,7
+23767,Salto de Agua,7077,7
+23768,San Crist-bal de las Casas,7078,7
+23769,San Fernando,7079,7
+23772,Siltepec,7080,7
+23773,Simojovel,7081,7
+23778,Suchiapa,7086,7
+23779,Suchiate,7087,7
+23781,Tapachula,7089,7
+23785,Tecpat-n,7092,7
+23787,Teopisca,7094,7
+23789,Tonal-,7097,7
+23683,Tuxtla Chico,7102,7
+23685,Tuxtla Guti-rrez,7101,7
+23686,Tuzant-n,7103,7
+23687,Tzimol,7104,7
+23688,Venustiano Carranza,7106,7
+23689,Villa Comaltitl-n,7071,7
+23690,Villa Corzo,7107,7
+23691,Villaflores,7108,7
+23692,Yajal-n,7109,7
+23693,Zinacant-n,7111,7
+23793,Ahumada,8001,8
+23804,Aldama,8002,8
+23815,Allende,8003,8
+23826,Aquiles Serd-n,8004,8
+23837,Ascensi-n,8005,8
+23857,Bocoyna,8009,8
+23792,Buenaventura,8010,8
+23794,Camargo,8011,8
+23796,Casas Grandes,8013,8
+23797,Chihuahua,8019,8
+23801,Cuauht-moc,8017,8
+23803,Delicias,8021,8
+23810,Guachochic,8026,8
+23812,Guadalupe y Calvo,8029,8
+23814,Guerrero,8031,8
+23818,Ignacio Zaragoza,8034,8
+23819,Janos,8035,8
+23820,Jim-nez,8036,8
+23821,Ju-rez,8037,8
+23822,Julimes,8038,8
+23823,La Cruz,8016,8
+23825,Madera,8040,8
+23830,Matamoros,8044,8
+23831,Meoqui,8045,8
+23834,Namiquipa,8048,8
+23839,Ojinaga,8052,8
+23847,Santa B-rbara,8060,8
+23850,Saucillo,8062,8
+23851,Tem-sachic,8063,8
+23870,Acu-a,5002,5
+23881,Allende,5003,5
+23890,Arteaga,5004,5
+23892,Casta-os,5006,5
+23893,Cuatroci-negas,5007,5
+23895,Francisco I. Madero,5009,5
+23858,Frontera,5010,5
+23860,General Cepeda,5011,5
+23866,Matamoros,5017,5
+23867,Monclova,5018,5
+23868,Morelos,5019,5
+23869,M-zquiz,5020,5
+23872,Nava,5022,5
+23875,Parras,5024,5
+23876,Piedras Negras,5025,5
+23877,Progreso,5026,5
+23878,Ramos Arizpe,5027,5
+23879,Sabinas,5028,5
+23882,Saltillo,5030,5
+23884,San Pedro,5033,5
+23885,Sierra Mojada,5034,5
+23886,Torre-n,5035,5
+23887,Viesca,5036,5
+23889,Zaragoza,5038,5
+23897,Armer-a,6001,6
+23898,Colima,6002,6
+23899,Comala,6003,6
+23900,Coquimatl-n,6004,6
+23901,Cuauht-moc,6005,6
+23903,Manzanillo,6007,6
+23905,Tecom-n,6009,6
+23896,Villa de Alvarez,6010,6
+23907,Alvaro Obreg-n,9010,9
+23914,Azcapotzalco,9002,9
+23915,Benito Ju-rez,9014,9
+23916,Coyoac-n,9003,9
+23917,Cuajimalpa de Morelos,9004,9
+23918,Cuauht-moc,9015,9
+23919,Gustavo A. Madero,9005,9
+23920,Iztacalco,9006,9
+23921,Iztapalapa,9007,9
+23906,Magdalena Contreras,9008,9
+23908,Miguel Hidalgo,9016,9
+23909,Milpa Alta,9009,9
+23910,Tl-huac,9011,9
+23911,Tlalpan,9012,9
+23912,Venustiano Carranza,9017,9
+23913,Xochimilco,9013,9
+22069,Canatl-n,10001,10
+22100,Cuencam-,10004,10
+22101,Durango,10005,10
+22104,G-mez Palacio,10007,10
+22105,Guadalupe Victoria,10008,10
+22068,Guanacev-,10009,10
+22071,Ind-,10011,10
+22072,Lerdo,10012,10
+22073,Mapim-,10013,10
+22076,Nombre de Dios,10016,10
+22079,P-nuco de Coronado,10020,10
+22082,Poanas,10022,10
+22083,Pueblo Nuevo,10023,10
+22086,San Dimas,10026,10
+22093,Santiago Papasquiaro,10032,10
+22095,Tamazula,10034,10
+22096,Tepehuanes,10035,10
+22097,Tlahualilo,10036,10
+22099,Vicente Guerrero,10038,10
+22108,Abasolo,11001,11
+22119,Ac-mbaro,11002,11
+22130,Allende,11003,11
+22141,Apaseo el Alto,11004,11
+22148,Apaseo el Grande,11005,11
+22150,Celaya,11007,11
+22151,Comonfort,11009,11
+22107,Cortazar,11011,11
+22109,Cuer-maro,11012,11
+22110,Doctor Mora,11013,11
+22111,Dolores Hidalgo,11014,11
+22112,Guanajuato,11015,11
+22113,Huan-maro,11016,11
+22114,Irapuato,11017,11
+22115,Jaral del Progreso,11018,11
+22116,Jer-cuaro,11019,11
+22117,Le-n,11020,11
+22118,Manuel Doblado,11008,11
+22120,Morole-n,11021,11
+22121,Ocampo,11022,11
+22122,P-njamo,11023,11
+22124,Pur-sima del Rinc-n,11025,11
+22125,Romita,11026,11
+22126,Salamanca,11027,11
+22127,Salvatierra,11028,11
+22128,San Diego de la Uni-n,11029,11
+22129,San Felipe,11030,11
+22131,San Francisco del Rinc-n,11031,11
+22132,San Jos- Iturbide,11032,11
+22133,San Luis de la Paz,11033,11
+22135,Santa Cruz de Juventino Rosas,11035,11
+22137,Silao,11037,11
+22138,Tarandacuao,11038,11
+22139,Tarimoro,11039,11
+22140,Tierra Blanca,11040,11
+22142,Uriangato,11041,11
+22143,Valle de Santiago,11042,11
+22144,Victoria,11043,11
+22145,Villagr-n,11044,11
+22146,Xich-,11045,11
+22147,Yuriria,11046,11
+22155,Acapulco de Ju-rez,12001,12
+22210,Apaxtla,12006,12
+22221,Arcelia,12007,12
+22156,Atoyac de Alvarez,12011,12
+22157,Ayutla de los Libres,12012,12
+22158,Azoy-,12013,12
+22159,Benito Ju-rez,12014,12
+22161,Chilapa de Alvarez,12016,12
+22162,Chilpancingo de los Bravo,12029,12
+22164,Copala,12018,12
+22168,Coyuca de Ben-tez,12021,12
+22169,Coyuca de Catal-n,12022,12
+22170,Cuajinicuilapa,12023,12
+22173,Cuetzala del Progreso,12026,12
+22174,Cutzamala de Pinz-n,12027,12
+22175,Eduardo Neri,12075,12
+22178,Florencio Villarreal,12030,12
+22180,General Heliodoro Castillo,12032,12
+22183,Iguala de la Independencia,12035,12
+22184,Igualapa,12036,12
+22186,Jos- Azueta,12039,12
+22189,La Union,12041,12
+22195,Olinal-,12045,12
+22197,Pedro Ascencio Alquisiras,12047,12
+22198,Petatl-n,12048,12
+22201,Pungarabato,12050,12
+22202,Quechultenango,12051,12
+22203,San Luis Acatl-n,12052,12
+22204,San Marcos,12053,12
+22206,Taxco de Alarc-n,12055,12
+22207,Tecoanapa,12056,12
+22208,T-cpan de Galeana,12057,12
+22209,Teloloapan,12058,12
+22211,Tepecoacuilco de Trujano,12059,12
+22212,Tetipac,12060,12
+22213,Tixtla de Guerrero,12061,12
+22216,Tlalchapa,12064,12
+22218,Tlapa de Comonfort,12066,12
+22219,Tlapehuala,12067,12
+22231,Acatl-n,13001,13
+22242,Acaxochitl-n,13002,13
+22275,Ajacuba,13005,13
+22286,Alfajayucan,13006,13
+22308,Apan,13008,13
+22232,Atotonilco de Tula,13013,13
+22237,Chapulhuac-n,13018,13
+22238,Chilcuautla,13019,13
+22239,Cuautepec de Hinojosa,13016,13
+22243,Emiliano Zapata,13021,13
+22244,Epazoyucan,13022,13
+22245,Francisco I. Madero,13023,13
+22246,Huasca de Ocampo,13024,13
+22247,Huautla,13025,13
+22250,Huejutla de Reyes,13028,13
+22251,Huichapan,13029,13
+22252,Ixmiquilpan,13030,13
+22259,Metepec,13035,13
+22260,Metztitl-n,13037,13
+22262,Mineral del Chico,13038,13
+22265,Mixquiahuala de Ju-rez,13041,13
+22266,Molango de Escamilla,13042,13
+22268,Nopala de Villagr-n,13044,13
+22270,Pachuca de Soto,13048,13
+22273,Progreso de Obreg-n,13050,13
+22276,San Agust-n Tlaxiaca,13052,13
+22277,San Bartolo Tutotepec,13053,13
+22278,San Felipe Orizatl-n,13046,13
+22279,San Salvador,13054,13
+22281,Santiago Tulantepec de Lugo Guerrero,13056,13
+22282,Singuilucan,13057,13
+22283,Tasquillo,13058,13
+22284,Tecozautla,13059,13
+22287,Tepeapulco,13061,13
+22288,Tepehuac-n de Guerrero,13062,13
+22289,Tepeji del R-o de Ocampo,13063,13
+22292,Tezontepec de Aldama,13067,13
+22294,Tizayuca,13069,13
+22298,Tlanalapa,13072,13
+22299,Tlanchinol,13073,13
+22300,Tlaxcoapan,13074,13
+22301,Tolcayuca,13075,13
+22302,Tula de Allende,13076,13
+22303,Tulancingo de Bravo,13077,13
+22304,Villa de Tezontepec,13066,13
+22310,Zapotl-n de Ju-rez,13082,13
+22311,Zempoala,13083,13
+22312,Zimap-n,13084,13
+22326,Acatic,14001,14
+22353,Acatl-n de Ju-rez,14002,14
+22364,Ahualulco de Mercado,14003,14
+22386,Amatit-n,14005,14
+22397,Ameca,14006,14
+22408,Antonio Escobedo,14007,14
+22419,Arandas,14008,14
+22339,Atotonilco El Alto,14012,14
+22345,Atoyac,14014,14
+22346,Autl-n de Navarro,14015,14
+22347,Ayotl-n,14016,14
+22348,Ayutla,14017,14
+22350,Cabo Corrientes,14020,14
+22352,Casimiro Castillo,14021,14
+22354,Chapala,14030,14
+22357,Cihuatl-n,14022,14
+22358,Ciudad Guzman,14025,14
+22359,Ciudad Venustiano Carranza,14026,14
+22360,Cocula,14024,14
+22363,Cuautitl-n de Garc-a Barrag-n,14027,14
+22366,Cuquito,14032,14
+22367,Degollado,14033,14
+22369,El Arenal,14009,14
+22370,El Grullo,14037,14
+22372,El Salto,14070,14
+22373,Encarnaci-n de D-az,14035,14
+22376,G-mez Far-as,14079,14
+22378,Guadalajara,14039,14
+22379,Hostotipaquillo,14040,14
+22382,Ixtlahuac-n de los Membrillos,14044,14
+22383,Ixtlahuac-n del R-o,14045,14
+22384,Jalostotitl-n,14046,14
+22387,Jes-s Mar-a,14048,14
+22389,Jocotepec,14050,14
+22390,Juanacatl-n,14051,14
+22392,La Barca,14018,14
+22393,La Huerta,14043,14
+22395,Poncitl-n,14066,14
+22396,Lagos de Moreno,14053,14
+22400,Mascota,14058,14
+22401,Mazamitla,14059,14
+22405,Ocotl-n,14063,14
+22406,Ojuelos de Jalisco,14064,14
+22410,Puerto Vallarta,14067,14
+22412,San Crist-bal de la Barranca,14071,14
+22414,San Juan de los Lagos,14073,14
+22415,San Juli-n,14074,14
+22418,San Mart-n Hidalgo,14077,14
+22420,San Miguel el Alto,14078,14
+22422,Santa Mar-a de los Angeles,14081,14
+22423,Sayula,14082,14
+22424,Tala,14083,14
+22425,Talpa de Allende,14084,14
+22426,Tamazula de Gordiano,14085,14
+22427,Tapalpa,14086,14
+22428,Tecalitl-n,14087,14
+22431,Tecolotl-n,14088,14
+22433,Teocaltiche,14091,14
+22435,Tepatitl-n de Morelos,14093,14
+22436,Tequila,14094,14
+22437,Teuchitl-n,14095,14
+22439,Tlajomulco de Z--iga,14097,14
+22315,Tlaquepaque,14098,14
+22318,Tomatl-n,14100,14
+22319,Tonal-,14101,14
+22323,Tototl-n,14105,14
+22327,Tuxpan,14108,14
+22329,Uni-n de San Antonio,14109,14
+22330,Uni-n de Tula,14110,14
+22331,Valle de Guadalupe,14111,14
+22333,Villa Corona,14114,14
+22335,Villa Hidalgo,14116,14
+22336,Villa Purificaci-n,14068,14
+22337,Yahualica de Gonz-lez Gallo,14118,14
+22338,Zacoalco de Torres,14119,14
+22340,Zapopan,14120,14
+22341,Zapotiltic,14121,14
+22343,Zapotl-n del Rey,14123,14
+22344,Zapotlanejo,14124,14
+22452,Acambay,15001,15
+22475,Acolman,15002,15
+22486,Aculco,15003,15
+22508,Almoloya de Ju-rez,15005,15
+22541,Amatepec,15008,15
+22442,Apaxco,15010,15
+22454,Atenco,15011,15
+22467,Atizap-n de Zaragoza,15013,15
+22468,Atlacomulco,15014,15
+22470,Axapusco,15016,15
+22471,Ayapango,15017,15
+22472,Calimaya,15018,15
+22473,Capulhuac,15019,15
+22474,Chalco,15025,15
+22476,Chapa de Mota,15026,15
+22477,Chapultepec,15027,15
+22478,Chiautla,15028,15
+22479,Chicoloapan,15029,15
+22480,Chiconcuac,15030,15
+22481,Chimalhuac-n,15031,15
+22482,Coacalco de Berrioz-bal,15020,15
+22483,Coatepec Harinas,15021,15
+22484,Cocotitl-n,15022,15
+22485,Coyotepec,15023,15
+22487,Cuautitl-n,15024,15
+22488,Cuautitl-n Izcalli,15121,15
+22489,Donato Guerra,15032,15
+22490,Ecatepec de Morelos,15033,15
+22492,El Oro,15064,15
+22493,Huehuetoca,15035,15
+22494,Hueypoxtla,15036,15
+22495,Huixquilucan,15037,15
+22496,Isidro Fabela,15038,15
+22498,Ixtapaluca,15039,15
+22499,Ixtapan de la Sal,15040,15
+22501,Ixtlahuaca,15042,15
+22503,Jaltenco,15044,15
+22504,Jilotepec,15045,15
+22505,Jilotzingo,15046,15
+22506,Jiquipilco,15047,15
+22507,Jocotitl-n,15048,15
+22509,Joquicingo,15049,15
+22510,Juchitepec,15050,15
+22511,La Paz,15070,15
+22512,Lerma,15051,15
+22514,Melchor Ocampo,15053,15
+22515,Metepec,15054,15
+22517,Morelos,15056,15
+22518,Naucalpan de Ju-rez,15057,15
+22520,Nextlalpan,15059,15
+22521,Nezahualc-yotl,15058,15
+22522,Nicol-s Romero,15060,15
+22524,Ocoyoacac,15062,15
+22525,Ocuilan,15063,15
+22527,Otzoloapan,15066,15
+22528,Otzolotepec,15067,15
+22531,Papalotla,15069,15
+22532,Polotitl-n,15071,15
+22533,Ray-n,15072,15
+22535,San Felipe del Progreso,15074,15
+22536,San Mart-n de las Pir--mides,15075,15
+22537,San Mateo Atenco,15076,15
+22538,San Sim-n de Guerrero,15077,15
+22539,Santo Tom-s,15078,15
+22540,Soyaniquilpan de Ju-rez,15079,15
+22543,Tec-mac,15081,15
+22544,Tejupilco,15082,15
+22546,Temascalapa,15084,15
+22547,Temascalcingo,15085,15
+22548,Temascaltepec,15086,15
+22549,Temoaya,15087,15
+22551,Tenango del Aire,15089,15
+22553,Tenango del Valle,15090,15
+22554,Teoloyuc-n,15091,15
+22555,Teotihuac-n,15092,15
+22556,Tepetlaoxtoc,15093,15
+22557,Tepetlixpa,15094,15
+22558,Tepotzotl-n,15095,15
+22559,Tequixquiac,15096,15
+22560,Texcaltitl-n,15097,15
+22561,Texcalyacac,15098,15
+22441,Texcoco,15099,15
+22443,Tezoyuca,15100,15
+22444,Tianguistenco,15101,15
+22445,Timilpan,15102,15
+22446,Tlalmanalco,15103,15
+22447,Tlalnepantla,15105,15
+22449,Toluca,15106,15
+22451,Tultepec,15108,15
+22453,Tultitl-n,15109,15
+22455,Valle de Bravo,15110,15
+22456,Villa de Allende,15111,15
+22457,Villa del Carb-n,15112,15
+22458,Villa Guerrero,15113,15
+22459,Villa Victoria,15114,15
+22460,Xonacatl-n,15115,15
+22463,Zinacatepec,15119,15
+22466,Zumpango,15120,15
+22600,-lvaro Obreg-n,16003,16
+22611,Angamacutiro,16004,16
+22633,Apatzing-n,16006,16
+22655,Aquila,16008,16
+22666,Ario,16009,16
+22564,Arteaga,16010,16
+22580,Buenavista,16012,16
+22583,Charo,16022,16
+22585,Cher-n,16024,16
+22586,Chilchota,16025,16
+22592,Coahuayana,16014,16
+22593,Coalcom-n de V-zquez Pallares,16015,16
+22594,Coeneo,16016,16
+22596,Contepec,16017,16
+22598,Cotija,16019,16
+22599,Cuitzeo,16020,16
+22601,Ecuandureo,16030,16
+22603,Erongar-cuaro,16032,16
+22604,Gabriel Zamora,16033,16
+22605,Hidalgo,16034,16
+22606,Huandacareo,16036,16
+22608,Huetamo,16038,16
+22610,Indoparapeo,16040,16
+22612,Irimbo,16041,16
+22613,Ixtl-n,16042,16
+22614,Jacona,16043,16
+22616,Jiquilpan,16045,16
+22617,Jos- Sixto Verduzco,16113,16
+22618,Ju-rez,16046,16
+22619,Jungapeo,16047,16
+22620,La Huacana,16035,16
+22621,La Piedad,16069,16
+22624,L-zaro C-rdenas,16052,16
+22625,Los Reyes,16075,16
+22627,Maravat-o,16050,16
+22628,Marcos Castellanos,16051,16
+22629,Morelia,16053,16
+22631,M-gica,16055,16
+22632,Nahuatzen,16056,16
+22635,Nuevo Paranguricutiro,16058,16
+22637,Numar-n,16060,16
+22639,Pajacuar-n,16062,16
+22640,Panind-cuaro,16063,16
+22641,Paracho,16065,16
+22642,Par-cuaro,16064,16
+22643,P-tzcuaro,16066,16
+22645,Penjamillo,16067,16
+22646,Perib-n,16068,16
+22647,Pur-pero,16070,16
+22648,Puru-ndiro,16071,16
+22649,Quer-ndaro,16072,16
+22650,Quiroga,16073,16
+22651,Sahuayo,16076,16
+22652,Salvador Escalante,16079,16
+22653,San Lucas,16077,16
+22658,Tac-mbaro,16082,16
+22659,Tangamandapio,16084,16
+22660,Tanganc-cuaro,16085,16
+22661,Tanhuato,16086,16
+22662,Taretan,16087,16
+22663,Tar-mbaro,16088,16
+22664,Tepalcatepec,16089,16
+22665,Tingambato,16090,16
+22667,Tinguind-n,16091,16
+22669,Tlalpujahua,16093,16
+22673,Turicato,16097,16
+22674,Tuxpan,16098,16
+22675,Tuzantla,16099,16
+22563,Tzintzuntzan,16100,16
+22566,Uruapan,16102,16
+22567,Venustiano Carranza,16103,16
+22568,Villamar,16104,16
+22569,Vista Hermosa,16105,16
+22570,Yur-cuaro,16106,16
+22571,Zacapu,16107,16
+22572,Zamora,16108,16
+22575,Zinap-cuaro,16110,16
+22577,Ziracuaretiro,16111,16
+22579,Zit-cuaro,16112,16
+22678,Amacuzac,17001,17
+22689,Atlatlahucan,17002,17
+22700,Axochiapan,17003,17
+22704,Ayala,17004,17
+22705,Coatl-n del R-o,17005,17
+22706,Cuautla,17006,17
+22707,Cuernavaca,17007,17
+22709,Huitzilac,17009,17
+22679,Jiutepec,17011,17
+22680,Jojutla,17012,17
+22681,Jonacatepec,17013,17
+22682,Mazatepec,17014,17
+22683,Miacatl-n,17015,17
+22684,Ocuituco,17016,17
+22685,Puente de Ixtla,17017,17
+22686,Temixco,17018,17
+22687,Temoac,17033,17
+22688,Tepalcingo,17019,17
+22690,Tepoztl-n,17020,17
+22693,Tlalnepantla,17023,17
+22694,Tlaltizap-n,17025,17
+22696,Tlayacapan,17026,17
+22697,Totolapan,17027,17
+22698,Xochitepec,17028,17
+22699,Yautepec,17029,17
+22701,Yecapixtla,17030,17
+22712,Acaponeta,18001,18
+22723,Ahuacatl-n,18002,18
+22724,Amatl-n de Ca-as,18003,18
+22725,Compostela,18004,18
+22729,Jala,18007,18
+22713,Rosamorada,18010,18
+22715,San Blas,18012,18
+22717,Santa Mar-a del Oro,18014,18
+22718,Santiago Ixcuintla,18015,18
+22719,Tecuala,18016,18
+22720,Tepic,18017,18
+22721,Tuxpan,18018,18
+22733,Abasolo,19001,19
+22755,Allende,19004,19
+22766,An-huac,19005,19
+22777,Apodaca,19006,19
+22778,Aramberri,19007,19
+22780,Cadereyta Jim-nez,19009,19
+22781,Carmen,19010,19
+22732,Cerralvo,19011,19
+22734,China,19013,19
+22735,Ci-nega de Flores,19012,19
+22736,Doctor Arroyo,19014,19
+22739,Galeana,19017,19
+22740,Garc-a,19018,19
+22741,General Bravo,19020,19
+22742,General Escobedo,19021,19
+22743,General Ter-n,19022,19
+22747,General Zuazua,19025,19
+22748,Guadalupe,19026,19
+22749,Hidalgo,19047,19
+22752,Ju-rez,19031,19
+22754,Linares,19033,19
+22759,Mar-n,19034,19
+22763,Montemorelos,19038,19
+22764,Monterrey,19039,19
+22767,Pesquer-a,19041,19
+22769,Sabinas Hidalgo,19044,19
+22770,Salinas Victoria,19045,19
+22771,San Nicol-s de los Garza,19046,19
+22772,San Pedro Garza Garc-a,19019,19
+22773,Santa Catarina,19048,19
+22774,Santiago,19049,19
+22783,Choapam,20001,20
+22805,Cuicatlan,20003,20
+22806,Del Centro,20004,20
+22807,Ejutla,20005,20
+22808,Etla,20006,20
+22809,Huajuapam,20007,20
+22810,Ixtlan,20008,20
+22811,Jamiltepec,20009,20
+22782,Juchitan,20010,20
+22784,Juquila,20011,20
+22785,Juxtlahuaca,20012,20
+22786,Miahuatlan,20013,20
+22787,Mixe,20014,20
+22788,Nochixtlan,20015,20
+22789,Ocotlan,20016,20
+22790,Pochutla,20017,20
+22791,Putla,20018,20
+22792,Silacayoapam,20019,20
+22793,Sola de Vega,20020,20
+22795,Tehuantepec,20021,20
+22796,Teotitlan,20022,20
+22797,Teposcolula,20023,20
+22798,Tlacolula,20024,20
+22799,Tlaxiaco,20025,20
+22800,Tuxtepec,20026,20
+22801,Villa Alta,20027,20
+22802,Yautepec,20028,20
+22804,Zimatlan,20030,20
+23016,Ahuehuetitla,21009,21
+22870,Amozoc,21015,21
+22892,Atempan,21017,21
+22903,Atexcal,21018,21
+22914,Atlixco,21019,21
+22925,Atoyatempan,21020,21
+22937,Atzala,21021,21
+22941,Atzitzihuac-n,21022,21
+22944,Calpan,21026,21
+22947,Ca-ada Morelos,21099,21
+22952,Chiautla,21047,21
+22953,Chiautzingo,21048,21
+22956,Chietla,21051,21
+22958,Chignahuapan,21053,21
+22959,Chignautla,21054,21
+22963,Chilchotla,21058,21
+22969,Coronango,21034,21
+22976,Cuautinch-n,21040,21
+22977,Cuautlancingo,21041,21
+22981,Domingo Arenas,21060,21
+22989,Guadalupe Victoria,21067,21
+22995,Huauchinango,21071,21
+22997,Huehuetl-n el Chico,21073,21
+22999,Huejotzingo,21074,21
+23001,Hueytamalco,21076,21
+23009,Ixtacamaxtitl-n,21083,21
+23015,Juan C. Bonilla,21090,21
+23018,Juan N. M-ndez,21092,21
+23023,Mixtla,21097,21
+23025,Naupan,21100,21
+22815,Nealtican,21102,21
+22817,Nopalucan,21104,21
+22819,Ocoyucan,21106,21
+22823,Palmar de Bravo,21110,21
+22825,Pantepec,21111,21
+22829,Puebla,21114,21
+22830,Quecholac,21115,21
+22833,San Andr-s Cholula,21119,21
+22836,San Felipe Teotlalcingo,21122,21
+22839,San Gabriel Chilac,21124,21
+22840,San Gregorio Atzompa,21125,21
+22841,San Jer-nimo Tecuanipan,21126,21
+22843,San Jos- Chiapa,21128,21
+22844,San Jos- Miahuatl-n,21129,21
+22847,San Mart-n Texmelucan,21132,21
+22852,San Miguel Xoxtla,21136,21
+22854,San Nicol-s de los Ranchos,21138,21
+22856,San Pedro Cholula,21140,21
+22860,San Salvador el Verde,21143,21
+22864,Santa In-s Ahuatempan,21147,21
+22865,Santa Isabel Cholula,21148,21
+22868,Soltepec,21152,21
+22869,Tecali de Herrera,21153,21
+22871,Tecamachalco,21154,21
+22873,Tehuac-n,21156,21
+22874,Tehuitzingo,21157,21
+22877,Teotlalco,21160,21
+22882,Tepeaca,21164,21
+22888,Tepeyahualco,21170,21
+22889,Tepeyahualco de Cuauht-moc,21171,21
+22890,Tetela de Ocampo,21172,21
+22894,Tianguismanalco,21175,21
+22895,Tilapa,21176,21
+22897,Tlacotepec de Benito Ju-rez,21177,21
+22899,Tlahuapan,21180,21
+22900,Tlaltenango,21181,21
+22906,Tlatlauquitepec,21186,21
+22908,Tochimilco,21188,21
+22909,Tochtepec,21189,21
+22912,Tzicatlacoyan,21193,21
+22913,Venustiano Carranza,21194,21
+22918,Xicotepec,21197,21
+22921,Xochiapulco,21200,21
+22924,Xochitl-n Todos Santos,21203,21
+22927,Yehualtepec,21205,21
+22928,Zacapala,21206,21
+22929,Zacapoaxtla,21207,21
+22930,Zacatl-n,21208,21
+22931,Zapotitl-n,21209,21
+22933,Zaragoza,21211,21
+22934,Zautla,21212,21
+22939,Zoquiapan,21216,21
+23028,Amealco de Bonfin,22001,22
+23037,Arroyo Seco,22003,22
+23038,Cadereyta de Montes,22004,22
+23039,Col-n,22005,22
+23040,Corregidora,22006,22
+23041,El Marqu-s,22011,22
+23042,Ezequiel Montes,22007,22
+23043,Huimilpan,22008,22
+23044,Jalpan de Serra,22009,22
+23027,Landa de Matamoros,22010,22
+23029,Pedro Escobedo,22012,22
+23030,Pe-amiller,22013,22
+23032,Quer-taro,22014,22
+23034,San Juan del R-o,22016,22
+23035,Tequisquiapan,22017,22
+23036,Tolim-n,22018,22
+23046,Benito Ju-rez,23005,23
+23047,Cozumel,23001,23
+23049,Felipe Carrillo Puerto,23002,23
+23050,Isla Mujeres,23003,23
+23051,Jos- Mar-a Morelos,23006,23
+23052,L-zaro C-rdenas,23007,23
+23053,Oth-n P. Blanco,23004,23
+23054,Puerto Morelos,23011,23
+23100,Axtla de Terrazas,24053,24
+23108,C-rdenas,24005,24
+23110,Cedral,24007,24
+23111,Cerritos,24008,24
+23055,Cerro de San Pedro,24009,24
+23057,Charcas,24015,24
+23058,Ciudad del Ma-z,24010,24
+23059,Ciudad Fern-ndez,24011,24
+23060,Ciudad Valles,24013,24
+23062,Ebano,24016,24
+23063,Guadalcazar,24017,24
+23066,Matehuala,24020,24
+23068,Mexquitic de Carmona,24021,24
+23069,Moctezuma,24022,24
+23071,Ray-n,24023,24
+23072,Rioverde,24024,24
+23073,Salinas,24025,24
+23076,San Luis Potos-,24028,24
+23082,Santa Mar-a del R-o,24032,24
+23084,Soledad de Graciano S-nchez,24035,24
+23085,Tamasopo,24036,24
+23086,Tamazunchale,24037,24
+23090,Tamu-n,24040,24
+23093,Tanqui-n de Escobedo,24042,24
+23097,Villa de Arista,24056,24
+23098,Villa de Arriaga,24046,24
+23101,Villa de la Paz,24048,24
+23102,Villa de Ramos,24049,24
+23103,Villa de Reyes,24050,24
+23104,Villa Hidalgo,24051,24
+23106,Xilitla,24054,24
+23107,Zaragoza,24055,24
+23113,Ahome,25001,25
+23123,Angostura,25002,25
+23124,Badiraguato,25003,25
+23126,Choix,25007,25
+23127,Concordia,25004,25
+23128,Cosal-,25005,25
+23129,Culiac-n,25006,25
+23130,El Fuerte,25010,25
+23112,El Rosario,25014,25
+23114,Elota,25008,25
+23115,Escuinapa,25009,25
+23116,Guasave,25011,25
+23118,Mazatl-n,25012,25
+23119,Mocorito,25013,25
+23120,Salvador Alvarado,25015,25
+23121,San Ignacio,25016,25
+23122,Sinaloa,25017,25
+23143,Agua Prieta,26002,26
+23154,-lamos,26003,26
+23165,Altar,26004,26
+23133,B-cum,26012,26
+23137,Benjam-n Hill,26016,26
+23138,Caborca,26017,26
+23139,Cajeme,26018,26
+23140,Cananea,26019,26
+23144,Cumpas,26023,26
+23147,Etchojoa,26026,26
+23148,Fronteras,26027,26
+23150,Guaymas,26029,26
+23151,Hermosillo,26030,26
+23155,Huatabampo,26033,26
+23157,Imuris,26035,26
+23160,Magdalena,26036,26
+23166,Nacozari de Garc-a,26041,26
+23167,Navojoa,26042,26
+23168,Nogales,26043,26
+23172,Pitiquito,26047,26
+23173,Puerto Pe-asco,26048,26
+23181,San Luis R-o Colorado,26055,26
+23182,San Miguel de Horcasitas,26056,26
+23184,Santa Ana,26058,26
+23193,Ures,26066,26
+23201,Balanc-n,27001,27
+23210,C-rdenas,27002,27
+23212,Centla,27003,27
+23213,Centro,27004,27
+23214,Comalcalco,27005,27
+23215,Cunduac-n,27006,27
+23216,Emiliano Zapata,27007,27
+23217,Huimanguillo,27008,27
+23200,Jalapa,27009,27
+23202,Jalpa de M-ndez,27010,27
+23203,Jonuta,27011,27
+23204,Macuspana,27012,27
+23205,Nacajuca,27013,27
+23206,Para-so,27014,27
+23207,Tacotalpa,27015,27
+23208,Teapa,27016,27
+23209,Tenosique,27017,27
+23219,Abasolo,28001,28
+23230,Aldama,28002,28
+23241,Altamira,28003,28
+23258,Camargo,28007,28
+23260,Ciudad Madero,28009,28
+23220,El Mante,28021,28
+23222,Gonz-lez,28012,28
+23223,G--mez,28013,28
+23225,Gustavo D-az Ord-z,28015,28
+23226,Hidalgo,28016,28
+23227,Jaumave,28017,28
+23229,Llera,28019,28
+23232,Matamoros,28022,28
+23235,Miguel Alem-n,28025,28
+23237,Nuevo Laredo,28027,28
+23239,Ocampo,28029,28
+23240,Padilla,28030,28
+23243,Reynosa,28032,28
+23244,R-o Bravo,28033,28
+23246,San Fernando,28035,28
+23248,Soto La Marina,28037,28
+23249,Tampico,28038,28
+23250,Tula,28039,28
+23251,Valle Hermoso,28040,28
+23253,Victoria,28041,28
+23255,Xicot-ncatl,28043,28
+23273,Altzayanca,29004,29
+23295,Apetatitl-n de Antonio Carvajal,29002,29
+23302,Calpulalpan,29006,29
+23303,Chiautempan,29010,29
+23261,Cuapiaxtla,29008,29
+23266,Huamantla,29013,29
+23267,Hueyotlipan,29014,29
+23268,Ixtacuixtla de Mariano Matamoros,29015,29
+23271,Mu-oz de Domingo Arenas,29011,29
+23272,Nanacamilpa de Mariano Arista,29021,29
+23274,Nat-vitas,29023,29
+23275,Panotla,29024,29
+23278,Sanct-rum de L-zaro C-rdenas,29020,29
+23280,Tenancingo,29027,29
+23282,Tepetitla de Lardiz-bal,29019,29
+23283,Tepeyanco,29029,29
+23285,Terrenate,29030,29
+23287,Tetlatlahuca,29032,29
+23288,Tlaxcala,29033,29
+23289,Tlaxco,29034,29
+23291,Totolac,29036,29
+23292,Tzompantepec,29038,29
+23294,Xaltocan,29040,29
+23297,Yauhquemecan,29042,29
+23299,Zitlaltepec de Trinidad S-nchez Santos,29044,29
+23432,Acayucan,30003,30
+23443,Actopan,30004,30
+23465,Acultzingo,30006,30
+23487,Alto Lucero de Guti-rrez Barrios,30009,30
+23498,Altotonga,30010,30
+23306,Alvarado,30011,30
+23329,Amatitl-n de los Reyes,30012,30
+23340,Amatlan Tuxpan,30013,30
+23351,-ngel R. Cabada,30015,30
+23395,Atlahuilco,30020,30
+23417,Atzacan,30022,30
+23422,Atzalan,30023,30
+23426,Boca del R-o,30028,30
+23427,Calcahualco,30029,30
+23431,Castillo de Teayo,30157,30
+23433,Catemaco,30032,30
+23434,Cazones de Herrera,30033,30
+23437,Chalma,30055,30
+23440,Chicontepec,30058,30
+23441,Chinameca,30059,30
+23442,Chinampa de Gorostiza,30060,30
+23444,Chocom-n,30041,30
+23449,Coatepec,30038,30
+23450,Coatzacoalcos,30039,30
+23451,Coatzintla,30040,30
+23457,Cosamaloapan,30053,30
+23458,Cosautl-n de Carvajal,30046,30
+23459,Coscomatepec,30047,30
+23460,Cosoleacaque,30048,30
+23461,Cotaxtla,30049,30
+23463,Coyutla,30051,30
+23467,Emiliano Zapata,30065,30
+23468,Espinal,30066,30
+23470,Fort-n,30068,30
+23471,Guti-rrez Zamora,30069,30
+23472,Hidalgotitl-n,30070,30
+23473,Huatusco,30071,30
+23474,Huayacocotla,30072,30
+23475,Hueyapan de Ocampo,30073,30
+23478,Ignacio de la Llave,30075,30
+23480,Isla,30077,30
+23482,Ixhuac-n de los Reyes,30079,30
+23483,Ixhuatl-n de Madero,30083,30
+23485,Ixhuatl-n del Sureste,30082,30
+23486,Ixhuatlancillo,30081,30
+23489,Ixtaczoquitl-n,30085,30
+23490,Jalancingo,30086,30
+23493,Jamapa,30090,30
+23494,Jes-s Carranza,30091,30
+23496,Jos- Azueta,30169,30
+23497,Juan Rodr-guez Clara,30094,30
+23500,La Antigua,30016,30
+23503,Las Choapas,30061,30
+23506,Lerdo de Tejada,30097,30
+23308,Manlio Fabio Altamirano,30100,30
+23309,Mariano Escobedo,30101,30
+23310,Mart-nez de la Torre,30102,30
+23311,Mecatl-n,30103,30
+23313,Medell-n,30107,30
+23315,Minatitl-n,30108,30
+23317,Misantla,30109,30
+23320,Moloac-n,30111,30
+23324,Nogales,30115,30
+23325,Oluta,30116,30
+23326,Omealca,30117,30
+23330,Oteapan,30120,30
+23331,Ozuluama,30122,30
+23333,P-nuco,30123,30
+23334,Papantla,30124,30
+23335,Paso de Ovejas,30126,30
+23336,Paso del Macho,30125,30
+23337,Perote,30128,30
+23339,Playa Vicente,30130,30
+23341,Poza Rica de Hidalgo,30131,30
+23343,Pueblo Viejo,30133,30
+23344,Puente Nacional,30134,30
+23347,R-o Blanco,30138,30
+23350,San Andr-s Tuxtla,30141,30
+23353,Santiago Tuxtla,30143,30
+23354,Sayula de Alem-n,30144,30
+23356,Soconusco,30145,30
+23358,Soledad de Doblado,30148,30
+23361,Tamiahua,30151,30
+23363,Tampico Alto,30152,30
+23364,Tancoco,30153,30
+23365,Tantima,30154,30
+23366,Tantoyuca,30155,30
+23368,Tecolutla,30158,30
+23370,Temapache,30160,30
+23371,Tempoal,30161,30
+23378,Tepetzintla,30167,30
+23382,Texistepec,30172,30
+23383,Tezonapa,30173,30
+23385,Tierra Blanca,30174,30
+23386,Tihuatl-n,30175,30
+23389,Tlacotalpan,30178,30
+23392,Tlalixcoyan,30181,30
+23393,Tlalnelhuayocan,30182,30
+23394,Tlaltetela,30024,30
+23396,Tlapacoyan,30183,30
+23402,Tuxpan,30189,30
+23404,-rsulo Galv-n,30191,30
+23405,Vega de Alatorre,30192,30
+23407,Veracruz,30193,30
+23409,Xalapa,30087,30
+23410,Xico,30092,30
+23412,Yanga,30196,30
+23415,Zaragoza,30199,30
+23528,Acanceh,31002,31
+23572,Buctzotz,31006,31
+23523,Chemax,31019,31
+23525,Chicxulub Pueblo,31020,31
+23530,Conkal,31013,31
+23535,Dzidzant-n,31027,31
+23542,Halach-,31033,31
+23547,Hunucm-,31038,31
+23548,Ixil,31039,31
+23549,Izamal,31040,31
+23551,Kanas-n,31041,31
+23557,Man-,31047,31
+23558,Maxcan-,31048,31
+23560,M-rida,31050,31
+23563,Motul,31052,31
+23564,Muna,31053,31
+23569,Peto,31058,31
+23570,Progreso,31059,31
+23579,Sey-,31067,31
+23589,Tecoh,31076,31
+23592,Tekax,31079,31
+23599,Temoz-n,31085,31
+23603,Ticul,31089,31
+23608,Tixkokob,31093,31
+23610,Tixp-hual,31095,31
+23611,Tizim-n,31096,31
+23511,Um-n,31101,31
+23512,Valladolid,31102,31
+23515,Yaxkukul,31105,31
+23617,Apozol,32001,32
+23661,Calera,32005,32
+23670,Concepci-n del Oro,32007,32
+23618,Fresnillo,32010,32
+23621,General Francisco R. Murgu-a,32014,32
+23623,General P-nfilo Natera,32016,32
+23624,Guadalupe,32017,32
+23626,Jalpa,32019,32
+23627,Jerez,32020,32
+23630,Juan Aldama,32022,32
+23632,Loreto,32024,32
+23633,Luis Moya,32025,32
+23634,Mazapil,32026,32
+23637,Miguel Auza,32029,32
+23643,Nochistl-n de Mej-a,32034,32
+23644,Noria de Angeles,32035,32
+23645,Ojocaliente,32036,32
+23646,P-nuco,32037,32
+23647,Pinos,32038,32
+23648,R-o Grande,32039,32
+23649,Sa-n Alto,32040,32
+23651,Sombrerete,32042,32
+23653,Tabasco,32044,32
+23655,Tepetongo,32046,32
+23657,Tlaltenango de S-nchez Rom-n,32048,32
+23659,Valpara-so,32049,32
+23660,Vetagrande,32050,32
+23662,Villa de Cos,32051,32
+23663,Villa Garc-a,32052,32
+23664,Villa Gonz-lez Ortega,32053,32
+23665,Villa Hidalgo,32054,32
+23666,Villanueva,32055,32
+23667,Zacatecas,32056,32

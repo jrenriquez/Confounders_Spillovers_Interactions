@@ -1,0 +1,163 @@
+graph,coef,lb95,ub95,ene,avg,iden1,iden2,iden3,order
+lasso inflow alcohol,8.98000000000e-06,-.0614671,.0614851,83452,.7758597,covid_1_pc,alcohol,m4,1
+lasso inflow businesses,-.0357883,-.1429774,.0714009,83452,.7758597,covid_1_pc,businesses,m4,2
+lasso inflow checkpoints,.0610626,-.0515405,.1736657,83452,.7758597,covid_1_pc,checkpoints,m4,3
+lasso inflow curfew,.0724216,.0242417,.1206014,83452,.7758597,covid_1_pc,curfew,m4,4
+lasso inflow events,-.0358681,-.1589028,.0871667,83452,.7758597,covid_1_pc,events,m4,5
+lasso inflow fines,.0008296,-.0532848,.054944,83452,.7758597,covid_1_pc,fines,m4,6
+lasso inflow masks,-.0039681,-.1511031,.1431669,83452,.7758597,covid_1_pc,masks,m4,7
+lasso inflow mobility,.0856142,-.0358897,.207118,83452,.7758597,covid_1_pc,mobility,m4,8
+lasso inflow public places,.0112842,-.0648639,.0874323,83452,.7758597,covid_1_pc,public places,m4,9
+lasso local alcohol,.075458,-.0384921,.1894081,83452,.7758597,covid_1_pc,alcohol,m4,1
+lasso local businesses,.0527607,-.089636,.1951574,83452,.7758597,covid_1_pc,businesses,m4,2
+lasso local checkpoints,-.0637704,-.1500544,.0225136,83452,.7758597,covid_1_pc,checkpoints,m4,3
+lasso local curfew,-.068421,-.174461,.0376189,83452,.7758597,covid_1_pc,curfew,m4,4
+lasso local events,1.212578,-1.132289,3.557444,83452,.7758597,covid_1_pc,events,m4,5
+lasso local fines,.0301578,-.0437443,.1040599,83452,.7758597,covid_1_pc,fines,m4,6
+lasso local masks,.0800871,-.010879,.1710532,83452,.7758597,covid_1_pc,masks,m4,7
+lasso local mobility,-.0578873,-.1348624,.0190879,83452,.7758597,covid_1_pc,mobility,m4,8
+lasso local public places,-.1148691,-.2632662,.0335281,83452,.7758597,covid_1_pc,public places,m4,9
+lasso inflow alcohol,.0183069,-.0036151,.040229,83452,.083758,deaths_pc,alcohol,m4,1
+lasso inflow businesses,-.0159443,-.0504539,.0185652,83452,.083758,deaths_pc,businesses,m4,2
+lasso inflow checkpoints,.0189204,-.0024932,.040334,83452,.083758,deaths_pc,checkpoints,m4,3
+lasso inflow curfew,-.0009797,-.0086566,.0066972,83452,.083758,deaths_pc,curfew,m4,4
+lasso inflow events,-.02795,-.072537,.0166371,83452,.083758,deaths_pc,events,m4,5
+lasso inflow fines,-.0045852,-.0134899,.0043195,83452,.083758,deaths_pc,fines,m4,6
+lasso inflow masks,.0022393,-.0179161,.0223947,83452,.083758,deaths_pc,masks,m4,7
+lasso inflow mobility,.0158912,.0003701,.0314124,83452,.083758,deaths_pc,mobility,m4,8
+lasso inflow public places,.0186783,-.0186387,.0559952,83452,.083758,deaths_pc,public places,m4,9
+lasso local alcohol,.0083037,-.0160219,.0326292,83452,.083758,deaths_pc,alcohol,m4,1
+lasso local businesses,-.0002659,-.0172421,.0167102,83452,.083758,deaths_pc,businesses,m4,2
+lasso local checkpoints,.006738,-.0086589,.0221349,83452,.083758,deaths_pc,checkpoints,m4,3
+lasso local curfew,.0065128,-.0051918,.0182174,83452,.083758,deaths_pc,curfew,m4,4
+lasso local events,.0100637,-.0515989,.0717263,83452,.083758,deaths_pc,events,m4,5
+lasso local fines,-.0123183,-.0262036,.0015669,83452,.083758,deaths_pc,fines,m4,6
+lasso local masks,-.0025627,-.0168986,.0117731,83452,.083758,deaths_pc,masks,m4,7
+lasso local mobility,-.0057897,-.0220638,.0104844,83452,.083758,deaths_pc,mobility,m4,8
+lasso local public places,-.0104855,-.0280551,.0070841,83452,.083758,deaths_pc,public places,m4,9
+lasso inflow alcohol,.0019901,-.0010678,.005048,45158,-.275883,mr1,alcohol,m4,1
+lasso inflow businesses,.0023092,-.0056585,.0102768,45158,-.275883,mr1,businesses,m4,2
+lasso inflow checkpoints,-.0006684,-.0055548,.0042179,45158,-.275883,mr1,checkpoints,m4,3
+lasso inflow curfew,-.0003997,-.001952,.0011525,45158,-.275883,mr1,curfew,m4,4
+lasso inflow events,-.0006506,-.0092079,.0079068,45158,-.275883,mr1,events,m4,5
+lasso inflow fines,.0043634,.0015564,.0071704,45158,-.275883,mr1,fines,m4,6
+lasso inflow masks,-.0024813,-.0066837,.001721,45158,-.275883,mr1,masks,m4,7
+lasso inflow mobility,-.0058921,-.0092366,-.0025477,45158,-.275883,mr1,mobility,m4,8
+lasso inflow public places,-.0001068,-.0053749,.0051612,45158,-.275883,mr1,public places,m4,9
+lasso local alcohol,-.0031839,-.0062293,-.0001384,45158,-.275883,mr1,alcohol,m4,1
+lasso local businesses,.0027503,-.0033579,.0088584,45158,-.275883,mr1,businesses,m4,2
+lasso local checkpoints,-.0034081,-.0069887,.0001725,45158,-.275883,mr1,checkpoints,m4,3
+lasso local curfew,-.0037965,-.005824,-.001769,45158,-.275883,mr1,curfew,m4,4
+lasso local events,.0117904,-.0221697,.0457505,45158,-.275883,mr1,events,m4,5
+lasso local fines,.0055247,.0025811,.0084683,45158,-.275883,mr1,fines,m4,6
+lasso local masks,.0065055,.0038098,.0092012,45158,-.275883,mr1,masks,m4,7
+lasso local mobility,-.0052298,-.0079963,-.0024632,45158,-.275883,mr1,mobility,m4,8
+lasso local public places,-.0020419,-.007754,.0036702,45158,-.275883,mr1,public places,m4,9
+lasso inflow alcohol,-.0026628,-.004345,-.0009806,45158,.2747821,mr2,alcohol,m4,1
+lasso inflow businesses,-.0023541,-.0056063,.0008981,45158,.2747821,mr2,businesses,m4,2
+lasso inflow checkpoints,-.0003224,-.0025733,.0019284,45158,.2747821,mr2,checkpoints,m4,3
+lasso inflow curfew,.0001814,-.0005713,.0009341,45158,.2747821,mr2,curfew,m4,4
+lasso inflow events,.0026493,-.0009987,.0062973,45158,.2747821,mr2,events,m4,5
+lasso inflow fines,-.0023168,-.0034135,-.0012202,45158,.2747821,mr2,fines,m4,6
+lasso inflow masks,.0023029,.0005044,.0041014,45158,.2747821,mr2,masks,m4,7
+lasso inflow mobility,.0023846,.0006101,.0041592,45158,.2747821,mr2,mobility,m4,8
+lasso inflow public places,-.0019967,-.004178,.0001846,45158,.2747821,mr2,public places,m4,9
+lasso local alcohol,.002884,.0012601,.0045079,45158,.2747821,mr2,alcohol,m4,1
+lasso local businesses,-.0030746,-.0058766,-.0002726,45158,.2747821,mr2,businesses,m4,2
+lasso local checkpoints,.0020288,.0002333,.0038243,45158,.2747821,mr2,checkpoints,m4,3
+lasso local curfew,.0019032,.0004562,.0033502,45158,.2747821,mr2,curfew,m4,4
+lasso local events,-.0171249,-.02729,-.0069598,45158,.2747821,mr2,events,m4,5
+lasso local fines,-.0025256,-.0040427,-.0010085,45158,.2747821,mr2,fines,m4,6
+lasso local masks,-.003605,-.0050287,-.0021814,45158,.2747821,mr2,masks,m4,7
+lasso local mobility,.003628,.002057,.0051989,45158,.2747821,mr2,mobility,m4,8
+lasso local public places,.0007699,-.001278,.0028179,45158,.2747821,mr2,public places,m4,9
+lasso inflow alcohol,.0024537,-.0644373,.0693447,83443,.7759433999999999,covid_1_pc,alcohol,m4_lags,1
+lasso inflow businesses,-.0184319,-.1402473,.1033835,83443,.7759433999999999,covid_1_pc,businesses,m4_lags,2
+lasso inflow checkpoints,.0699908,-.0455124,.185494,83443,.7759433999999999,covid_1_pc,checkpoints,m4_lags,3
+lasso inflow curfew,.0753423,.0262998,.1243848,83443,.7759433999999999,covid_1_pc,curfew,m4_lags,4
+lasso inflow events,-.0568655,-.2281426,.1144116,83443,.7759433999999999,covid_1_pc,events,m4_lags,5
+lasso inflow fines,.0020769,-.0508526,.0550063,83443,.7759433999999999,covid_1_pc,fines,m4_lags,6
+lasso inflow masks,-.0091807,-.1916291,.1732677,83443,.7759433999999999,covid_1_pc,masks,m4_lags,7
+lasso inflow mobility,.1021619,.0171481,.1871758,83443,.7759433999999999,covid_1_pc,mobility,m4_lags,8
+lasso inflow public places,.0024708,-.0685812,.0735229,83443,.7759433999999999,covid_1_pc,public places,m4_lags,9
+lasso local alcohol,.1373889,.0164801,.2582977,83443,.7759433999999999,covid_1_pc,alcohol,m4_lags,1
+lasso local businesses,.0779662,-.0674142,.2233466,83443,.7759433999999999,covid_1_pc,businesses,m4_lags,2
+lasso local checkpoints,-.0716353,-.1576262,.0143556,83443,.7759433999999999,covid_1_pc,checkpoints,m4_lags,3
+lasso local curfew,-.0684473,-.1755965,.0387019,83443,.7759433999999999,covid_1_pc,curfew,m4_lags,4
+lasso local events,1.944396,-1.887099,5.775892,83443,.7759433999999999,covid_1_pc,events,m4_lags,5
+lasso local fines,.0202648,-.0551915,.0957211,83443,.7759433999999999,covid_1_pc,fines,m4_lags,6
+lasso local masks,.0860447,-.0141027,.186192,83443,.7759433999999999,covid_1_pc,masks,m4_lags,7
+lasso local mobility,-.0726226,-.1478011,.0025559,83443,.7759433999999999,covid_1_pc,mobility,m4_lags,8
+lasso local public places,-.0636848,-.2236594,.0962898,83443,.7759433999999999,covid_1_pc,public places,m4_lags,9
+lasso inflow alcohol,.0210247,-.0032715,.0453208,83443,.083767,deaths_pc,alcohol,m4_lags,1
+lasso inflow businesses,-.0151157,-.0532543,.0230228,83443,.083767,deaths_pc,businesses,m4_lags,2
+lasso inflow checkpoints,.0217164,.0018444,.0415885,83443,.083767,deaths_pc,checkpoints,m4_lags,3
+lasso inflow curfew,-.0013845,-.0089805,.0062115,83443,.083767,deaths_pc,curfew,m4_lags,4
+lasso inflow events,-.0366106,-.077494,.0042728,83443,.083767,deaths_pc,events,m4_lags,5
+lasso inflow fines,-.0035534,-.0123849,.0052781,83443,.083767,deaths_pc,fines,m4_lags,6
+lasso inflow masks,.0009062,-.0197169,.0215293,83443,.083767,deaths_pc,masks,m4_lags,7
+lasso inflow mobility,.0143587,-.0018826,.0306,83443,.083767,deaths_pc,mobility,m4_lags,8
+lasso inflow public places,.0203103,-.0153221,.0559426,83443,.083767,deaths_pc,public places,m4_lags,9
+lasso local alcohol,.0051014,-.0183865,.0285893,83443,.083767,deaths_pc,alcohol,m4_lags,1
+lasso local businesses,-.0019189,-.0190726,.0152349,83443,.083767,deaths_pc,businesses,m4_lags,2
+lasso local checkpoints,.0062017,-.0085489,.0209523,83443,.083767,deaths_pc,checkpoints,m4_lags,3
+lasso local curfew,.0067612,-.0050148,.0185372,83443,.083767,deaths_pc,curfew,m4_lags,4
+lasso local events,.0193949,-.0739567,.1127466,83443,.083767,deaths_pc,events,m4_lags,5
+lasso local fines,-.0111413,-.0253208,.0030382,83443,.083767,deaths_pc,fines,m4_lags,6
+lasso local masks,-.0037258,-.0189792,.0115276,83443,.083767,deaths_pc,masks,m4_lags,7
+lasso local mobility,-.0037302,-.0204659,.0130055,83443,.083767,deaths_pc,mobility,m4_lags,8
+lasso local public places,-.0087705,-.0302399,.012699,83443,.083767,deaths_pc,public places,m4_lags,9
+lasso inflow alcohol,-.037869,-.1141796,.0384417,83383,.9715952,covid_1_pc,alcohol,m4_lags_14,1
+lasso inflow businesses,.0337989,-.1017982,.169396,83383,.9715952,covid_1_pc,businesses,m4_lags_14,2
+lasso inflow checkpoints,.0766299,-.0534731,.2067329,83383,.9715952,covid_1_pc,checkpoints,m4_lags_14,3
+lasso inflow curfew,.1122907,.0393238,.1852576,83383,.9715952,covid_1_pc,curfew,m4_lags_14,4
+lasso inflow events,-.0856311,-.2735266,.1022645,83383,.9715952,covid_1_pc,events,m4_lags_14,5
+lasso inflow fines,.0355993,-.0426489,.1138476,83383,.9715952,covid_1_pc,fines,m4_lags_14,6
+lasso inflow masks,-.1063648,-.2852658,.0725363,83383,.9715952,covid_1_pc,masks,m4_lags_14,7
+lasso inflow mobility,.1243232,.0242979,.2243485,83383,.9715952,covid_1_pc,mobility,m4_lags_14,8
+lasso inflow public places,.027554,-.0432617,.0983697,83383,.9715952,covid_1_pc,public places,m4_lags_14,9
+lasso local alcohol,.1916326,.0623323,.3209328,83383,.9715952,covid_1_pc,alcohol,m4_lags_14,1
+lasso local businesses,.1185623,-.0480656,.2851902,83383,.9715952,covid_1_pc,businesses,m4_lags_14,2
+lasso local checkpoints,-.1135275,-.2096311,-.0174239,83383,.9715952,covid_1_pc,checkpoints,m4_lags_14,3
+lasso local curfew,-.0784715,-.2150497,.0581067,83383,.9715952,covid_1_pc,curfew,m4_lags_14,4
+lasso local events,1.838338,-2.102645,5.779321,83383,.9715952,covid_1_pc,events,m4_lags_14,5
+lasso local fines,.0919182,.0022386,.1815978,83383,.9715952,covid_1_pc,fines,m4_lags_14,6
+lasso local masks,.1075445,-.0108887,.2259778,83383,.9715952,covid_1_pc,masks,m4_lags_14,7
+lasso local mobility,-.1070129,-.1944665,-.0195593,83383,.9715952,covid_1_pc,mobility,m4_lags_14,8
+lasso local public places,-.0221661,-.2046611,.160329,83383,.9715952,covid_1_pc,public places,m4_lags_14,9
+lasso inflow alcohol,.0080473,-.0201397,.0362342,83383,.1035153,deaths_pc,alcohol,m4_lags_14,1
+lasso inflow businesses,-.0019218,-.0377619,.0339184,83383,.1035153,deaths_pc,businesses,m4_lags_14,2
+lasso inflow checkpoints,.0231745,.0026588,.0436903,83383,.1035153,deaths_pc,checkpoints,m4_lags_14,3
+lasso inflow curfew,.003891,-.0058976,.0136796,83383,.1035153,deaths_pc,curfew,m4_lags_14,4
+lasso inflow events,-.0401738,-.0822778,.0019302,83383,.1035153,deaths_pc,events,m4_lags_14,5
+lasso inflow fines,.0036606,-.0066734,.0139945,83383,.1035153,deaths_pc,fines,m4_lags_14,6
+lasso inflow masks,-.0197086,-.0432475,.0038302,83383,.1035153,deaths_pc,masks,m4_lags_14,7
+lasso inflow mobility,.0128948,-.0055106,.0313002,83383,.1035153,deaths_pc,mobility,m4_lags_14,8
+lasso inflow public places,.0160779,-.0208893,.0530452,83383,.1035153,deaths_pc,public places,m4_lags_14,9
+lasso local alcohol,.0041001,-.0203739,.028574,83383,.1035153,deaths_pc,alcohol,m4_lags_14,1
+lasso local businesses,.0054974,-.0128463,.0238411,83383,.1035153,deaths_pc,businesses,m4_lags_14,2
+lasso local checkpoints,.0016922,-.0129265,.0163108,83383,.1035153,deaths_pc,checkpoints,m4_lags_14,3
+lasso local curfew,-.0243236,-.0460021,-.0026452,83383,.1035153,deaths_pc,curfew,m4_lags_14,4
+lasso local events,.0436409,-.0846682,.1719501,83383,.1035153,deaths_pc,events,m4_lags_14,5
+lasso local fines,-.0038116,-.0161936,.0085704,83383,.1035153,deaths_pc,fines,m4_lags_14,6
+lasso local masks,-.0081671,-.024632,.0082978,83383,.1035153,deaths_pc,masks,m4_lags_14,7
+lasso local mobility,-.0021563,-.0175712,.0132586,83383,.1035153,deaths_pc,mobility,m4_lags_14,8
+lasso local public places,-.0112343,-.0419997,.019531,83383,.1035153,deaths_pc,public places,m4_lags_14,9
+lasso inflow alcohol,-.0204916,-.1163466,.0753634,83327,1.19785,covid_1_pc,alcohol,m4_lags_21,1
+lasso inflow businesses,.1028743,-.1437299,.3494784,83327,1.19785,covid_1_pc,businesses,m4_lags_21,2
+lasso inflow checkpoints,.041181,-.1040785,.1864404,83327,1.19785,covid_1_pc,checkpoints,m4_lags_21,3
+lasso inflow curfew,.2003346,.0199897,.3806795,83327,1.19785,covid_1_pc,curfew,m4_lags_21,4
+lasso inflow events,-.0506344,-.2523942,.1511254,83327,1.19785,covid_1_pc,events,m4_lags_21,5
+lasso inflow fines,.0537486,-.0493266,.1568237,83327,1.19785,covid_1_pc,fines,m4_lags_21,6
+lasso inflow masks,-.097832,-.3114034,.1157395,83327,1.19785,covid_1_pc,masks,m4_lags_21,7
+lasso inflow mobility,.1674779,.0453189,.2896369,83327,1.19785,covid_1_pc,mobility,m4_lags_21,8
+lasso inflow public places,.0379451,-.0737885,.1496786,83327,1.19785,covid_1_pc,public places,m4_lags_21,9
+lasso local alcohol,.2207627,.0735561,.3679694,83327,1.19785,covid_1_pc,alcohol,m4_lags_21,1
+lasso local businesses,.1514597,-.0484959,.3514152,83327,1.19785,covid_1_pc,businesses,m4_lags_21,2
+lasso local checkpoints,-.1395464,-.2532504,-.0258424,83327,1.19785,covid_1_pc,checkpoints,m4_lags_21,3
+lasso local curfew,-.0450159,-.2249594,.1349277,83327,1.19785,covid_1_pc,curfew,m4_lags_21,4
+lasso local events,1.782388,-2.140081,5.704857,83327,1.19785,covid_1_pc,events,m4_lags_21,5
+lasso local fines,.1315746,.0250011,.2381481,83327,1.19785,covid_1_pc,fines,m4_lags_21,6
+lasso local masks,.1016184,-.0710102,.2742471,83327,1.19785,covid_1_pc,masks,m4_lags_21,7
+lasso local mobility,-.1379018,-.255122,-.0206816,83327,1.19785,covid_1_pc,mobility,m4_lags_21,8
+lasso local public places,.0496474,-.1853514,.2846462,83327,1.19785,covid_1_pc,public places,m4_lags_21,9

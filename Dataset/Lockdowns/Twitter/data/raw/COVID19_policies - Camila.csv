@@ -1,0 +1,1769 @@
+code_INEGI,nom_ent,nom_mun,type,date,end_date,source1,source2,source_type1,source_type2,nom_ent_upper,nom_mun_upper,missing
+1004,Aguascalientes,Cosío,,,,,,,,AGUASCALIENTES,COSIO,1
+1008,Aguascalientes,San José de Gracia,,,,,,,,AGUASCALIENTES,SAN JOSE DE GRACIA,1
+2006,Baja California,San Quintín,,,,,,,,BAJA CALIFORNIA,SAN QUINTIN,1
+3003,Baja California Sur,La Paz,,,,,,,,BAJA CALIFORNIA SUR,LA PAZ,1
+3008,Baja California Sur,Los Cabos,,,,,,,,BAJA CALIFORNIA SUR,LOS CABOS,1
+3009,Baja California Sur,Loreto,,,,,,,,BAJA CALIFORNIA SUR,LORETO,1
+4002,Campeche,Campeche,,,,,,,,CAMPECHE,CAMPECHE,1
+4003,Campeche,Carmen,,,,,,,,CAMPECHE,CARMEN,1
+4007,Campeche,Palizada,,,,,,,,CAMPECHE,PALIZADA,1
+4008,Campeche,Tenabo,,,,,,,,CAMPECHE,TENABO,1
+4010,Campeche,Calakmul,,,,,,,,CAMPECHE,CALAKMUL,1
+4012,Campeche,Seybaplaya,,,,,,,,CAMPECHE,SEYBAPLAYA,1
+4013,Campeche,Dzitbalché,,,,,,,,CAMPECHE,DZITBALCHE,1
+5001,Coahuila de Zaragoza,Abasolo,,,,,,,,COAHUILA,ABASOLO,1
+5005,Coahuila de Zaragoza,Candela,,,,,,,,COAHUILA,CANDELA,1
+5007,Coahuila de Zaragoza,Cuatro Ciénegas,,,,,,,,COAHUILA,CUATRO CIENEGAS,1
+5008,Coahuila de Zaragoza,Escobedo,,,,,,,,COAHUILA,ESCOBEDO,1
+5011,Coahuila de Zaragoza,General Cepeda,,,,,,,,COAHUILA,GENERAL CEPEDA,1
+5012,Coahuila de Zaragoza,Guerrero,,,,,,,,COAHUILA,GUERRERO,1
+5013,Coahuila de Zaragoza,Hidalgo,,,,,,,,COAHUILA,HIDALGO,1
+5014,Coahuila de Zaragoza,Jiménez,,,,,,,,COAHUILA,JIMENEZ,1
+5015,Coahuila de Zaragoza,Juárez,,,,,,,,COAHUILA,JUAREZ,1
+5016,Coahuila de Zaragoza,Lamadrid,,,,,,,,COAHUILA,LAMADRID,1
+5018,Coahuila de Zaragoza,Monclova,,,,,,,,COAHUILA,MONCLOVA,1
+5019,Coahuila de Zaragoza,Morelos,,,,,,,,COAHUILA,MORELOS,1
+5021,Coahuila de Zaragoza,Nadadores,,,,,,,,COAHUILA,NADADORES,1
+5023,Coahuila de Zaragoza,Ocampo,,,,,,,,COAHUILA,OCAMPO,1
+5026,Coahuila de Zaragoza,Progreso,,,,,,,,COAHUILA,PROGRESO,1
+5029,Coahuila de Zaragoza,Sacramento,,,,,,,,COAHUILA,SACRAMENTO,1
+5034,Coahuila de Zaragoza,Sierra Mojada,,,,,,,,COAHUILA,SIERRA MOJADA,1
+5037,Coahuila de Zaragoza,Villa Unión,,,,,,,,COAHUILA,VILLA UNION,1
+5038,Coahuila de Zaragoza,Zaragoza,,,,,,,,COAHUILA,ZARAGOZA,1
+6006,Colima,Ixtlahuacán,,,,,,,,COLIMA,IXTLAHUACAN,1
+6008,Colima,Minatitlán,,,,,,,,COLIMA,MINATITLAN,1
+7001,Chiapas,Acacoyagua,,,,,,,,CHIAPAS,ACACOYAGUA,1
+7004,Chiapas,Altamirano,,,,,,,,CHIAPAS,ALTAMIRANO,1
+7005,Chiapas,Amatán,,,,,,,,CHIAPAS,AMATAN,1
+7006,Chiapas,Amatenango de la Frontera,,,,,,,,CHIAPAS,AMATENANGO DE LA FRONTERA,1
+7007,Chiapas,Amatenango del Valle,,,,,,,,CHIAPAS,AMATENANGO DEL VALLE,1
+7008,Chiapas,Ángel Albino Corzo,,,,,,,,CHIAPAS,ANGEL ALBINO CORZO,1
+7010,Chiapas,Bejucal de Ocampo,,,,,,,,CHIAPAS,BEJUCAL DE OCAMPO,1
+7011,Chiapas,Bella Vista,,,,,,,,CHIAPAS,BELLA VISTA,1
+7014,Chiapas,El Bosque,,,,,,,,CHIAPAS,EL BOSQUE,1
+7016,Chiapas,Catazajá,,,,,,,,CHIAPAS,CATAZAJA,1
+7018,Chiapas,Coapilla,,,,,,,,CHIAPAS,COAPILLA,1
+7022,Chiapas,Chalchihuitán,,,,,,,,CHIAPAS,CHALCHIHUITAN,1
+7024,Chiapas,Chanal,,,,,,,,CHIAPAS,CHANAL,1
+7025,Chiapas,Chapultenango,,,,,,,,CHIAPAS,CHAPULTENANGO,1
+7026,Chiapas,Chenalhó,,,,,,,,CHIAPAS,CHENALHO,1
+7028,Chiapas,Chiapilla,,,,,,,,CHIAPAS,CHIAPILLA,1
+7029,Chiapas,Chicoasén,,,,,,,,CHIAPAS,CHICOASEN,1
+7032,Chiapas,Escuintla,,,,,,,,CHIAPAS,ESCUINTLA,1
+7033,Chiapas,Francisco León,,,,,,,,CHIAPAS,FRANCISCO LEON,1
+7035,Chiapas,Frontera Hidalgo,,,,,,,,CHIAPAS,FRONTERA HIDALGO,1
+7036,Chiapas,La Grandeza,,,,,,,,CHIAPAS,LA GRANDEZA,1
+7039,Chiapas,Huitiupán,,,,,,,,CHIAPAS,HUITIUPAN,1
+7042,Chiapas,Ixhuatán,,,,,,,,CHIAPAS,IXHUATAN,1
+7043,Chiapas,Ixtacomitán,,,,,,,,CHIAPAS,IXTACOMITAN,1
+7045,Chiapas,Ixtapangajoya,,,,,,,,CHIAPAS,IXTAPANGAJOYA,1
+7047,Chiapas,Jitotol,,,,,,,,CHIAPAS,JITOTOL,1
+7049,Chiapas,Larráinzar,,,,,,,,CHIAPAS,LARRAINZAR,1
+7050,Chiapas,La Libertad,,,,,,,,CHIAPAS,LA LIBERTAD,1
+7053,Chiapas,Mazapa de Madero,,,,,,,,CHIAPAS,MAZAPA DE MADERO,1
+7055,Chiapas,Metapa,,,,,,,,CHIAPAS,METAPA,1
+7056,Chiapas,Mitontic,,,,,,,,CHIAPAS,MITONTIC,1
+7058,Chiapas,Nicolás Ruíz,,,,,,,,CHIAPAS,NICOLAS RUIZ,1
+7059,Chiapas,Ocosingo,,,,,,,,CHIAPAS,OCOSINGO,1
+7060,Chiapas,Ocotepec,,,,,,,,CHIAPAS,OCOTEPEC,1
+7062,Chiapas,Ostuacán,,,,,,,,CHIAPAS,OSTUACAN,1
+7063,Chiapas,Osumacinta,,,,,,,,CHIAPAS,OSUMACINTA,1
+7064,Chiapas,Oxchuc,,,,,,,,CHIAPAS,OXCHUC,1
+7066,Chiapas,Pantelhó,,,,,,,,CHIAPAS,PANTELHO,1
+7067,Chiapas,Pantepec,,,,,,,,CHIAPAS,PANTEPEC,1
+7070,Chiapas,El Porvenir,,,,,,,,CHIAPAS,EL PORVENIR,1
+7072,Chiapas,Pueblo Nuevo Solistahuacán,,,,,,,,CHIAPAS,PUEBLO NUEVO SOLISTAHUACAN,1
+7073,Chiapas,Rayón,,,,,,,,CHIAPAS,RAYON,1
+7075,Chiapas,Las Rosas,,,,,,,,CHIAPAS,LAS ROSAS,1
+7076,Chiapas,Sabanilla,,,,,,,,CHIAPAS,SABANILLA,1
+7078,Chiapas,San Cristóbal de las Casas,,,,,,,,CHIAPAS,SAN CRISTOBAL DE LAS CASAS,1
+7081,Chiapas,Simojovel,,,,,,,,CHIAPAS,SIMOJOVEL,1
+7082,Chiapas,Sitalá,,,,,,,,CHIAPAS,SITALA,1
+7083,Chiapas,Socoltenango,,,,,,,,CHIAPAS,SOCOLTENANGO,1
+7084,Chiapas,Solosuchiapa,,,,,,,,CHIAPAS,SOLOSUCHIAPA,1
+7085,Chiapas,Soyaló,,,,,,,,CHIAPAS,SOYALO,1
+7087,Chiapas,Suchiate,,,,,,,,CHIAPAS,SUCHIATE,1
+7088,Chiapas,Sunuapa,,,,,,,,CHIAPAS,SUNUAPA,1
+7089,Chiapas,Tapachula,,,,,,,,CHIAPAS,TAPACHULA,1
+7090,Chiapas,Tapalapa,,,,,,,,CHIAPAS,TAPALAPA,1
+7091,Chiapas,Tapilula,,,,,,,,CHIAPAS,TAPILULA,1
+7092,Chiapas,Tecpatán,,,,,,,,CHIAPAS,TECPATAN,1
+7093,Chiapas,Tenejapa,,,,,,,,CHIAPAS,TENEJAPA,1
+7096,Chiapas,Tila,,,,,,,,CHIAPAS,TILA,1
+7098,Chiapas,Totolapa,,,,,,,,CHIAPAS,TOTOLAPA,1
+7100,Chiapas,Tumbalá,,,,,,,,CHIAPAS,TUMBALA,1
+7104,Chiapas,Tzimol,,,,,,,,CHIAPAS,TZIMOL,1
+7105,Chiapas,Unión Juárez,,,,,,,,CHIAPAS,UNION JUAREZ,1
+7109,Chiapas,Yajalón,,,,,,,,CHIAPAS,YAJALON,1
+7110,Chiapas,San Lucas,,,,,,,,CHIAPAS,SAN LUCAS,1
+7112,Chiapas,San Juan Cancuc,,,,,,,,CHIAPAS,SAN JUAN CANCUC,1
+7113,Chiapas,Aldama,,,,,,,,CHIAPAS,ALDAMA,1
+7114,Chiapas,Benemérito de las Américas,,,,,,,,CHIAPAS,BENEMERITO DE LAS AMERICAS,1
+7115,Chiapas,Maravilla Tenejapa,,,,,,,,CHIAPAS,MARAVILLA TENEJAPA,1
+7116,Chiapas,Marqués de Comillas,,,,,,,,CHIAPAS,MARQUES DE COMILLAS,1
+7117,Chiapas,Montecristo de Guerrero,,,,,,,,CHIAPAS,MONTECRISTO DE GUERRERO,1
+7118,Chiapas,San Andrés Duraznal,,,,,,,,CHIAPAS,SAN ANDRES DURAZNAL,1
+7119,Chiapas,Santiago el Pinar,,,,,,,,CHIAPAS,SANTIAGO EL PINAR,1
+7120,Chiapas,Capitán Luis Ángel Vidal,,,,,,,,CHIAPAS,CAPITAN LUIS ANGEL VIDAL,1
+7121,Chiapas,Rincón Chamula San Pedro,,,,,,,,CHIAPAS,RINCON CHAMULA SAN PEDRO,1
+7122,Chiapas,El Parral,,,,,,,,CHIAPAS,EL PARRAL,1
+7123,Chiapas,Emiliano Zapata,,,,,,,,CHIAPAS,EMILIANO ZAPATA,1
+7124,Chiapas,Mezcalapa,,,,,,,,CHIAPAS,MEZCALAPA,1
+7125,Chiapas,Honduras de la Sierra,,,,,,,,CHIAPAS,HONDURAS DE LA SIERRA,1
+8001,Chihuahua,Ahumada,,,,,,,,CHIHUAHUA,AHUMADA,1
+8003,Chihuahua,Allende,,,,,,,,CHIHUAHUA,ALLENDE,1
+8006,Chihuahua,Bachíniva,,,,,,,,CHIHUAHUA,BACHINIVA,1
+8007,Chihuahua,Balleza,,,,,,,,CHIHUAHUA,BALLEZA,1
+8008,Chihuahua,Batopilas de Manuel Gómez Morín,,,,,,,,CHIHUAHUA,BATOPILAS DE MANUEL GOMEZ MORIN,1
+8012,Chihuahua,Carichí,,,,,,,,CHIHUAHUA,CARICHI,1
+8013,Chihuahua,Casas Grandes,,,,,,,,CHIHUAHUA,CASAS GRANDES,1
+8014,Chihuahua,Coronado,,,,,,,,CHIHUAHUA,CORONADO,1
+8015,Chihuahua,Coyame del Sotol,,,,,,,,CHIHUAHUA,COYAME DEL SOTOL,1
+8016,Chihuahua,La Cruz,,,,,,,,CHIHUAHUA,LA CRUZ,1
+8018,Chihuahua,Cusihuiriachi,,,,,,,,CHIHUAHUA,CUSIHUIRIACHI,1
+8020,Chihuahua,Chínipas,,,,,,,,CHIHUAHUA,CHINIPAS,1
+8022,Chihuahua,Dr. Belisario Domínguez,,,,,,,,CHIHUAHUA,DR. BELISARIO DOMINGUEZ,1
+8023,Chihuahua,Galeana,,,,,,,,CHIHUAHUA,GALEANA,1
+8024,Chihuahua,Santa Isabel,,,,,,,,CHIHUAHUA,SANTA ISABEL,1
+8025,Chihuahua,Gómez Farías,,,,,,,,CHIHUAHUA,GOMEZ FARIAS,1
+8026,Chihuahua,Gran Morelos,,,,,,,,CHIHUAHUA,GRAN MORELOS,1
+8028,Chihuahua,Guadalupe,,,,,,,,CHIHUAHUA,GUADALUPE,1
+8029,Chihuahua,Guadalupe y Calvo,,,,,,,,CHIHUAHUA,GUADALUPE Y CALVO,1
+8030,Chihuahua,Guazapares,,,,,,,,CHIHUAHUA,GUAZAPARES,1
+8032,Chihuahua,Hidalgo del Parral,,,,,,,,CHIHUAHUA,HIDALGO DEL PARRAL,1
+8033,Chihuahua,Huejotitán,,,,,,,,CHIHUAHUA,HUEJOTITAN,1
+8034,Chihuahua,Ignacio Zaragoza,,,,,,,,CHIHUAHUA,IGNACIO ZARAGOZA,1
+8035,Chihuahua,Janos,,,,,,,,CHIHUAHUA,JANOS,1
+8037,Chihuahua,Juárez,,,,,,,,CHIHUAHUA,JUAREZ,1
+8038,Chihuahua,Julimes,,,,,,,,CHIHUAHUA,JULIMES,1
+8039,Chihuahua,López,,,,,,,,CHIHUAHUA,LOPEZ,1
+8041,Chihuahua,Maguarichi,,,,,,,,CHIHUAHUA,MAGUARICHI,1
+8042,Chihuahua,Manuel Benavides,,,,,,,,CHIHUAHUA,MANUEL BENAVIDES,1
+8043,Chihuahua,Matachí,,,,,,,,CHIHUAHUA,MATACHI,1
+8044,Chihuahua,Matamoros,,,,,,,,CHIHUAHUA,MATAMOROS,1
+8046,Chihuahua,Morelos,,,,,,,,CHIHUAHUA,MORELOS,1
+8047,Chihuahua,Moris,,,,,,,,CHIHUAHUA,MORIS,1
+8049,Chihuahua,Nonoava,,,,,,,,CHIHUAHUA,NONOAVA,1
+8051,Chihuahua,Ocampo,,,,,,,,CHIHUAHUA,OCAMPO,1
+8053,Chihuahua,Praxedis G. Guerrero,,,,,,,,CHIHUAHUA,PRAXEDIS G. GUERRERO,1
+8054,Chihuahua,Riva Palacio,,,,,,,,CHIHUAHUA,RIVA PALACIO,1
+8055,Chihuahua,Rosales,,,,,,,,CHIHUAHUA,ROSALES,1
+8056,Chihuahua,Rosario,,,,,,,,CHIHUAHUA,ROSARIO,1
+8057,Chihuahua,San Francisco de Borja,,,,,,,,CHIHUAHUA,SAN FRANCISCO DE BORJA,1
+8058,Chihuahua,San Francisco de Conchos,,,,,,,,CHIHUAHUA,SAN FRANCISCO DE CONCHOS,1
+8059,Chihuahua,San Francisco del Oro,,,,,,,,CHIHUAHUA,SAN FRANCISCO DEL ORO,1
+8060,Chihuahua,Santa Bárbara,,,,,,,,CHIHUAHUA,SANTA BARBARA,1
+8061,Chihuahua,Satevó,,,,,,,,CHIHUAHUA,SATEVO,1
+8063,Chihuahua,Temósachic,,,,,,,,CHIHUAHUA,TEMOSACHIC,1
+8064,Chihuahua,El Tule,,,,,,,,CHIHUAHUA,EL TULE,1
+8065,Chihuahua,Urique,,,,,,,,CHIHUAHUA,URIQUE,1
+8066,Chihuahua,Uruachi,,,,,,,,CHIHUAHUA,URUACHI,1
+8067,Chihuahua,Valle de Zaragoza,,,,,,,,CHIHUAHUA,VALLE DE ZARAGOZA,1
+9002,Ciudad de México,Azcapotzalco,,,,,,,,CIUDAD DE MEXICO,AZCAPOTZALCO,1
+9003,Ciudad de México,Coyoacán,,,,,,,,CIUDAD DE MEXICO,COYOACAN,1
+9004,Ciudad de México,Cuajimalpa de Morelos,,,,,,,,CIUDAD DE MEXICO,CUAJIMALPA DE MORELOS,1
+9005,Ciudad de México,Gustavo A. Madero,,,,,,,,CIUDAD DE MEXICO,GUSTAVO A. MADERO,1
+9006,Ciudad de México,Iztacalco,,,,,,,,CIUDAD DE MEXICO,IZTACALCO,1
+9007,Ciudad de México,Iztapalapa,,,,,,,,CIUDAD DE MEXICO,IZTAPALAPA,1
+9008,Ciudad de México,La Magdalena Contreras,,,,,,,,CIUDAD DE MEXICO,LA MAGDALENA CONTRERAS,1
+9009,Ciudad de México,Milpa Alta,,,,,,,,CIUDAD DE MEXICO,MILPA ALTA,1
+9010,Ciudad de México,Álvaro Obregón,,,,,,,,CIUDAD DE MEXICO,ALVARO OBREGON,1
+9011,Ciudad de México,Tláhuac,,,,,,,,CIUDAD DE MEXICO,TLAHUAC,1
+9012,Ciudad de México,Tlalpan,,,,,,,,CIUDAD DE MEXICO,TLALPAN,1
+9013,Ciudad de México,Xochimilco,,,,,,,,CIUDAD DE MEXICO,XOCHIMILCO,1
+9014,Ciudad de México,Benito Juárez,,,,,,,,CIUDAD DE MEXICO,BENITO JUAREZ,1
+9015,Ciudad de México,Cuauhtémoc,,,,,,,,CIUDAD DE MEXICO,CUAUHTEMOC,1
+9016,Ciudad de México,Miguel Hidalgo,,,,,,,,CIUDAD DE MEXICO,MIGUEL HIDALGO,1
+9017,Ciudad de México,Venustiano Carranza,,,,,,,,CIUDAD DE MEXICO,VENUSTIANO CARRANZA,1
+10001,Durango,Canatlán,,,,,,,,DURANGO,CANATLAN,1
+10002,Durango,Canelas,,,,,,,,DURANGO,CANELAS,1
+10003,Durango,Coneto de Comonfort,,,,,,,,DURANGO,CONETO DE COMONFORT,1
+10004,Durango,Cuencamé,,,,,,,,DURANGO,CUENCAME,1
+10005,Durango,Durango,,,,,,,,DURANGO,DURANGO,1
+10006,Durango,General Simón Bolívar,,,,,,,,DURANGO,GENERAL SIMON BOLIVAR,1
+10007,Durango,Gómez Palacio,,,,,,,,DURANGO,GOMEZ PALACIO,1
+10008,Durango,Guadalupe Victoria,,,,,,,,DURANGO,GUADALUPE VICTORIA,1
+10009,Durango,Guanaceví,,,,,,,,DURANGO,GUANACEVI,1
+10010,Durango,Hidalgo,,,,,,,,DURANGO,HIDALGO,1
+10011,Durango,Indé,,,,,,,,DURANGO,INDE,1
+10012,Durango,Lerdo,,,,,,,,DURANGO,LERDO,1
+10013,Durango,Mapimí,,,,,,,,DURANGO,MAPIMI,1
+10014,Durango,Mezquital,,,,,,,,DURANGO,MEZQUITAL,1
+10015,Durango,Nazas,,,,,,,,DURANGO,NAZAS,1
+10016,Durango,Nombre de Dios,,,,,,,,DURANGO,NOMBRE DE DIOS,1
+10017,Durango,Ocampo,,,,,,,,DURANGO,OCAMPO,1
+10018,Durango,El Oro,,,,,,,,DURANGO,EL ORO,1
+10019,Durango,Otáez,,,,,,,,DURANGO,OTAEZ,1
+10020,Durango,Pánuco de Coronado,,,,,,,,DURANGO,PANUCO DE CORONADO,1
+10021,Durango,Peñón Blanco,,,,,,,,DURANGO,PEÑON BLANCO,1
+10022,Durango,Poanas,,,,,,,,DURANGO,POANAS,1
+10023,Durango,Pueblo Nuevo,,,,,,,,DURANGO,PUEBLO NUEVO,1
+10024,Durango,Rodeo,,,,,,,,DURANGO,RODEO,1
+10025,Durango,San Bernardo,,,,,,,,DURANGO,SAN BERNARDO,1
+10026,Durango,San Dimas,,,,,,,,DURANGO,SAN DIMAS,1
+10027,Durango,San Juan de Guadalupe,,,,,,,,DURANGO,SAN JUAN DE GUADALUPE,1
+10028,Durango,San Juan del Río,,,,,,,,DURANGO,SAN JUAN DEL RIO,1
+10029,Durango,San Luis del Cordero,,,,,,,,DURANGO,SAN LUIS DEL CORDERO,1
+10030,Durango,San Pedro del Gallo,,,,,,,,DURANGO,SAN PEDRO DEL GALLO,1
+10031,Durango,Santa Clara,,,,,,,,DURANGO,SANTA CLARA,1
+10032,Durango,Santiago Papasquiaro,,,,,,,,DURANGO,SANTIAGO PAPASQUIARO,1
+10033,Durango,Súchil,,,,,,,,DURANGO,SUCHIL,1
+10034,Durango,Tamazula,,,,,,,,DURANGO,TAMAZULA,1
+10035,Durango,Tepehuanes,,,,,,,,DURANGO,TEPEHUANES,1
+10036,Durango,Tlahualilo,,,,,,,,DURANGO,TLAHUALILO,1
+10037,Durango,Topia,,,,,,,,DURANGO,TOPIA,1
+10038,Durango,Vicente Guerrero,,,,,,,,DURANGO,VICENTE GUERRERO,1
+10039,Durango,Nuevo Ideal,,,,,,,,DURANGO,NUEVO IDEAL,1
+11006,Guanajuato,Atarjea,,,,,,,,GUANAJUATO,ATARJEA,1
+11010,Guanajuato,Coroneo,,,,,,,,GUANAJUATO,CORONEO,1
+11024,Guanajuato,Pueblo Nuevo,,,,,,,,GUANAJUATO,PUEBLO NUEVO,1
+11027,Guanajuato,Salamanca,,,,,,,,GUANAJUATO,SALAMANCA,1
+11034,Guanajuato,Santa Catarina,,,,,,,,GUANAJUATO,SANTA CATARINA,1
+11036,Guanajuato,Santiago Maravatío,,,,,,,,GUANAJUATO,SANTIAGO MARAVATIO,1
+11038,Guanajuato,Tarandacuao,,,,,,,,GUANAJUATO,TARANDACUAO,1
+11045,Guanajuato,Xichú,,,,,,,,GUANAJUATO,XICHU,1
+12002,Guerrero,Ahuacuotzingo,,,,,,,,GUERRERO,AHUACUOTZINGO,1
+12004,Guerrero,Alcozauca de Guerrero,,,,,,,,GUERRERO,ALCOZAUCA DE GUERRERO,1
+12005,Guerrero,Alpoyeca,,,,,,,,GUERRERO,ALPOYECA,1
+12006,Guerrero,Apaxtla,,,,,,,,GUERRERO,APAXTLA,1
+12008,Guerrero,Atenango del Río,,,,,,,,GUERRERO,ATENANGO DEL RIO,1
+12009,Guerrero,Atlamajalcingo del Monte,,,,,,,,GUERRERO,ATLAMAJALCINGO DEL MONTE,1
+12010,Guerrero,Atlixtac,,,,,,,,GUERRERO,ATLIXTAC,1
+12012,Guerrero,Ayutla de los Libres,,,,,,,,GUERRERO,AYUTLA DE LOS LIBRES,1
+12013,Guerrero,Azoyú,,,,,,,,GUERRERO,AZOYU,1
+12014,Guerrero,Benito Juárez,,,,,,,,GUERRERO,BENITO JUAREZ,1
+12015,Guerrero,Buenavista de Cuéllar,,,,,,,,GUERRERO,BUENAVISTA DE CUELLAR,1
+12016,Guerrero,Coahuayutla de José María Izazaga,,,,,,,,GUERRERO,COAHUAYUTLA DE JOSE MARIA IZAZAGA,1
+12017,Guerrero,Cocula,,,,,,,,GUERRERO,COCULA,1
+12018,Guerrero,Copala,,,,,,,,GUERRERO,COPALA,1
+12019,Guerrero,Copalillo,,,,,,,,GUERRERO,COPALILLO,1
+12020,Guerrero,Copanatoyac,,,,,,,,GUERRERO,COPANATOYAC,1
+12024,Guerrero,Cualác,,,,,,,,GUERRERO,CUALAC,1
+12025,Guerrero,Cuautepec,,,,,,,,GUERRERO,CUAUTEPEC,1
+12026,Guerrero,Cuetzala del Progreso,,,,,,,,GUERRERO,CUETZALA DEL PROGRESO,1
+12029,Guerrero,Chilpancingo de los Bravo,,,,,,,,GUERRERO,CHILPANCINGO DE LOS BRAVO,1
+12031,Guerrero,General Canuto A. Neri,,,,,,,,GUERRERO,GENERAL CANUTO A. NERI,1
+12032,Guerrero,General Heliodoro Castillo,,,,,,,,GUERRERO,GENERAL HELIODORO CASTILLO,1
+12033,Guerrero,Huamuxtitlán,,,,,,,,GUERRERO,HUAMUXTITLAN,1
+12036,Guerrero,Igualapa,,,,,,,,GUERRERO,IGUALAPA,1
+12037,Guerrero,Ixcateopan de Cuauhtémoc,,,,,,,,GUERRERO,IXCATEOPAN DE CUAUHTEMOC,1
+12041,Guerrero,Malinaltepec,,,,,,,,GUERRERO,MALINALTEPEC,1
+12042,Guerrero,Mártir de Cuilapan,,,,,,,,GUERRERO,MARTIR DE CUILAPAN,1
+12043,Guerrero,Metlatónoc,,,,,,,,GUERRERO,METLATONOC,1
+12044,Guerrero,Mochitlán,,,,,,,,GUERRERO,MOCHITLAN,1
+12045,Guerrero,Olinalá,,,,,,,,GUERRERO,OLINALA,1
+12047,Guerrero,Pedro Ascencio Alquisiras,,,,,,,,GUERRERO,PEDRO ASCENCIO ALQUISIRAS,1
+12049,Guerrero,Pilcaya,,,,,,,,GUERRERO,PILCAYA,1
+12054,Guerrero,San Miguel Totolapan,,,,,,,,GUERRERO,SAN MIGUEL TOTOLAPAN,1
+12060,Guerrero,Tetipac,,,,,,,,GUERRERO,TETIPAC,1
+12063,Guerrero,Tlacoapa,,,,,,,,GUERRERO,TLACOAPA,1
+12064,Guerrero,Tlalchapa,,,,,,,,GUERRERO,TLALCHAPA,1
+12065,Guerrero,Tlalixtaquilla de Maldonado,,,,,,,,GUERRERO,TLALIXTAQUILLA DE MALDONADO,1
+12069,Guerrero,Xalpatláhuac,,,,,,,,GUERRERO,XALPATLAHUAC,1
+12070,Guerrero,Xochihuehuetlán,,,,,,,,GUERRERO,XOCHIHUEHUETLAN,1
+12071,Guerrero,Xochistlahuaca,,,,,,,,GUERRERO,XOCHISTLAHUACA,1
+12072,Guerrero,Zapotitlán Tablas,,,,,,,,GUERRERO,ZAPOTITLAN TABLAS,1
+12073,Guerrero,Zirándaro,,,,,,,,GUERRERO,ZIRANDARO,1
+12074,Guerrero,Zitlala,,,,,,,,GUERRERO,ZITLALA,1
+12076,Guerrero,Acatepec,,,,,,,,GUERRERO,ACATEPEC,1
+12077,Guerrero,Marquelia,,,,,,,,GUERRERO,MARQUELIA,1
+12078,Guerrero,Cochoapa el Grande,,,,,,,,GUERRERO,COCHOAPA EL GRANDE,1
+12079,Guerrero,José Joaquín de Herrera,,,,,,,,GUERRERO,JOSE JOAQUIN DE HERRERA,1
+12080,Guerrero,Juchitán,,,,,,,,GUERRERO,JUCHITAN,1
+12081,Guerrero,Iliatenco,,,,,,,,GUERRERO,ILIATENCO,1
+13001,Hidalgo,Acatlán,,,,,,,,HIDALGO,ACATLAN,1
+13002,Hidalgo,Acaxochitlán,,,,,,,,HIDALGO,ACAXOCHITLAN,1
+13003,Hidalgo,Actopan,,,,,,,,HIDALGO,ACTOPAN,1
+13004,Hidalgo,Agua Blanca de Iturbide,,,,,,,,HIDALGO,AGUA BLANCA DE ITURBIDE,1
+13005,Hidalgo,Ajacuba,,,,,,,,HIDALGO,AJACUBA,1
+13006,Hidalgo,Alfajayucan,,,,,,,,HIDALGO,ALFAJAYUCAN,1
+13007,Hidalgo,Almoloya,,,,,,,,HIDALGO,ALMOLOYA,1
+13008,Hidalgo,Apan,,,,,,,,HIDALGO,APAN,1
+13009,Hidalgo,El Arenal,,,,,,,,HIDALGO,EL ARENAL,1
+13010,Hidalgo,Atitalaquia,,,,,,,,HIDALGO,ATITALAQUIA,1
+13011,Hidalgo,Atlapexco,,,,,,,,HIDALGO,ATLAPEXCO,1
+13012,Hidalgo,Atotonilco el Grande,,,,,,,,HIDALGO,ATOTONILCO EL GRANDE,1
+13013,Hidalgo,Atotonilco de Tula,,,,,,,,HIDALGO,ATOTONILCO DE TULA,1
+13014,Hidalgo,Calnali,,,,,,,,HIDALGO,CALNALI,1
+13015,Hidalgo,Cardonal,,,,,,,,HIDALGO,CARDONAL,1
+13016,Hidalgo,Cuautepec de Hinojosa,,,,,,,,HIDALGO,CUAUTEPEC DE HINOJOSA,1
+13017,Hidalgo,Chapantongo,,,,,,,,HIDALGO,CHAPANTONGO,1
+13018,Hidalgo,Chapulhuacán,,,,,,,,HIDALGO,CHAPULHUACAN,1
+13019,Hidalgo,Chilcuautla,,,,,,,,HIDALGO,CHILCUAUTLA,1
+13020,Hidalgo,Eloxochitlán,,,,,,,,HIDALGO,ELOXOCHITLAN,1
+13021,Hidalgo,Emiliano Zapata,,,,,,,,HIDALGO,EMILIANO ZAPATA,1
+13022,Hidalgo,Epazoyucan,,,,,,,,HIDALGO,EPAZOYUCAN,1
+13023,Hidalgo,Francisco I. Madero,,,,,,,,HIDALGO,FRANCISCO I. MADERO,1
+13024,Hidalgo,Huasca de Ocampo,,,,,,,,HIDALGO,HUASCA DE OCAMPO,1
+13025,Hidalgo,Huautla,,,,,,,,HIDALGO,HUAUTLA,1
+13026,Hidalgo,Huazalingo,,,,,,,,HIDALGO,HUAZALINGO,1
+13027,Hidalgo,Huehuetla,,,,,,,,HIDALGO,HUEHUETLA,1
+13028,Hidalgo,Huejutla de Reyes,,,,,,,,HIDALGO,HUEJUTLA DE REYES,1
+13029,Hidalgo,Huichapan,,,,,,,,HIDALGO,HUICHAPAN,1
+13030,Hidalgo,Ixmiquilpan,,,,,,,,HIDALGO,IXMIQUILPAN,1
+13031,Hidalgo,Jacala de Ledezma,,,,,,,,HIDALGO,JACALA DE LEDEZMA,1
+13032,Hidalgo,Jaltocán,,,,,,,,HIDALGO,JALTOCAN,1
+13033,Hidalgo,Juárez Hidalgo,,,,,,,,HIDALGO,JUAREZ HIDALGO,1
+13034,Hidalgo,Lolotla,,,,,,,,HIDALGO,LOLOTLA,1
+13035,Hidalgo,Metepec,,,,,,,,HIDALGO,METEPEC,1
+13036,Hidalgo,San Agustín Metzquititlán,,,,,,,,HIDALGO,SAN AGUSTIN METZQUITITLAN,1
+13037,Hidalgo,Metztitlán,,,,,,,,HIDALGO,METZTITLAN,1
+13038,Hidalgo,Mineral del Chico,,,,,,,,HIDALGO,MINERAL DEL CHICO,1
+13039,Hidalgo,Mineral del Monte,,,,,,,,HIDALGO,MINERAL DEL MONTE,1
+13040,Hidalgo,La Misión,,,,,,,,HIDALGO,LA MISION,1
+13041,Hidalgo,Mixquiahuala de Juárez,,,,,,,,HIDALGO,MIXQUIAHUALA DE JUAREZ,1
+13042,Hidalgo,Molango de Escamilla,,,,,,,,HIDALGO,MOLANGO DE ESCAMILLA,1
+13043,Hidalgo,Nicolás Flores,,,,,,,,HIDALGO,NICOLAS FLORES,1
+13044,Hidalgo,Nopala de Villagrán,,,,,,,,HIDALGO,NOPALA DE VILLAGRAN,1
+13045,Hidalgo,Omitlán de Juárez,,,,,,,,HIDALGO,OMITLAN DE JUAREZ,1
+13046,Hidalgo,San Felipe Orizatlán,,,,,,,,HIDALGO,SAN FELIPE ORIZATLAN,1
+13047,Hidalgo,Pacula,,,,,,,,HIDALGO,PACULA,1
+13048,Hidalgo,Pachuca de Soto,,,,,,,,HIDALGO,PACHUCA DE SOTO,1
+13049,Hidalgo,Pisaflores,,,,,,,,HIDALGO,PISAFLORES,1
+13050,Hidalgo,Progreso de Obregón,,,,,,,,HIDALGO,PROGRESO DE OBREGON,1
+13051,Hidalgo,Mineral de la Reforma,,,,,,,,HIDALGO,MINERAL DE LA REFORMA,1
+13052,Hidalgo,San Agustín Tlaxiaca,,,,,,,,HIDALGO,SAN AGUSTIN TLAXIACA,1
+13053,Hidalgo,San Bartolo Tutotepec,,,,,,,,HIDALGO,SAN BARTOLO TUTOTEPEC,1
+13054,Hidalgo,San Salvador,,,,,,,,HIDALGO,SAN SALVADOR,1
+13055,Hidalgo,Santiago de Anaya,,,,,,,,HIDALGO,SANTIAGO DE ANAYA,1
+13056,Hidalgo,Santiago Tulantepec de Lugo Guerrero,,,,,,,,HIDALGO,SANTIAGO TULANTEPEC DE LUGO GUERRERO,1
+13057,Hidalgo,Singuilucan,,,,,,,,HIDALGO,SINGUILUCAN,1
+13058,Hidalgo,Tasquillo,,,,,,,,HIDALGO,TASQUILLO,1
+13059,Hidalgo,Tecozautla,,,,,,,,HIDALGO,TECOZAUTLA,1
+13060,Hidalgo,Tenango de Doria,,,,,,,,HIDALGO,TENANGO DE DORIA,1
+13061,Hidalgo,Tepeapulco,,,,,,,,HIDALGO,TEPEAPULCO,1
+13062,Hidalgo,Tepehuacán de Guerrero,,,,,,,,HIDALGO,TEPEHUACAN DE GUERRERO,1
+13063,Hidalgo,Tepeji del Río de Ocampo,,,,,,,,HIDALGO,TEPEJI DEL RIO DE OCAMPO,1
+13064,Hidalgo,Tepetitlán,,,,,,,,HIDALGO,TEPETITLAN,1
+13065,Hidalgo,Tetepango,,,,,,,,HIDALGO,TETEPANGO,1
+13066,Hidalgo,Villa de Tezontepec,,,,,,,,HIDALGO,VILLA DE TEZONTEPEC,1
+13067,Hidalgo,Tezontepec de Aldama,,,,,,,,HIDALGO,TEZONTEPEC DE ALDAMA,1
+13068,Hidalgo,Tianguistengo,,,,,,,,HIDALGO,TIANGUISTENGO,1
+13069,Hidalgo,Tizayuca,,,,,,,,HIDALGO,TIZAYUCA,1
+13070,Hidalgo,Tlahuelilpan,,,,,,,,HIDALGO,TLAHUELILPAN,1
+13071,Hidalgo,Tlahuiltepa,,,,,,,,HIDALGO,TLAHUILTEPA,1
+13072,Hidalgo,Tlanalapa,,,,,,,,HIDALGO,TLANALAPA,1
+13073,Hidalgo,Tlanchinol,,,,,,,,HIDALGO,TLANCHINOL,1
+13074,Hidalgo,Tlaxcoapan,,,,,,,,HIDALGO,TLAXCOAPAN,1
+13075,Hidalgo,Tolcayuca,,,,,,,,HIDALGO,TOLCAYUCA,1
+13076,Hidalgo,Tula de Allende,,,,,,,,HIDALGO,TULA DE ALLENDE,1
+13077,Hidalgo,Tulancingo de Bravo,,,,,,,,HIDALGO,TULANCINGO DE BRAVO,1
+13078,Hidalgo,Xochiatipan,,,,,,,,HIDALGO,XOCHIATIPAN,1
+13079,Hidalgo,Xochicoatlán,,,,,,,,HIDALGO,XOCHICOATLAN,1
+13080,Hidalgo,Yahualica,,,,,,,,HIDALGO,YAHUALICA,1
+13081,Hidalgo,Zacualtipán de Ángeles,,,,,,,,HIDALGO,ZACUALTIPAN DE ANGELES,1
+13082,Hidalgo,Zapotlán de Juárez,,,,,,,,HIDALGO,ZAPOTLAN DE JUAREZ,1
+13083,Hidalgo,Zempoala,,,,,,,,HIDALGO,ZEMPOALA,1
+13084,Hidalgo,Zimapán,,,,,,,,HIDALGO,ZIMAPAN,1
+14004,Jalisco,Amacueca,,,,,,,,JALISCO,AMACUECA,1
+14005,Jalisco,Amatitán,,,,,,,,JALISCO,AMATITAN,1
+14007,Jalisco,San Juanito de Escobedo,,,,,,,,JALISCO,SAN JUANITO DE ESCOBEDO,1
+14010,Jalisco,Atemajac de Brizuela,,,,,,,,JALISCO,ATEMAJAC DE BRIZUELA,1
+14011,Jalisco,Atengo,,,,,,,,JALISCO,ATENGO,1
+14012,Jalisco,Atenguillo,,,,,,,,JALISCO,ATENGUILLO,1
+14014,Jalisco,Atoyac,,,,,,,,JALISCO,ATOYAC,1
+14017,Jalisco,Ayutla,,,,,,,,JALISCO,AYUTLA,1
+14019,Jalisco,Bolaños,,,,,,,,JALISCO,BOLAÑOS,1
+14020,Jalisco,Cabo Corrientes,,,,,,,,JALISCO,CABO CORRIENTES,1
+14025,Jalisco,Colotlán,,,,,,,,JALISCO,COLOTLAN,1
+14026,Jalisco,Concepción de Buenos Aires,,,,,,,,JALISCO,CONCEPCION DE BUENOS AIRES,1
+14027,Jalisco,Cuautitlán de García Barragán,,,,,,,,JALISCO,CUAUTITLAN DE GARCIA BARRAGAN,1
+14028,Jalisco,Cuautla,,,,,,,,JALISCO,CUAUTLA,1
+14029,Jalisco,Cuquío,,,,,,,,JALISCO,CUQUIO,1
+14031,Jalisco,Chimaltitán,,,,,,,,JALISCO,CHIMALTITAN,1
+14032,Jalisco,Chiquilistlán,,,,,,,,JALISCO,CHIQUILISTLAN,1
+14034,Jalisco,Ejutla,,,,,,,,JALISCO,EJUTLA,1
+14038,Jalisco,Guachinango,,,,,,,,JALISCO,GUACHINANGO,1
+14040,Jalisco,Hostotipaquillo,,,,,,,,JALISCO,HOSTOTIPAQUILLO,1
+14041,Jalisco,Huejúcar,,,,,,,,JALISCO,HUEJUCAR,1
+14042,Jalisco,Huejuquilla el Alto,,,,,,,,JALISCO,HUEJUQUILLA EL ALTO,1
+14048,Jalisco,Jesús María,,,,,,,,JALISCO,JESUS MARIA,1
+14049,Jalisco,Jilotlán de los Dolores,,,,,,,,JALISCO,JILOTLAN DE LOS DOLORES,1
+14052,Jalisco,Juchitlán,,,,,,,,JALISCO,JUCHITLAN,1
+14054,Jalisco,El Limón,,,,,,,,JALISCO,EL LIMON,1
+14056,Jalisco,Santa María del Oro,,,,,,,,JALISCO,SANTA MARIA DEL ORO,1
+14057,Jalisco,La Manzanilla de la Paz,,,,,,,,JALISCO,LA MANZANILLA DE LA PAZ,1
+14058,Jalisco,Mascota,,,,,,,,JALISCO,MASCOTA,1
+14059,Jalisco,Mazamitla,,,,,,,,JALISCO,MAZAMITLA,1
+14060,Jalisco,Mexticacán,,,,,,,,JALISCO,MEXTICACAN,1
+14061,Jalisco,Mezquitic,,,,,,,,JALISCO,MEZQUITIC,1
+14062,Jalisco,Mixtlán,,,,,,,,JALISCO,MIXTLAN,1
+14065,Jalisco,Pihuamo,,,,,,,,JALISCO,PIHUAMO,1
+14067,Jalisco,Puerto Vallarta,,,,,,,,JALISCO,PUERTO VALLARTA,1
+14068,Jalisco,Villa Purificación,,,,,,,,JALISCO,VILLA PURIFICACION,1
+14069,Jalisco,Quitupan,,,,,,,,JALISCO,QUITUPAN,1
+14070,Jalisco,El Salto,,,,,,,,JALISCO,EL SALTO,1
+14071,Jalisco,San Cristóbal de la Barranca,,,,,,,,JALISCO,SAN CRISTOBAL DE LA BARRANCA,1
+14072,Jalisco,San Diego de Alejandría,,,,,,,,JALISCO,SAN DIEGO DE ALEJANDRIA,1
+14074,Jalisco,San Julián,,,,,,,,JALISCO,SAN JULIAN,1
+14075,Jalisco,San Marcos,,,,,,,,JALISCO,SAN MARCOS,1
+14076,Jalisco,San Martín de Bolaños,,,,,,,,JALISCO,SAN MARTIN DE BOLAÑOS,1
+14079,Jalisco,Gómez Farías,,,,,,,,JALISCO,GOMEZ FARIAS,1
+14080,Jalisco,San Sebastián del Oeste,,,,,,,,JALISCO,SAN SEBASTIAN DEL OESTE,1
+14081,Jalisco,Santa María de los Ángeles,,,,,,,,JALISCO,SANTA MARIA DE LOS ANGELES,1
+14082,Jalisco,Sayula,,,,,,,,JALISCO,SAYULA,1
+14084,Jalisco,Talpa de Allende,,,,,,,,JALISCO,TALPA DE ALLENDE,1
+14087,Jalisco,Tecalitlán,,,,,,,,JALISCO,TECALITLAN,1
+14088,Jalisco,Tecolotlán,,,,,,,,JALISCO,TECOLOTLAN,1
+14089,Jalisco,Techaluta de Montenegro,,,,,,,,JALISCO,TECHALUTA DE MONTENEGRO,1
+14090,Jalisco,Tenamaxtlán,,,,,,,,JALISCO,TENAMAXTLAN,1
+14092,Jalisco,Teocuitatlán de Corona,,,,,,,,JALISCO,TEOCUITATLAN DE CORONA,1
+14095,Jalisco,Teuchitlán,,,,,,,,JALISCO,TEUCHITLAN,1
+14099,Jalisco,Tolimán,,,,,,,,JALISCO,TOLIMAN,1
+14102,Jalisco,Tonaya,,,,,,,,JALISCO,TONAYA,1
+14103,Jalisco,Tonila,,,,,,,,JALISCO,TONILA,1
+14104,Jalisco,Totatiche,,,,,,,,JALISCO,TOTATICHE,1
+14106,Jalisco,Tuxcacuesco,,,,,,,,JALISCO,TUXCACUESCO,1
+14107,Jalisco,Tuxcueca,,,,,,,,JALISCO,TUXCUECA,1
+14109,Jalisco,Unión de San Antonio,,,,,,,,JALISCO,UNION DE SAN ANTONIO,1
+14110,Jalisco,Unión de Tula,,,,,,,,JALISCO,UNION DE TULA,1
+14111,Jalisco,Valle de Guadalupe,,,,,,,,JALISCO,VALLE DE GUADALUPE,1
+14112,Jalisco,Valle de Juárez,,,,,,,,JALISCO,VALLE DE JUAREZ,1
+14113,Jalisco,San Gabriel,,,,,,,,JALISCO,SAN GABRIEL,1
+14114,Jalisco,Villa Corona,,,,,,,,JALISCO,VILLA CORONA,1
+14115,Jalisco,Villa Guerrero,,,,,,,,JALISCO,VILLA GUERRERO,1
+14117,Jalisco,Cañadas de Obregón,,,,,,,,JALISCO,CAÑADAS DE OBREGON,1
+14122,Jalisco,Zapotitlán de Vadillo,,,,,,,,JALISCO,ZAPOTITLAN DE VADILLO,1
+14123,Jalisco,Zapotlán del Rey,,,,,,,,JALISCO,ZAPOTLAN DEL REY,1
+14125,Jalisco,San Ignacio Cerro Gordo,,,,,,,,JALISCO,SAN IGNACIO CERRO GORDO,1
+15004,México,Almoloya de Alquisiras,,,,,,,,ESTADO DE MEXICO,ALMOLOYA DE ALQUISIRAS,1
+15006,México,Almoloya del Río,,,,,,,,ESTADO DE MEXICO,ALMOLOYA DEL RIO,1
+15012,México,Atizapán,,,,,,,,ESTADO DE MEXICO,ATIZAPAN,1
+15013,México,Atizapán de Zaragoza,,,,,,,,ESTADO DE MEXICO,ATIZAPAN DE ZARAGOZA,1
+15017,México,Ayapango,,,,,,,,ESTADO DE MEXICO,AYAPANGO,1
+15019,México,Capulhuac,,,,,,,,ESTADO DE MEXICO,CAPULHUAC,1
+15020,México,Coacalco de Berriozábal,,,,,,,,ESTADO DE MEXICO,COACALCO DE BERRIOZABAL,1
+15022,México,Cocotitlán,,,,,,,,ESTADO DE MEXICO,COCOTITLAN,1
+15024,México,Cuautitlán,,,,,,,,ESTADO DE MEXICO,CUAUTITLAN,1
+15025,México,Chalco,,,,,,,,ESTADO DE MEXICO,CHALCO,1
+15027,México,Chapultepec,,,,,,,,ESTADO DE MEXICO,CHAPULTEPEC,1
+15028,México,Chiautla,,,,,,,,ESTADO DE MEXICO,CHIAUTLA,1
+15029,México,Chicoloapan,,,,,,,,ESTADO DE MEXICO,CHICOLOAPAN,1
+15030,México,Chiconcuac,,,,,,,,ESTADO DE MEXICO,CHICONCUAC,1
+15031,México,Chimalhuacán,,,,,,,,ESTADO DE MEXICO,CHIMALHUACAN,1
+15032,México,Donato Guerra,,,,,,,,ESTADO DE MEXICO,DONATO GUERRA,1
+15034,México,Ecatzingo,,,,,,,,ESTADO DE MEXICO,ECATZINGO,1
+15037,México,Huixquilucan,,,,,,,,ESTADO DE MEXICO,HUIXQUILUCAN,1
+15038,México,Isidro Fabela,,,,,,,,ESTADO DE MEXICO,ISIDRO FABELA,1
+15041,México,Ixtapan del Oro,,,,,,,,ESTADO DE MEXICO,IXTAPAN DEL ORO,1
+15044,México,Jaltenco,,,,,,,,ESTADO DE MEXICO,JALTENCO,1
+15046,México,Jilotzingo,,,,,,,,ESTADO DE MEXICO,JILOTZINGO,1
+15049,México,Joquicingo,,,,,,,,ESTADO DE MEXICO,JOQUICINGO,1
+15053,México,Melchor Ocampo,,,,,,,,ESTADO DE MEXICO,MELCHOR OCAMPO,1
+15054,México,Metepec,,,,,,,,ESTADO DE MEXICO,METEPEC,1
+15055,México,Mexicaltzingo,,,,,,,,ESTADO DE MEXICO,MEXICALTZINGO,1
+15056,México,Morelos,,,,,,,,ESTADO DE MEXICO,MORELOS,1
+15058,México,Nezahualcóyotl,,,,,,,,ESTADO DE MEXICO,NEZAHUALCOYOTL,1
+15059,México,Nextlalpan,,,,,,,,ESTADO DE MEXICO,NEXTLALPAN,1
+15061,México,Nopaltepec,,,,,,,,ESTADO DE MEXICO,NOPALTEPEC,1
+15066,México,Otzoloapan,,,,,,,,ESTADO DE MEXICO,OTZOLOAPAN,1
+15068,México,Ozumba,,,,,,,,ESTADO DE MEXICO,OZUMBA,1
+15069,México,Papalotla,,,,,,,,ESTADO DE MEXICO,PAPALOTLA,1
+15070,México,La Paz,,,,,,,,ESTADO DE MEXICO,LA PAZ,1
+15071,México,Polotitlán,,,,,,,,ESTADO DE MEXICO,POLOTITLAN,1
+15072,México,Rayón,,,,,,,,ESTADO DE MEXICO,RAYON,1
+15075,México,San Martín de las Pirámides,,,,,,,,ESTADO DE MEXICO,SAN MARTIN DE LAS PIRAMIDES,1
+15077,México,San Simón de Guerrero,,,,,,,,ESTADO DE MEXICO,SAN SIMON DE GUERRERO,1
+15078,México,Santo Tomás,,,,,,,,ESTADO DE MEXICO,SANTO TOMAS,1
+15079,México,Soyaniquilpan de Juárez,,,,,,,,ESTADO DE MEXICO,SOYANIQUILPAN DE JUAREZ,1
+15083,México,Temamatla,,,,,,,,ESTADO DE MEXICO,TEMAMATLA,1
+15089,México,Tenango del Aire,,,,,,,,ESTADO DE MEXICO,TENANGO DEL AIRE,1
+15091,México,Teoloyucan,,,,,,,,ESTADO DE MEXICO,TEOLOYUCAN,1
+15097,México,Texcaltitlán,,,,,,,,ESTADO DE MEXICO,TEXCALTITLAN,1
+15098,México,Texcalyacac,,,,,,,,ESTADO DE MEXICO,TEXCALYACAC,1
+15099,México,Texcoco,,,,,,,,ESTADO DE MEXICO,TEXCOCO,1
+15102,México,Timilpan,,,,,,,,ESTADO DE MEXICO,TIMILPAN,1
+15107,México,Tonatico,,,,,,,,ESTADO DE MEXICO,TONATICO,1
+15108,México,Tultepec,,,,,,,,ESTADO DE MEXICO,TULTEPEC,1
+15116,México,Zacazonapan,,,,,,,,ESTADO DE MEXICO,ZACAZONAPAN,1
+15117,México,Zacualpan,,,,,,,,ESTADO DE MEXICO,ZACUALPAN,1
+15118,México,Zinacantepec,,,,,,,,ESTADO DE MEXICO,ZINACANTEPEC,1
+15119,México,Zumpahuacán,,,,,,,,ESTADO DE MEXICO,ZUMPAHUACAN,1
+15120,México,Zumpango,,,,,,,,ESTADO DE MEXICO,ZUMPANGO,1
+15122,México,Valle de Chalco Solidaridad,,,,,,,,ESTADO DE MEXICO,VALLE DE CHALCO SOLIDARIDAD,1
+15125,México,Tonanitla,,,,,,,,ESTADO DE MEXICO,TONANITLA,1
+16001,Michoacán de Ocampo,Acuitzio,,,,,,,,MICHOACAN,ACUITZIO,1
+16002,Michoacán de Ocampo,Aguililla,,,,,,,,MICHOACAN,AGUILILLA,1
+16004,Michoacán de Ocampo,Angamacutiro,,,,,,,,MICHOACAN,ANGAMACUTIRO,1
+16005,Michoacán de Ocampo,Angangueo,,,,,,,,MICHOACAN,ANGANGUEO,1
+16007,Michoacán de Ocampo,Aporo,,,,,,,,MICHOACAN,APORO,1
+16011,Michoacán de Ocampo,Briseñas,,,,,,,,MICHOACAN,BRISEÑAS,1
+16013,Michoacán de Ocampo,Carácuaro,,,,,,,,MICHOACAN,CARACUARO,1
+16014,Michoacán de Ocampo,Coahuayana,,,,,,,,MICHOACAN,COAHUAYANA,1
+16015,Michoacán de Ocampo,Coalcomán de Vázquez Pallares,,,,,,,,MICHOACAN,COALCOMAN DE VAZQUEZ PALLARES,1
+16018,Michoacán de Ocampo,Copándaro,,,,,,,,MICHOACAN,COPANDARO,1
+16021,Michoacán de Ocampo,Charapan,,,,,,,,MICHOACAN,CHARAPAN,1
+16023,Michoacán de Ocampo,Chavinda,,,,,,,,MICHOACAN,CHAVINDA,1
+16024,Michoacán de Ocampo,Cherán,,,,,,,,MICHOACAN,CHERAN,1
+16026,Michoacán de Ocampo,Chinicuila,,,,,,,,MICHOACAN,CHINICUILA,1
+16027,Michoacán de Ocampo,Chucándiro,,,,,,,,MICHOACAN,CHUCANDIRO,1
+16028,Michoacán de Ocampo,Churintzio,,,,,,,,MICHOACAN,CHURINTZIO,1
+16029,Michoacán de Ocampo,Churumuco,,,,,,,,MICHOACAN,CHURUMUCO,1
+16030,Michoacán de Ocampo,Ecuandureo,,,,,,,,MICHOACAN,ECUANDUREO,1
+16031,Michoacán de Ocampo,Epitacio Huerta,,,,,,,,MICHOACAN,EPITACIO HUERTA,1
+16032,Michoacán de Ocampo,Erongarícuaro,,,,,,,,MICHOACAN,ERONGARICUARO,1
+16036,Michoacán de Ocampo,Huandacareo,,,,,,,,MICHOACAN,HUANDACAREO,1
+16037,Michoacán de Ocampo,Huaniqueo,,,,,,,,MICHOACAN,HUANIQUEO,1
+16039,Michoacán de Ocampo,Huiramba,,,,,,,,MICHOACAN,HUIRAMBA,1
+16040,Michoacán de Ocampo,Indaparapeo,,,,,,,,MICHOACAN,INDAPARAPEO,1
+16041,Michoacán de Ocampo,Irimbo,,,,,,,,MICHOACAN,IRIMBO,1
+16042,Michoacán de Ocampo,Ixtlán,,,,,,,,MICHOACAN,IXTLAN,1
+16044,Michoacán de Ocampo,Jiménez,,,,,,,,MICHOACAN,JIMENEZ,1
+16046,Michoacán de Ocampo,Juárez,,,,,,,,MICHOACAN,JUAREZ,1
+16047,Michoacán de Ocampo,Jungapeo,,,,,,,,MICHOACAN,JUNGAPEO,1
+16048,Michoacán de Ocampo,Lagunillas,,,,,,,,MICHOACAN,LAGUNILLAS,1
+16049,Michoacán de Ocampo,Madero,,,,,,,,MICHOACAN,MADERO,1
+16051,Michoacán de Ocampo,Marcos Castellanos,,,,,,,,MICHOACAN,MARCOS CASTELLANOS,1
+16054,Michoacán de Ocampo,Morelos,,,,,,,,MICHOACAN,MORELOS,1
+16057,Michoacán de Ocampo,Nocupétaro,,,,,,,,MICHOACAN,NOCUPETARO,1
+16059,Michoacán de Ocampo,Nuevo Urecho,,,,,,,,MICHOACAN,NUEVO URECHO,1
+16060,Michoacán de Ocampo,Numarán,,,,,,,,MICHOACAN,NUMARAN,1
+16061,Michoacán de Ocampo,Ocampo,,,,,,,,MICHOACAN,OCAMPO,1
+16063,Michoacán de Ocampo,Panindícuaro,,,,,,,,MICHOACAN,PANINDICUARO,1
+16067,Michoacán de Ocampo,Penjamillo,,,,,,,,MICHOACAN,PENJAMILLO,1
+16068,Michoacán de Ocampo,Peribán,,,,,,,,MICHOACAN,PERIBAN,1
+16070,Michoacán de Ocampo,Purépero,,,,,,,,MICHOACAN,PUREPERO,1
+16072,Michoacán de Ocampo,Queréndaro,,,,,,,,MICHOACAN,QUERENDARO,1
+16074,Michoacán de Ocampo,Cojumatlán de Régules,,,,,,,,MICHOACAN,COJUMATLAN DE REGULES,1
+16076,Michoacán de Ocampo,Sahuayo,,,,,,,,MICHOACAN,SAHUAYO,1
+16077,Michoacán de Ocampo,San Lucas,,,,,,,,MICHOACAN,SAN LUCAS,1
+16078,Michoacán de Ocampo,Santa Ana Maya,,,,,,,,MICHOACAN,SANTA ANA MAYA,1
+16080,Michoacán de Ocampo,Senguio,,,,,,,,MICHOACAN,SENGUIO,1
+16081,Michoacán de Ocampo,Susupuato,,,,,,,,MICHOACAN,SUSUPUATO,1
+16086,Michoacán de Ocampo,Tanhuato,,,,,,,,MICHOACAN,TANHUATO,1
+16087,Michoacán de Ocampo,Taretan,,,,,,,,MICHOACAN,TARETAN,1
+16090,Michoacán de Ocampo,Tingambato,,,,,,,,MICHOACAN,TINGAMBATO,1
+16091,Michoacán de Ocampo,Tingüindín,,,,,,,,MICHOACAN,TINGüINDIN,1
+16092,Michoacán de Ocampo,Tiquicheo de Nicolás Romero,,,,,,,,MICHOACAN,TIQUICHEO DE NICOLAS ROMERO,1
+16094,Michoacán de Ocampo,Tlazazalca,,,,,,,,MICHOACAN,TLAZAZALCA,1
+16095,Michoacán de Ocampo,Tocumbo,,,,,,,,MICHOACAN,TOCUMBO,1
+16096,Michoacán de Ocampo,Tumbiscatío,,,,,,,,MICHOACAN,TUMBISCATIO,1
+16099,Michoacán de Ocampo,Tuzantla,,,,,,,,MICHOACAN,TUZANTLA,1
+16100,Michoacán de Ocampo,Tzintzuntzan,,,,,,,,MICHOACAN,TZINTZUNTZAN,1
+16101,Michoacán de Ocampo,Tzitzio,,,,,,,,MICHOACAN,TZITZIO,1
+16102,Michoacán de Ocampo,Uruapan,,,,,,,,MICHOACAN,URUAPAN,1
+16104,Michoacán de Ocampo,Villamar,,,,,,,,MICHOACAN,VILLAMAR,1
+16108,Michoacán de Ocampo,Zamora,,,,,,,,MICHOACAN,ZAMORA,1
+16109,Michoacán de Ocampo,Zináparo,,,,,,,,MICHOACAN,ZINAPARO,1
+16111,Michoacán de Ocampo,Ziracuaretiro,,,,,,,,MICHOACAN,ZIRACUARETIRO,1
+16113,Michoacán de Ocampo,José Sixto Verduzco,,,,,,,,MICHOACAN,JOSE SIXTO VERDUZCO,1
+17001,Morelos,Amacuzac,,,,,,,,MORELOS,AMACUZAC,1
+17005,Morelos,Coatlán del Río,,,,,,,,MORELOS,COATLAN DEL RIO,1
+17007,Morelos,Cuernavaca,,,,,,,,MORELOS,CUERNAVACA,1
+17010,Morelos,Jantetelco,,,,,,,,MORELOS,JANTETELCO,1
+17011,Morelos,Jiutepec,,,,,,,,MORELOS,JIUTEPEC,1
+17013,Morelos,Jonacatepec de Leandro Valle,,,,,,,,MORELOS,JONACATEPEC DE LEANDRO VALLE,1
+17014,Morelos,Mazatepec,,,,,,,,MORELOS,MAZATEPEC,1
+17015,Morelos,Miacatlán,,,,,,,,MORELOS,MIACATLAN,1
+17016,Morelos,Ocuituco,,,,,,,,MORELOS,OCUITUCO,1
+17021,Morelos,Tetecala,,,,,,,,MORELOS,TETECALA,1
+17022,Morelos,Tetela del Volcán,,,,,,,,MORELOS,TETELA DEL VOLCAN,1
+17023,Morelos,Tlalnepantla,,,,,,,,MORELOS,TLALNEPANTLA,1
+17026,Morelos,Tlayacapan,,,,,,,,MORELOS,TLAYACAPAN,1
+17027,Morelos,Totolapan,,,,,,,,MORELOS,TOTOLAPAN,1
+17031,Morelos,Zacatepec,,,,,,,,MORELOS,ZACATEPEC,1
+17032,Morelos,Zacualpan de Amilpas,,,,,,,,MORELOS,ZACUALPAN DE AMILPAS,1
+17033,Morelos,Temoac,,,,,,,,MORELOS,TEMOAC,1
+17034,Morelos,Coatetelco,,,,,,,,MORELOS,COATETELCO,1
+17035,Morelos,Xoxocotla,,,,,,,,MORELOS,XOXOCOTLA,1
+17036,Morelos,Hueyapan,,,,,,,,MORELOS,HUEYAPAN,1
+18002,Nayarit,Ahuacatlán,,,,,,,,NAYARIT,AHUACATLAN,1
+18003,Nayarit,Amatlán de Cañas,,,,,,,,NAYARIT,AMATLAN DE CAÑAS,1
+18005,Nayarit,Huajicori,,,,,,,,NAYARIT,HUAJICORI,1
+18007,Nayarit,Jala,,,,,,,,NAYARIT,JALA,1
+18009,Nayarit,Del Nayar,,,,,,,,NAYARIT,DEL NAYAR,1
+18013,Nayarit,San Pedro Lagunillas,,,,,,,,NAYARIT,SAN PEDRO LAGUNILLAS,1
+18019,Nayarit,La Yesca,,,,,,,,NAYARIT,LA YESCA,1
+19001,Nuevo León,Abasolo,,,,,,,,NUEVO LEON,ABASOLO,1
+19002,Nuevo León,Agualeguas,,,,,,,,NUEVO LEON,AGUALEGUAS,1
+19003,Nuevo León,Los Aldamas,,,,,,,,NUEVO LEON,LOS ALDAMAS,1
+19005,Nuevo León,Anáhuac,,,,,,,,NUEVO LEON,ANAHUAC,1
+19007,Nuevo León,Aramberri,,,,,,,,NUEVO LEON,ARAMBERRI,1
+19008,Nuevo León,Bustamante,,,,,,,,NUEVO LEON,BUSTAMANTE,1
+19010,Nuevo León,El Carmen,,,,,,,,NUEVO LEON,EL CARMEN,1
+19011,Nuevo León,Cerralvo,,,,,,,,NUEVO LEON,CERRALVO,1
+19012,Nuevo León,Ciénega de Flores,,,,,,,,NUEVO LEON,CIENEGA DE FLORES,1
+19013,Nuevo León,China,,,,,,,,NUEVO LEON,CHINA,1
+19015,Nuevo León,Doctor Coss,,,,,,,,NUEVO LEON,DOCTOR COSS,1
+19016,Nuevo León,Doctor González,,,,,,,,NUEVO LEON,DOCTOR GONZALEZ,1
+19018,Nuevo León,García,,,,,,,,NUEVO LEON,GARCIA,1
+19020,Nuevo León,General Bravo,,,,,,,,NUEVO LEON,GENERAL BRAVO,1
+19022,Nuevo León,General Terán,,,,,,,,NUEVO LEON,GENERAL TERAN,1
+19023,Nuevo León,General Treviño,,,,,,,,NUEVO LEON,GENERAL TREVIÑO,1
+19024,Nuevo León,General Zaragoza,,,,,,,,NUEVO LEON,GENERAL ZARAGOZA,1
+19027,Nuevo León,Los Herreras,,,,,,,,NUEVO LEON,LOS HERRERAS,1
+19028,Nuevo León,Higueras,,,,,,,,NUEVO LEON,HIGUERAS,1
+19029,Nuevo León,Hualahuises,,,,,,,,NUEVO LEON,HUALAHUISES,1
+19030,Nuevo León,Iturbide,,,,,,,,NUEVO LEON,ITURBIDE,1
+19032,Nuevo León,Lampazos de Naranjo,,,,,,,,NUEVO LEON,LAMPAZOS DE NARANJO,1
+19034,Nuevo León,Marín,,,,,,,,NUEVO LEON,MARIN,1
+19035,Nuevo León,Melchor Ocampo,,,,,,,,NUEVO LEON,MELCHOR OCAMPO,1
+19036,Nuevo León,Mier y Noriega,,,,,,,,NUEVO LEON,MIER Y NORIEGA,1
+19037,Nuevo León,Mina,,,,,,,,NUEVO LEON,MINA,1
+19040,Nuevo León,Parás,,,,,,,,NUEVO LEON,PARAS,1
+19042,Nuevo León,Los Ramones,,,,,,,,NUEVO LEON,LOS RAMONES,1
+19043,Nuevo León,Rayones,,,,,,,,NUEVO LEON,RAYONES,1
+19047,Nuevo León,Hidalgo,,,,,,,,NUEVO LEON,HIDALGO,1
+19048,Nuevo León,Santa Catarina,,,,,,,,NUEVO LEON,SANTA CATARINA,1
+19050,Nuevo León,Vallecillo,,,,,,,,NUEVO LEON,VALLECILLO,1
+19051,Nuevo León,Villaldama,,,,,,,,NUEVO LEON,VILLALDAMA,1
+20001,Oaxaca,Abejones,,,,,,,,OAXACA,ABEJONES,1
+20003,Oaxaca,Asunción Cacalotepec,,,,,,,,OAXACA,ASUNCION CACALOTEPEC,1
+20004,Oaxaca,Asunción Cuyotepeji,,,,,,,,OAXACA,ASUNCION CUYOTEPEJI,1
+20005,Oaxaca,Asunción Ixtaltepec,,,,,,,,OAXACA,ASUNCION IXTALTEPEC,1
+20006,Oaxaca,Asunción Nochixtlán,,,,,,,,OAXACA,ASUNCION NOCHIXTLAN,1
+20007,Oaxaca,Asunción Ocotlán,,,,,,,,OAXACA,ASUNCION OCOTLAN,1
+20008,Oaxaca,Asunción Tlacolulita,,,,,,,,OAXACA,ASUNCION TLACOLULITA,1
+20009,Oaxaca,Ayotzintepec,,,,,,,,OAXACA,AYOTZINTEPEC,1
+20010,Oaxaca,El Barrio de la Soledad,,,,,,,,OAXACA,EL BARRIO DE LA SOLEDAD,1
+20011,Oaxaca,Calihualá,,,,,,,,OAXACA,CALIHUALA,1
+20012,Oaxaca,Candelaria Loxicha,,,,,,,,OAXACA,CANDELARIA LOXICHA,1
+20013,Oaxaca,Ciénega de Zimatlán,,,,,,,,OAXACA,CIENEGA DE ZIMATLAN,1
+20015,Oaxaca,Coatecas Altas,,,,,,,,OAXACA,COATECAS ALTAS,1
+20016,Oaxaca,Coicoyán de las Flores,,,,,,,,OAXACA,COICOYAN DE LAS FLORES,1
+20017,Oaxaca,La Compañía,,,,,,,,OAXACA,LA COMPAÑIA,1
+20018,Oaxaca,Concepción Buenavista,,,,,,,,OAXACA,CONCEPCION BUENAVISTA,1
+20019,Oaxaca,Concepción Pápalo,,,,,,,,OAXACA,CONCEPCION PAPALO,1
+20020,Oaxaca,Constancia del Rosario,,,,,,,,OAXACA,CONSTANCIA DEL ROSARIO,1
+20021,Oaxaca,Cosolapa,,,,,,,,OAXACA,COSOLAPA,1
+20022,Oaxaca,Cosoltepec,,,,,,,,OAXACA,COSOLTEPEC,1
+20024,Oaxaca,Cuyamecalco Villa de Zaragoza,,,,,,,,OAXACA,CUYAMECALCO VILLA DE ZARAGOZA,1
+20025,Oaxaca,Chahuites,,,,,,,,OAXACA,CHAHUITES,1
+20026,Oaxaca,Chalcatongo de Hidalgo,,,,,,,,OAXACA,CHALCATONGO DE HIDALGO,1
+20027,Oaxaca,Chiquihuitlán de Benito Juárez,,,,,,,,OAXACA,CHIQUIHUITLAN DE BENITO JUAREZ,1
+20029,Oaxaca,Eloxochitlán de Flores Magón,,,,,,,,OAXACA,ELOXOCHITLAN DE FLORES MAGON,1
+20030,Oaxaca,El Espinal,,,,,,,,OAXACA,EL ESPINAL,1
+20031,Oaxaca,Tamazulápam del Espíritu Santo,,,,,,,,OAXACA,TAMAZULAPAM DEL ESPIRITU SANTO,1
+20032,Oaxaca,Fresnillo de Trujano,,,,,,,,OAXACA,FRESNILLO DE TRUJANO,1
+20033,Oaxaca,Guadalupe Etla,,,,,,,,OAXACA,GUADALUPE ETLA,1
+20034,Oaxaca,Guadalupe de Ramírez,,,,,,,,OAXACA,GUADALUPE DE RAMIREZ,1
+20035,Oaxaca,Guelatao de Juárez,,,,,,,,OAXACA,GUELATAO DE JUAREZ,1
+20036,Oaxaca,Guevea de Humboldt,,,,,,,,OAXACA,GUEVEA DE HUMBOLDT,1
+20037,Oaxaca,Mesones Hidalgo,,,,,,,,OAXACA,MESONES HIDALGO,1
+20038,Oaxaca,Villa Hidalgo,,,,,,,,OAXACA,VILLA HIDALGO,1
+20040,Oaxaca,Huautepec,,,,,,,,OAXACA,HUAUTEPEC,1
+20041,Oaxaca,Huautla de Jiménez,,,,,,,,OAXACA,HUAUTLA DE JIMENEZ,1
+20042,Oaxaca,Ixtlán de Juárez,,,,,,,,OAXACA,IXTLAN DE JUAREZ,1
+20045,Oaxaca,Magdalena Apasco,,,,,,,,OAXACA,MAGDALENA APASCO,1
+20046,Oaxaca,Magdalena Jaltepec,,,,,,,,OAXACA,MAGDALENA JALTEPEC,1
+20047,Oaxaca,Santa Magdalena Jicotlán,,,,,,,,OAXACA,SANTA MAGDALENA JICOTLAN,1
+20048,Oaxaca,Magdalena Mixtepec,,,,,,,,OAXACA,MAGDALENA MIXTEPEC,1
+20049,Oaxaca,Magdalena Ocotlán,,,,,,,,OAXACA,MAGDALENA OCOTLAN,1
+20050,Oaxaca,Magdalena Peñasco,,,,,,,,OAXACA,MAGDALENA PEÑASCO,1
+20051,Oaxaca,Magdalena Teitipac,,,,,,,,OAXACA,MAGDALENA TEITIPAC,1
+20052,Oaxaca,Magdalena Tequisistlán,,,,,,,,OAXACA,MAGDALENA TEQUISISTLAN,1
+20053,Oaxaca,Magdalena Tlacotepec,,,,,,,,OAXACA,MAGDALENA TLACOTEPEC,1
+20054,Oaxaca,Magdalena Zahuatlán,,,,,,,,OAXACA,MAGDALENA ZAHUATLAN,1
+20055,Oaxaca,Mariscala de Juárez,,,,,,,,OAXACA,MARISCALA DE JUAREZ,1
+20056,Oaxaca,Mártires de Tacubaya,,,,,,,,OAXACA,MARTIRES DE TACUBAYA,1
+20058,Oaxaca,Mazatlán Villa de Flores,,,,,,,,OAXACA,MAZATLAN VILLA DE FLORES,1
+20060,Oaxaca,Mixistlán de la Reforma,,,,,,,,OAXACA,MIXISTLAN DE LA REFORMA,1
+20061,Oaxaca,Monjas,,,,,,,,OAXACA,MONJAS,1
+20062,Oaxaca,Natividad,,,,,,,,OAXACA,NATIVIDAD,1
+20063,Oaxaca,Nazareno Etla,,,,,,,,OAXACA,NAZARENO ETLA,1
+20064,Oaxaca,Nejapa de Madero,,,,,,,,OAXACA,NEJAPA DE MADERO,1
+20065,Oaxaca,Ixpantepec Nieves,,,,,,,,OAXACA,IXPANTEPEC NIEVES,1
+20066,Oaxaca,Santiago Niltepec,,,,,,,,OAXACA,SANTIAGO NILTEPEC,1
+20067,Oaxaca,Oaxaca de Juárez,,,,,,,,OAXACA,OAXACA DE JUAREZ,1
+20069,Oaxaca,La Pe,,,,,,,,OAXACA,LA PE,1
+20070,Oaxaca,Pinotepa de Don Luis,,,,,,,,OAXACA,PINOTEPA DE DON LUIS,1
+20071,Oaxaca,Pluma Hidalgo,,,,,,,,OAXACA,PLUMA HIDALGO,1
+20072,Oaxaca,San José del Progreso,,,,,,,,OAXACA,SAN JOSE DEL PROGRESO,1
+20073,Oaxaca,Putla Villa de Guerrero,,,,,,,,OAXACA,PUTLA VILLA DE GUERRERO,1
+20074,Oaxaca,Santa Catarina Quioquitani,,,,,,,,OAXACA,SANTA CATARINA QUIOQUITANI,1
+20075,Oaxaca,Reforma de Pineda,,,,,,,,OAXACA,REFORMA DE PINEDA,1
+20076,Oaxaca,La Reforma,,,,,,,,OAXACA,LA REFORMA,1
+20077,Oaxaca,Reyes Etla,,,,,,,,OAXACA,REYES ETLA,1
+20078,Oaxaca,Rojas de Cuauhtémoc,,,,,,,,OAXACA,ROJAS DE CUAUHTEMOC,1
+20080,Oaxaca,San Agustín Amatengo,,,,,,,,OAXACA,SAN AGUSTIN AMATENGO,1
+20081,Oaxaca,San Agustín Atenango,,,,,,,,OAXACA,SAN AGUSTIN ATENANGO,1
+20082,Oaxaca,San Agustín Chayuco,,,,,,,,OAXACA,SAN AGUSTIN CHAYUCO,1
+20083,Oaxaca,San Agustín de las Juntas,,,,,,,,OAXACA,SAN AGUSTIN DE LAS JUNTAS,1
+20084,Oaxaca,San Agustín Etla,,,,,,,,OAXACA,SAN AGUSTIN ETLA,1
+20085,Oaxaca,San Agustín Loxicha,,,,,,,,OAXACA,SAN AGUSTIN LOXICHA,1
+20086,Oaxaca,San Agustín Tlacotepec,,,,,,,,OAXACA,SAN AGUSTIN TLACOTEPEC,1
+20087,Oaxaca,San Agustín Yatareni,,,,,,,,OAXACA,SAN AGUSTIN YATARENI,1
+20088,Oaxaca,San Andrés Cabecera Nueva,,,,,,,,OAXACA,SAN ANDRES CABECERA NUEVA,1
+20089,Oaxaca,San Andrés Dinicuiti,,,,,,,,OAXACA,SAN ANDRES DINICUITI,1
+20090,Oaxaca,San Andrés Huaxpaltepec,,,,,,,,OAXACA,SAN ANDRES HUAXPALTEPEC,1
+20091,Oaxaca,San Andrés Huayápam,,,,,,,,OAXACA,SAN ANDRES HUAYAPAM,1
+20092,Oaxaca,San Andrés Ixtlahuaca,,,,,,,,OAXACA,SAN ANDRES IXTLAHUACA,1
+20093,Oaxaca,San Andrés Lagunas,,,,,,,,OAXACA,SAN ANDRES LAGUNAS,1
+20094,Oaxaca,San Andrés Nuxiño,,,,,,,,OAXACA,SAN ANDRES NUXIÑO,1
+20095,Oaxaca,San Andrés Paxtlán,,,,,,,,OAXACA,SAN ANDRES PAXTLAN,1
+20096,Oaxaca,San Andrés Sinaxtla,,,,,,,,OAXACA,SAN ANDRES SINAXTLA,1
+20097,Oaxaca,San Andrés Solaga,,,,,,,,OAXACA,SAN ANDRES SOLAGA,1
+20098,Oaxaca,San Andrés Teotilálpam,,,,,,,,OAXACA,SAN ANDRES TEOTILALPAM,1
+20099,Oaxaca,San Andrés Tepetlapa,,,,,,,,OAXACA,SAN ANDRES TEPETLAPA,1
+20100,Oaxaca,San Andrés Yaá,,,,,,,,OAXACA,SAN ANDRES YAA,1
+20101,Oaxaca,San Andrés Zabache,,,,,,,,OAXACA,SAN ANDRES ZABACHE,1
+20102,Oaxaca,San Andrés Zautla,,,,,,,,OAXACA,SAN ANDRES ZAUTLA,1
+20103,Oaxaca,San Antonino Castillo Velasco,,,,,,,,OAXACA,SAN ANTONINO CASTILLO VELASCO,1
+20104,Oaxaca,San Antonino el Alto,,,,,,,,OAXACA,SAN ANTONINO EL ALTO,1
+20105,Oaxaca,San Antonino Monte Verde,,,,,,,,OAXACA,SAN ANTONINO MONTE VERDE,1
+20106,Oaxaca,San Antonio Acutla,,,,,,,,OAXACA,SAN ANTONIO ACUTLA,1
+20107,Oaxaca,San Antonio de la Cal,,,,,,,,OAXACA,SAN ANTONIO DE LA CAL,1
+20108,Oaxaca,San Antonio Huitepec,,,,,,,,OAXACA,SAN ANTONIO HUITEPEC,1
+20109,Oaxaca,San Antonio Nanahuatípam,,,,,,,,OAXACA,SAN ANTONIO NANAHUATIPAM,1
+20110,Oaxaca,San Antonio Sinicahua,,,,,,,,OAXACA,SAN ANTONIO SINICAHUA,1
+20111,Oaxaca,San Antonio Tepetlapa,,,,,,,,OAXACA,SAN ANTONIO TEPETLAPA,1
+20112,Oaxaca,San Baltazar Chichicápam,,,,,,,,OAXACA,SAN BALTAZAR CHICHICAPAM,1
+20113,Oaxaca,San Baltazar Loxicha,,,,,,,,OAXACA,SAN BALTAZAR LOXICHA,1
+20114,Oaxaca,San Baltazar Yatzachi el Bajo,,,,,,,,OAXACA,SAN BALTAZAR YATZACHI EL BAJO,1
+20115,Oaxaca,San Bartolo Coyotepec,,,,,,,,OAXACA,SAN BARTOLO COYOTEPEC,1
+20116,Oaxaca,San Bartolomé Ayautla,,,,,,,,OAXACA,SAN BARTOLOME AYAUTLA,1
+20117,Oaxaca,San Bartolomé Loxicha,,,,,,,,OAXACA,SAN BARTOLOME LOXICHA,1
+20118,Oaxaca,San Bartolomé Quialana,,,,,,,,OAXACA,SAN BARTOLOME QUIALANA,1
+20119,Oaxaca,San Bartolomé Yucuañe,,,,,,,,OAXACA,SAN BARTOLOME YUCUAÑE,1
+20120,Oaxaca,San Bartolomé Zoogocho,,,,,,,,OAXACA,SAN BARTOLOME ZOOGOCHO,1
+20121,Oaxaca,San Bartolo Soyaltepec,,,,,,,,OAXACA,SAN BARTOLO SOYALTEPEC,1
+20122,Oaxaca,San Bartolo Yautepec,,,,,,,,OAXACA,SAN BARTOLO YAUTEPEC,1
+20123,Oaxaca,San Bernardo Mixtepec,,,,,,,,OAXACA,SAN BERNARDO MIXTEPEC,1
+20124,Oaxaca,San Blas Atempa,,,,,,,,OAXACA,SAN BLAS ATEMPA,1
+20125,Oaxaca,San Carlos Yautepec,,,,,,,,OAXACA,SAN CARLOS YAUTEPEC,1
+20126,Oaxaca,San Cristóbal Amatlán,,,,,,,,OAXACA,SAN CRISTOBAL AMATLAN,1
+20127,Oaxaca,San Cristóbal Amoltepec,,,,,,,,OAXACA,SAN CRISTOBAL AMOLTEPEC,1
+20128,Oaxaca,San Cristóbal Lachirioag,,,,,,,,OAXACA,SAN CRISTOBAL LACHIRIOAG,1
+20129,Oaxaca,San Cristóbal Suchixtlahuaca,,,,,,,,OAXACA,SAN CRISTOBAL SUCHIXTLAHUACA,1
+20130,Oaxaca,San Dionisio del Mar,,,,,,,,OAXACA,SAN DIONISIO DEL MAR,1
+20131,Oaxaca,San Dionisio Ocotepec,,,,,,,,OAXACA,SAN DIONISIO OCOTEPEC,1
+20132,Oaxaca,San Dionisio Ocotlán,,,,,,,,OAXACA,SAN DIONISIO OCOTLAN,1
+20133,Oaxaca,San Esteban Atatlahuca,,,,,,,,OAXACA,SAN ESTEBAN ATATLAHUCA,1
+20134,Oaxaca,San Felipe Jalapa de Díaz,,,,,,,,OAXACA,SAN FELIPE JALAPA DE DIAZ,1
+20135,Oaxaca,San Felipe Tejalápam,,,,,,,,OAXACA,SAN FELIPE TEJALAPAM,1
+20136,Oaxaca,San Felipe Usila,,,,,,,,OAXACA,SAN FELIPE USILA,1
+20137,Oaxaca,San Francisco Cahuacuá,,,,,,,,OAXACA,SAN FRANCISCO CAHUACUA,1
+20138,Oaxaca,San Francisco Cajonos,,,,,,,,OAXACA,SAN FRANCISCO CAJONOS,1
+20139,Oaxaca,San Francisco Chapulapa,,,,,,,,OAXACA,SAN FRANCISCO CHAPULAPA,1
+20140,Oaxaca,San Francisco Chindúa,,,,,,,,OAXACA,SAN FRANCISCO CHINDUA,1
+20141,Oaxaca,San Francisco del Mar,,,,,,,,OAXACA,SAN FRANCISCO DEL MAR,1
+20142,Oaxaca,San Francisco Huehuetlán,,,,,,,,OAXACA,SAN FRANCISCO HUEHUETLAN,1
+20143,Oaxaca,San Francisco Ixhuatán,,,,,,,,OAXACA,SAN FRANCISCO IXHUATAN,1
+20144,Oaxaca,San Francisco Jaltepetongo,,,,,,,,OAXACA,SAN FRANCISCO JALTEPETONGO,1
+20145,Oaxaca,San Francisco Lachigoló,,,,,,,,OAXACA,SAN FRANCISCO LACHIGOLO,1
+20146,Oaxaca,San Francisco Logueche,,,,,,,,OAXACA,SAN FRANCISCO LOGUECHE,1
+20147,Oaxaca,San Francisco Nuxaño,,,,,,,,OAXACA,SAN FRANCISCO NUXAÑO,1
+20148,Oaxaca,San Francisco Ozolotepec,,,,,,,,OAXACA,SAN FRANCISCO OZOLOTEPEC,1
+20149,Oaxaca,San Francisco Sola,,,,,,,,OAXACA,SAN FRANCISCO SOLA,1
+20150,Oaxaca,San Francisco Telixtlahuaca,,,,,,,,OAXACA,SAN FRANCISCO TELIXTLAHUACA,1
+20151,Oaxaca,San Francisco Teopan,,,,,,,,OAXACA,SAN FRANCISCO TEOPAN,1
+20152,Oaxaca,San Francisco Tlapancingo,,,,,,,,OAXACA,SAN FRANCISCO TLAPANCINGO,1
+20153,Oaxaca,San Gabriel Mixtepec,,,,,,,,OAXACA,SAN GABRIEL MIXTEPEC,1
+20154,Oaxaca,San Ildefonso Amatlán,,,,,,,,OAXACA,SAN ILDEFONSO AMATLAN,1
+20155,Oaxaca,San Ildefonso Sola,,,,,,,,OAXACA,SAN ILDEFONSO SOLA,1
+20156,Oaxaca,San Ildefonso Villa Alta,,,,,,,,OAXACA,SAN ILDEFONSO VILLA ALTA,1
+20157,Oaxaca,San Jacinto Amilpas,,,,,,,,OAXACA,SAN JACINTO AMILPAS,1
+20158,Oaxaca,San Jacinto Tlacotepec,,,,,,,,OAXACA,SAN JACINTO TLACOTEPEC,1
+20159,Oaxaca,San Jerónimo Coatlán,,,,,,,,OAXACA,SAN JERONIMO COATLAN,1
+20160,Oaxaca,San Jerónimo Silacayoapilla,,,,,,,,OAXACA,SAN JERONIMO SILACAYOAPILLA,1
+20161,Oaxaca,San Jerónimo Sosola,,,,,,,,OAXACA,SAN JERONIMO SOSOLA,1
+20162,Oaxaca,San Jerónimo Taviche,,,,,,,,OAXACA,SAN JERONIMO TAVICHE,1
+20163,Oaxaca,San Jerónimo Tecóatl,,,,,,,,OAXACA,SAN JERONIMO TECOATL,1
+20164,Oaxaca,San Jorge Nuchita,,,,,,,,OAXACA,SAN JORGE NUCHITA,1
+20165,Oaxaca,San José Ayuquila,,,,,,,,OAXACA,SAN JOSE AYUQUILA,1
+20166,Oaxaca,San José Chiltepec,,,,,,,,OAXACA,SAN JOSE CHILTEPEC,1
+20167,Oaxaca,San José del Peñasco,,,,,,,,OAXACA,SAN JOSE DEL PEÑASCO,1
+20168,Oaxaca,San José Estancia Grande,,,,,,,,OAXACA,SAN JOSE ESTANCIA GRANDE,1
+20169,Oaxaca,San José Independencia,,,,,,,,OAXACA,SAN JOSE INDEPENDENCIA,1
+20170,Oaxaca,San José Lachiguiri,,,,,,,,OAXACA,SAN JOSE LACHIGUIRI,1
+20171,Oaxaca,San José Tenango,,,,,,,,OAXACA,SAN JOSE TENANGO,1
+20172,Oaxaca,San Juan Achiutla,,,,,,,,OAXACA,SAN JUAN ACHIUTLA,1
+20173,Oaxaca,San Juan Atepec,,,,,,,,OAXACA,SAN JUAN ATEPEC,1
+20174,Oaxaca,Ánimas Trujano,,,,,,,,OAXACA,ANIMAS TRUJANO,1
+20175,Oaxaca,San Juan Bautista Atatlahuca,,,,,,,,OAXACA,SAN JUAN BAUTISTA ATATLAHUCA,1
+20176,Oaxaca,San Juan Bautista Coixtlahuaca,,,,,,,,OAXACA,SAN JUAN BAUTISTA COIXTLAHUACA,1
+20177,Oaxaca,San Juan Bautista Cuicatlán,,,,,,,,OAXACA,SAN JUAN BAUTISTA CUICATLAN,1
+20178,Oaxaca,San Juan Bautista Guelache,,,,,,,,OAXACA,SAN JUAN BAUTISTA GUELACHE,1
+20179,Oaxaca,San Juan Bautista Jayacatlán,,,,,,,,OAXACA,SAN JUAN BAUTISTA JAYACATLAN,1
+20180,Oaxaca,San Juan Bautista Lo de Soto,,,,,,,,OAXACA,SAN JUAN BAUTISTA LO DE SOTO,1
+20181,Oaxaca,San Juan Bautista Suchitepec,,,,,,,,OAXACA,SAN JUAN BAUTISTA SUCHITEPEC,1
+20182,Oaxaca,San Juan Bautista Tlacoatzintepec,,,,,,,,OAXACA,SAN JUAN BAUTISTA TLACOATZINTEPEC,1
+20183,Oaxaca,San Juan Bautista Tlachichilco,,,,,,,,OAXACA,SAN JUAN BAUTISTA TLACHICHILCO,1
+20185,Oaxaca,San Juan Cacahuatepec,,,,,,,,OAXACA,SAN JUAN CACAHUATEPEC,1
+20186,Oaxaca,San Juan Cieneguilla,,,,,,,,OAXACA,SAN JUAN CIENEGUILLA,1
+20187,Oaxaca,San Juan Coatzóspam,,,,,,,,OAXACA,SAN JUAN COATZOSPAM,1
+20188,Oaxaca,San Juan Colorado,,,,,,,,OAXACA,SAN JUAN COLORADO,1
+20189,Oaxaca,San Juan Comaltepec,,,,,,,,OAXACA,SAN JUAN COMALTEPEC,1
+20190,Oaxaca,San Juan Cotzocón,,,,,,,,OAXACA,SAN JUAN COTZOCON,1
+20191,Oaxaca,San Juan Chicomezúchil,,,,,,,,OAXACA,SAN JUAN CHICOMEZUCHIL,1
+20192,Oaxaca,San Juan Chilateca,,,,,,,,OAXACA,SAN JUAN CHILATECA,1
+20193,Oaxaca,San Juan del Estado,,,,,,,,OAXACA,SAN JUAN DEL ESTADO,1
+20194,Oaxaca,San Juan del Río,,,,,,,,OAXACA,SAN JUAN DEL RIO,1
+20195,Oaxaca,San Juan Diuxi,,,,,,,,OAXACA,SAN JUAN DIUXI,1
+20196,Oaxaca,San Juan Evangelista Analco,,,,,,,,OAXACA,SAN JUAN EVANGELISTA ANALCO,1
+20197,Oaxaca,San Juan Guelavía,,,,,,,,OAXACA,SAN JUAN GUELAVIA,1
+20199,Oaxaca,San Juan Ihualtepec,,,,,,,,OAXACA,SAN JUAN IHUALTEPEC,1
+20200,Oaxaca,San Juan Juquila Mixes,,,,,,,,OAXACA,SAN JUAN JUQUILA MIXES,1
+20201,Oaxaca,San Juan Juquila Vijanos,,,,,,,,OAXACA,SAN JUAN JUQUILA VIJANOS,1
+20202,Oaxaca,San Juan Lachao,,,,,,,,OAXACA,SAN JUAN LACHAO,1
+20203,Oaxaca,San Juan Lachigalla,,,,,,,,OAXACA,SAN JUAN LACHIGALLA,1
+20204,Oaxaca,San Juan Lajarcia,,,,,,,,OAXACA,SAN JUAN LAJARCIA,1
+20205,Oaxaca,San Juan Lalana,,,,,,,,OAXACA,SAN JUAN LALANA,1
+20206,Oaxaca,San Juan de los Cués,,,,,,,,OAXACA,SAN JUAN DE LOS CUES,1
+20207,Oaxaca,San Juan Mazatlán,,,,,,,,OAXACA,SAN JUAN MAZATLAN,1
+20208,Oaxaca,San Juan Mixtepec,,,,,,,,OAXACA,SAN JUAN MIXTEPEC,1
+20210,Oaxaca,San Juan Ñumí,,,,,,,,OAXACA,SAN JUAN ÑUMI,1
+20211,Oaxaca,San Juan Ozolotepec,,,,,,,,OAXACA,SAN JUAN OZOLOTEPEC,1
+20212,Oaxaca,San Juan Petlapa,,,,,,,,OAXACA,SAN JUAN PETLAPA,1
+20213,Oaxaca,San Juan Quiahije,,,,,,,,OAXACA,SAN JUAN QUIAHIJE,1
+20214,Oaxaca,San Juan Quiotepec,,,,,,,,OAXACA,SAN JUAN QUIOTEPEC,1
+20215,Oaxaca,San Juan Sayultepec,,,,,,,,OAXACA,SAN JUAN SAYULTEPEC,1
+20216,Oaxaca,San Juan Tabaá,,,,,,,,OAXACA,SAN JUAN TABAA,1
+20217,Oaxaca,San Juan Tamazola,,,,,,,,OAXACA,SAN JUAN TAMAZOLA,1
+20218,Oaxaca,San Juan Teita,,,,,,,,OAXACA,SAN JUAN TEITA,1
+20219,Oaxaca,San Juan Teitipac,,,,,,,,OAXACA,SAN JUAN TEITIPAC,1
+20220,Oaxaca,San Juan Tepeuxila,,,,,,,,OAXACA,SAN JUAN TEPEUXILA,1
+20221,Oaxaca,San Juan Teposcolula,,,,,,,,OAXACA,SAN JUAN TEPOSCOLULA,1
+20222,Oaxaca,San Juan Yaeé,,,,,,,,OAXACA,SAN JUAN YAEE,1
+20223,Oaxaca,San Juan Yatzona,,,,,,,,OAXACA,SAN JUAN YATZONA,1
+20224,Oaxaca,San Juan Yucuita,,,,,,,,OAXACA,SAN JUAN YUCUITA,1
+20225,Oaxaca,San Lorenzo,,,,,,,,OAXACA,SAN LORENZO,1
+20226,Oaxaca,San Lorenzo Albarradas,,,,,,,,OAXACA,SAN LORENZO ALBARRADAS,1
+20227,Oaxaca,San Lorenzo Cacaotepec,,,,,,,,OAXACA,SAN LORENZO CACAOTEPEC,1
+20228,Oaxaca,San Lorenzo Cuaunecuiltitla,,,,,,,,OAXACA,SAN LORENZO CUAUNECUILTITLA,1
+20229,Oaxaca,San Lorenzo Texmelúcan,,,,,,,,OAXACA,SAN LORENZO TEXMELUCAN,1
+20230,Oaxaca,San Lorenzo Victoria,,,,,,,,OAXACA,SAN LORENZO VICTORIA,1
+20231,Oaxaca,San Lucas Camotlán,,,,,,,,OAXACA,SAN LUCAS CAMOTLAN,1
+20233,Oaxaca,San Lucas Quiaviní,,,,,,,,OAXACA,SAN LUCAS QUIAVINI,1
+20234,Oaxaca,San Lucas Zoquiápam,,,,,,,,OAXACA,SAN LUCAS ZOQUIAPAM,1
+20235,Oaxaca,San Luis Amatlán,,,,,,,,OAXACA,SAN LUIS AMATLAN,1
+20236,Oaxaca,San Marcial Ozolotepec,,,,,,,,OAXACA,SAN MARCIAL OZOLOTEPEC,1
+20237,Oaxaca,San Marcos Arteaga,,,,,,,,OAXACA,SAN MARCOS ARTEAGA,1
+20238,Oaxaca,San Martín de los Cansecos,,,,,,,,OAXACA,SAN MARTIN DE LOS CANSECOS,1
+20239,Oaxaca,San Martín Huamelúlpam,,,,,,,,OAXACA,SAN MARTIN HUAMELULPAM,1
+20240,Oaxaca,San Martín Itunyoso,,,,,,,,OAXACA,SAN MARTIN ITUNYOSO,1
+20241,Oaxaca,San Martín Lachilá,,,,,,,,OAXACA,SAN MARTIN LACHILA,1
+20242,Oaxaca,San Martín Peras,,,,,,,,OAXACA,SAN MARTIN PERAS,1
+20243,Oaxaca,San Martín Tilcajete,,,,,,,,OAXACA,SAN MARTIN TILCAJETE,1
+20244,Oaxaca,San Martín Toxpalan,,,,,,,,OAXACA,SAN MARTIN TOXPALAN,1
+20245,Oaxaca,San Martín Zacatepec,,,,,,,,OAXACA,SAN MARTIN ZACATEPEC,1
+20246,Oaxaca,San Mateo Cajonos,,,,,,,,OAXACA,SAN MATEO CAJONOS,1
+20247,Oaxaca,Capulálpam de Méndez,,,,,,,,OAXACA,CAPULALPAM DE MENDEZ,1
+20248,Oaxaca,San Mateo del Mar,,,,,,,,OAXACA,SAN MATEO DEL MAR,1
+20249,Oaxaca,San Mateo Yoloxochitlán,,,,,,,,OAXACA,SAN MATEO YOLOXOCHITLAN,1
+20250,Oaxaca,San Mateo Etlatongo,,,,,,,,OAXACA,SAN MATEO ETLATONGO,1
+20251,Oaxaca,San Mateo Nejápam,,,,,,,,OAXACA,SAN MATEO NEJAPAM,1
+20252,Oaxaca,San Mateo Peñasco,,,,,,,,OAXACA,SAN MATEO PEÑASCO,1
+20253,Oaxaca,San Mateo Piñas,,,,,,,,OAXACA,SAN MATEO PIÑAS,1
+20254,Oaxaca,San Mateo Río Hondo,,,,,,,,OAXACA,SAN MATEO RIO HONDO,1
+20255,Oaxaca,San Mateo Sindihui,,,,,,,,OAXACA,SAN MATEO SINDIHUI,1
+20256,Oaxaca,San Mateo Tlapiltepec,,,,,,,,OAXACA,SAN MATEO TLAPILTEPEC,1
+20257,Oaxaca,San Melchor Betaza,,,,,,,,OAXACA,SAN MELCHOR BETAZA,1
+20258,Oaxaca,San Miguel Achiutla,,,,,,,,OAXACA,SAN MIGUEL ACHIUTLA,1
+20259,Oaxaca,San Miguel Ahuehuetitlán,,,,,,,,OAXACA,SAN MIGUEL AHUEHUETITLAN,1
+20260,Oaxaca,San Miguel Aloápam,,,,,,,,OAXACA,SAN MIGUEL ALOAPAM,1
+20261,Oaxaca,San Miguel Amatitlán,,,,,,,,OAXACA,SAN MIGUEL AMATITLAN,1
+20262,Oaxaca,San Miguel Amatlán,,,,,,,,OAXACA,SAN MIGUEL AMATLAN,1
+20263,Oaxaca,San Miguel Coatlán,,,,,,,,OAXACA,SAN MIGUEL COATLAN,1
+20264,Oaxaca,San Miguel Chicahua,,,,,,,,OAXACA,SAN MIGUEL CHICAHUA,1
+20265,Oaxaca,San Miguel Chimalapa,,,,,,,,OAXACA,SAN MIGUEL CHIMALAPA,1
+20266,Oaxaca,San Miguel del Puerto,,,,,,,,OAXACA,SAN MIGUEL DEL PUERTO,1
+20267,Oaxaca,San Miguel del Río,,,,,,,,OAXACA,SAN MIGUEL DEL RIO,1
+20268,Oaxaca,San Miguel Ejutla,,,,,,,,OAXACA,SAN MIGUEL EJUTLA,1
+20269,Oaxaca,San Miguel el Grande,,,,,,,,OAXACA,SAN MIGUEL EL GRANDE,1
+20270,Oaxaca,San Miguel Huautla,,,,,,,,OAXACA,SAN MIGUEL HUAUTLA,1
+20271,Oaxaca,San Miguel Mixtepec,,,,,,,,OAXACA,SAN MIGUEL MIXTEPEC,1
+20272,Oaxaca,San Miguel Panixtlahuaca,,,,,,,,OAXACA,SAN MIGUEL PANIXTLAHUACA,1
+20273,Oaxaca,San Miguel Peras,,,,,,,,OAXACA,SAN MIGUEL PERAS,1
+20274,Oaxaca,San Miguel Piedras,,,,,,,,OAXACA,SAN MIGUEL PIEDRAS,1
+20275,Oaxaca,San Miguel Quetzaltepec,,,,,,,,OAXACA,SAN MIGUEL QUETZALTEPEC,1
+20276,Oaxaca,San Miguel Santa Flor,,,,,,,,OAXACA,SAN MIGUEL SANTA FLOR,1
+20277,Oaxaca,Villa Sola de Vega,,,,,,,,OAXACA,VILLA SOLA DE VEGA,1
+20279,Oaxaca,San Miguel Suchixtepec,,,,,,,,OAXACA,SAN MIGUEL SUCHIXTEPEC,1
+20280,Oaxaca,Villa Talea de Castro,,,,,,,,OAXACA,VILLA TALEA DE CASTRO,1
+20281,Oaxaca,San Miguel Tecomatlán,,,,,,,,OAXACA,SAN MIGUEL TECOMATLAN,1
+20282,Oaxaca,San Miguel Tenango,,,,,,,,OAXACA,SAN MIGUEL TENANGO,1
+20283,Oaxaca,San Miguel Tequixtepec,,,,,,,,OAXACA,SAN MIGUEL TEQUIXTEPEC,1
+20284,Oaxaca,San Miguel Tilquiápam,,,,,,,,OAXACA,SAN MIGUEL TILQUIAPAM,1
+20285,Oaxaca,San Miguel Tlacamama,,,,,,,,OAXACA,SAN MIGUEL TLACAMAMA,1
+20286,Oaxaca,San Miguel Tlacotepec,,,,,,,,OAXACA,SAN MIGUEL TLACOTEPEC,1
+20287,Oaxaca,San Miguel Tulancingo,,,,,,,,OAXACA,SAN MIGUEL TULANCINGO,1
+20288,Oaxaca,San Miguel Yotao,,,,,,,,OAXACA,SAN MIGUEL YOTAO,1
+20289,Oaxaca,San Nicolás,,,,,,,,OAXACA,SAN NICOLAS,1
+20290,Oaxaca,San Nicolás Hidalgo,,,,,,,,OAXACA,SAN NICOLAS HIDALGO,1
+20291,Oaxaca,San Pablo Coatlán,,,,,,,,OAXACA,SAN PABLO COATLAN,1
+20292,Oaxaca,San Pablo Cuatro Venados,,,,,,,,OAXACA,SAN PABLO CUATRO VENADOS,1
+20293,Oaxaca,San Pablo Etla,,,,,,,,OAXACA,SAN PABLO ETLA,1
+20294,Oaxaca,San Pablo Huitzo,,,,,,,,OAXACA,SAN PABLO HUITZO,1
+20295,Oaxaca,San Pablo Huixtepec,,,,,,,,OAXACA,SAN PABLO HUIXTEPEC,1
+20296,Oaxaca,San Pablo Macuiltianguis,,,,,,,,OAXACA,SAN PABLO MACUILTIANGUIS,1
+20297,Oaxaca,San Pablo Tijaltepec,,,,,,,,OAXACA,SAN PABLO TIJALTEPEC,1
+20298,Oaxaca,San Pablo Villa de Mitla,,,,,,,,OAXACA,SAN PABLO VILLA DE MITLA,1
+20299,Oaxaca,San Pablo Yaganiza,,,,,,,,OAXACA,SAN PABLO YAGANIZA,1
+20300,Oaxaca,San Pedro Amuzgos,,,,,,,,OAXACA,SAN PEDRO AMUZGOS,1
+20301,Oaxaca,San Pedro Apóstol,,,,,,,,OAXACA,SAN PEDRO APOSTOL,1
+20302,Oaxaca,San Pedro Atoyac,,,,,,,,OAXACA,SAN PEDRO ATOYAC,1
+20303,Oaxaca,San Pedro Cajonos,,,,,,,,OAXACA,SAN PEDRO CAJONOS,1
+20304,Oaxaca,San Pedro Coxcaltepec Cántaros,,,,,,,,OAXACA,SAN PEDRO COXCALTEPEC CANTAROS,1
+20305,Oaxaca,San Pedro Comitancillo,,,,,,,,OAXACA,SAN PEDRO COMITANCILLO,1
+20306,Oaxaca,San Pedro el Alto,,,,,,,,OAXACA,SAN PEDRO EL ALTO,1
+20307,Oaxaca,San Pedro Huamelula,,,,,,,,OAXACA,SAN PEDRO HUAMELULA,1
+20308,Oaxaca,San Pedro Huilotepec,,,,,,,,OAXACA,SAN PEDRO HUILOTEPEC,1
+20309,Oaxaca,San Pedro Ixcatlán,,,,,,,,OAXACA,SAN PEDRO IXCATLAN,1
+20310,Oaxaca,San Pedro Ixtlahuaca,,,,,,,,OAXACA,SAN PEDRO IXTLAHUACA,1
+20311,Oaxaca,San Pedro Jaltepetongo,,,,,,,,OAXACA,SAN PEDRO JALTEPETONGO,1
+20312,Oaxaca,San Pedro Jicayán,,,,,,,,OAXACA,SAN PEDRO JICAYAN,1
+20313,Oaxaca,San Pedro Jocotipac,,,,,,,,OAXACA,SAN PEDRO JOCOTIPAC,1
+20314,Oaxaca,San Pedro Juchatengo,,,,,,,,OAXACA,SAN PEDRO JUCHATENGO,1
+20315,Oaxaca,San Pedro Mártir,,,,,,,,OAXACA,SAN PEDRO MARTIR,1
+20316,Oaxaca,San Pedro Mártir Quiechapa,,,,,,,,OAXACA,SAN PEDRO MARTIR QUIECHAPA,1
+20317,Oaxaca,San Pedro Mártir Yucuxaco,,,,,,,,OAXACA,SAN PEDRO MARTIR YUCUXACO,1
+20320,Oaxaca,San Pedro Molinos,,,,,,,,OAXACA,SAN PEDRO MOLINOS,1
+20321,Oaxaca,San Pedro Nopala,,,,,,,,OAXACA,SAN PEDRO NOPALA,1
+20322,Oaxaca,San Pedro Ocopetatillo,,,,,,,,OAXACA,SAN PEDRO OCOPETATILLO,1
+20323,Oaxaca,San Pedro Ocotepec,,,,,,,,OAXACA,SAN PEDRO OCOTEPEC,1
+20325,Oaxaca,San Pedro Quiatoni,,,,,,,,OAXACA,SAN PEDRO QUIATONI,1
+20326,Oaxaca,San Pedro Sochiápam,,,,,,,,OAXACA,SAN PEDRO SOCHIAPAM,1
+20327,Oaxaca,San Pedro Tapanatepec,,,,,,,,OAXACA,SAN PEDRO TAPANATEPEC,1
+20328,Oaxaca,San Pedro Taviche,,,,,,,,OAXACA,SAN PEDRO TAVICHE,1
+20329,Oaxaca,San Pedro Teozacoalco,,,,,,,,OAXACA,SAN PEDRO TEOZACOALCO,1
+20330,Oaxaca,San Pedro Teutila,,,,,,,,OAXACA,SAN PEDRO TEUTILA,1
+20331,Oaxaca,San Pedro Tidaá,,,,,,,,OAXACA,SAN PEDRO TIDAA,1
+20332,Oaxaca,San Pedro Topiltepec,,,,,,,,OAXACA,SAN PEDRO TOPILTEPEC,1
+20333,Oaxaca,San Pedro Totolápam,,,,,,,,OAXACA,SAN PEDRO TOTOLAPAM,1
+20335,Oaxaca,San Pedro Yaneri,,,,,,,,OAXACA,SAN PEDRO YANERI,1
+20336,Oaxaca,San Pedro Yólox,,,,,,,,OAXACA,SAN PEDRO YOLOX,1
+20337,Oaxaca,San Pedro y San Pablo Ayutla,,,,,,,,OAXACA,SAN PEDRO Y SAN PABLO AYUTLA,1
+20338,Oaxaca,Villa de Etla,,,,,,,,OAXACA,VILLA DE ETLA,1
+20339,Oaxaca,San Pedro y San Pablo Teposcolula,,,,,,,,OAXACA,SAN PEDRO Y SAN PABLO TEPOSCOLULA,1
+20340,Oaxaca,San Pedro y San Pablo Tequixtepec,,,,,,,,OAXACA,SAN PEDRO Y SAN PABLO TEQUIXTEPEC,1
+20341,Oaxaca,San Pedro Yucunama,,,,,,,,OAXACA,SAN PEDRO YUCUNAMA,1
+20342,Oaxaca,San Raymundo Jalpan,,,,,,,,OAXACA,SAN RAYMUNDO JALPAN,1
+20343,Oaxaca,San Sebastián Abasolo,,,,,,,,OAXACA,SAN SEBASTIAN ABASOLO,1
+20344,Oaxaca,San Sebastián Coatlán,,,,,,,,OAXACA,SAN SEBASTIAN COATLAN,1
+20345,Oaxaca,San Sebastián Ixcapa,,,,,,,,OAXACA,SAN SEBASTIAN IXCAPA,1
+20346,Oaxaca,San Sebastián Nicananduta,,,,,,,,OAXACA,SAN SEBASTIAN NICANANDUTA,1
+20347,Oaxaca,San Sebastián Río Hondo,,,,,,,,OAXACA,SAN SEBASTIAN RIO HONDO,1
+20348,Oaxaca,San Sebastián Tecomaxtlahuaca,,,,,,,,OAXACA,SAN SEBASTIAN TECOMAXTLAHUACA,1
+20349,Oaxaca,San Sebastián Teitipac,,,,,,,,OAXACA,SAN SEBASTIAN TEITIPAC,1
+20350,Oaxaca,San Sebastián Tutla,,,,,,,,OAXACA,SAN SEBASTIAN TUTLA,1
+20351,Oaxaca,San Simón Almolongas,,,,,,,,OAXACA,SAN SIMON ALMOLONGAS,1
+20352,Oaxaca,San Simón Zahuatlán,,,,,,,,OAXACA,SAN SIMON ZAHUATLAN,1
+20353,Oaxaca,Santa Ana,,,,,,,,OAXACA,SANTA ANA,1
+20354,Oaxaca,Santa Ana Ateixtlahuaca,,,,,,,,OAXACA,SANTA ANA ATEIXTLAHUACA,1
+20355,Oaxaca,Santa Ana Cuauhtémoc,,,,,,,,OAXACA,SANTA ANA CUAUHTEMOC,1
+20356,Oaxaca,Santa Ana del Valle,,,,,,,,OAXACA,SANTA ANA DEL VALLE,1
+20357,Oaxaca,Santa Ana Tavela,,,,,,,,OAXACA,SANTA ANA TAVELA,1
+20358,Oaxaca,Santa Ana Tlapacoyan,,,,,,,,OAXACA,SANTA ANA TLAPACOYAN,1
+20359,Oaxaca,Santa Ana Yareni,,,,,,,,OAXACA,SANTA ANA YARENI,1
+20360,Oaxaca,Santa Ana Zegache,,,,,,,,OAXACA,SANTA ANA ZEGACHE,1
+20361,Oaxaca,Santa Catalina Quierí,,,,,,,,OAXACA,SANTA CATALINA QUIERI,1
+20362,Oaxaca,Santa Catarina Cuixtla,,,,,,,,OAXACA,SANTA CATARINA CUIXTLA,1
+20363,Oaxaca,Santa Catarina Ixtepeji,,,,,,,,OAXACA,SANTA CATARINA IXTEPEJI,1
+20364,Oaxaca,Santa Catarina Juquila,,,,,,,,OAXACA,SANTA CATARINA JUQUILA,1
+20365,Oaxaca,Santa Catarina Lachatao,,,,,,,,OAXACA,SANTA CATARINA LACHATAO,1
+20366,Oaxaca,Santa Catarina Loxicha,,,,,,,,OAXACA,SANTA CATARINA LOXICHA,1
+20367,Oaxaca,Santa Catarina Mechoacán,,,,,,,,OAXACA,SANTA CATARINA MECHOACAN,1
+20368,Oaxaca,Santa Catarina Minas,,,,,,,,OAXACA,SANTA CATARINA MINAS,1
+20369,Oaxaca,Santa Catarina Quiané,,,,,,,,OAXACA,SANTA CATARINA QUIANE,1
+20370,Oaxaca,Santa Catarina Tayata,,,,,,,,OAXACA,SANTA CATARINA TAYATA,1
+20371,Oaxaca,Santa Catarina Ticuá,,,,,,,,OAXACA,SANTA CATARINA TICUA,1
+20372,Oaxaca,Santa Catarina Yosonotú,,,,,,,,OAXACA,SANTA CATARINA YOSONOTU,1
+20373,Oaxaca,Santa Catarina Zapoquila,,,,,,,,OAXACA,SANTA CATARINA ZAPOQUILA,1
+20374,Oaxaca,Santa Cruz Acatepec,,,,,,,,OAXACA,SANTA CRUZ ACATEPEC,1
+20375,Oaxaca,Santa Cruz Amilpas,,,,,,,,OAXACA,SANTA CRUZ AMILPAS,1
+20376,Oaxaca,Santa Cruz de Bravo,,,,,,,,OAXACA,SANTA CRUZ DE BRAVO,1
+20377,Oaxaca,Santa Cruz Itundujia,,,,,,,,OAXACA,SANTA CRUZ ITUNDUJIA,1
+20378,Oaxaca,Santa Cruz Mixtepec,,,,,,,,OAXACA,SANTA CRUZ MIXTEPEC,1
+20379,Oaxaca,Santa Cruz Nundaco,,,,,,,,OAXACA,SANTA CRUZ NUNDACO,1
+20380,Oaxaca,Santa Cruz Papalutla,,,,,,,,OAXACA,SANTA CRUZ PAPALUTLA,1
+20381,Oaxaca,Santa Cruz Tacache de Mina,,,,,,,,OAXACA,SANTA CRUZ TACACHE DE MINA,1
+20382,Oaxaca,Santa Cruz Tacahua,,,,,,,,OAXACA,SANTA CRUZ TACAHUA,1
+20383,Oaxaca,Santa Cruz Tayata,,,,,,,,OAXACA,SANTA CRUZ TAYATA,1
+20384,Oaxaca,Santa Cruz Xitla,,,,,,,,OAXACA,SANTA CRUZ XITLA,1
+20386,Oaxaca,Santa Cruz Zenzontepec,,,,,,,,OAXACA,SANTA CRUZ ZENZONTEPEC,1
+20387,Oaxaca,Santa Gertrudis,,,,,,,,OAXACA,SANTA GERTRUDIS,1
+20388,Oaxaca,Santa Inés del Monte,,,,,,,,OAXACA,SANTA INES DEL MONTE,1
+20389,Oaxaca,Santa Inés Yatzeche,,,,,,,,OAXACA,SANTA INES YATZECHE,1
+20390,Oaxaca,Santa Lucía del Camino,,,,,,,,OAXACA,SANTA LUCIA DEL CAMINO,1
+20391,Oaxaca,Santa Lucía Miahuatlán,,,,,,,,OAXACA,SANTA LUCIA MIAHUATLAN,1
+20392,Oaxaca,Santa Lucía Monteverde,,,,,,,,OAXACA,SANTA LUCIA MONTEVERDE,1
+20393,Oaxaca,Santa Lucía Ocotlán,,,,,,,,OAXACA,SANTA LUCIA OCOTLAN,1
+20394,Oaxaca,Santa María Alotepec,,,,,,,,OAXACA,SANTA MARIA ALOTEPEC,1
+20395,Oaxaca,Santa María Apazco,,,,,,,,OAXACA,SANTA MARIA APAZCO,1
+20396,Oaxaca,Santa María la Asunción,,,,,,,,OAXACA,SANTA MARIA LA ASUNCION,1
+20398,Oaxaca,Ayoquezco de Aldama,,,,,,,,OAXACA,AYOQUEZCO DE ALDAMA,1
+20399,Oaxaca,Santa María Atzompa,,,,,,,,OAXACA,SANTA MARIA ATZOMPA,1
+20400,Oaxaca,Santa María Camotlán,,,,,,,,OAXACA,SANTA MARIA CAMOTLAN,1
+20401,Oaxaca,Santa María Colotepec,,,,,,,,OAXACA,SANTA MARIA COLOTEPEC,1
+20402,Oaxaca,Santa María Cortijo,,,,,,,,OAXACA,SANTA MARIA CORTIJO,1
+20403,Oaxaca,Santa María Coyotepec,,,,,,,,OAXACA,SANTA MARIA COYOTEPEC,1
+20404,Oaxaca,Santa María Chachoápam,,,,,,,,OAXACA,SANTA MARIA CHACHOAPAM,1
+20405,Oaxaca,Villa de Chilapa de Díaz,,,,,,,,OAXACA,VILLA DE CHILAPA DE DIAZ,1
+20406,Oaxaca,Santa María Chilchotla,,,,,,,,OAXACA,SANTA MARIA CHILCHOTLA,1
+20407,Oaxaca,Santa María Chimalapa,,,,,,,,OAXACA,SANTA MARIA CHIMALAPA,1
+20408,Oaxaca,Santa María del Rosario,,,,,,,,OAXACA,SANTA MARIA DEL ROSARIO,1
+20409,Oaxaca,Santa María del Tule,,,,,,,,OAXACA,SANTA MARIA DEL TULE,1
+20410,Oaxaca,Santa María Ecatepec,,,,,,,,OAXACA,SANTA MARIA ECATEPEC,1
+20411,Oaxaca,Santa María Guelacé,,,,,,,,OAXACA,SANTA MARIA GUELACE,1
+20412,Oaxaca,Santa María Guienagati,,,,,,,,OAXACA,SANTA MARIA GUIENAGATI,1
+20414,Oaxaca,Santa María Huazolotitlán,,,,,,,,OAXACA,SANTA MARIA HUAZOLOTITLAN,1
+20415,Oaxaca,Santa María Ipalapa,,,,,,,,OAXACA,SANTA MARIA IPALAPA,1
+20416,Oaxaca,Santa María Ixcatlán,,,,,,,,OAXACA,SANTA MARIA IXCATLAN,1
+20417,Oaxaca,Santa María Jacatepec,,,,,,,,OAXACA,SANTA MARIA JACATEPEC,1
+20418,Oaxaca,Santa María Jalapa del Marqués,,,,,,,,OAXACA,SANTA MARIA JALAPA DEL MARQUES,1
+20419,Oaxaca,Santa María Jaltianguis,,,,,,,,OAXACA,SANTA MARIA JALTIANGUIS,1
+20420,Oaxaca,Santa María Lachixío,,,,,,,,OAXACA,SANTA MARIA LACHIXIO,1
+20421,Oaxaca,Santa María Mixtequilla,,,,,,,,OAXACA,SANTA MARIA MIXTEQUILLA,1
+20422,Oaxaca,Santa María Nativitas,,,,,,,,OAXACA,SANTA MARIA NATIVITAS,1
+20423,Oaxaca,Santa María Nduayaco,,,,,,,,OAXACA,SANTA MARIA NDUAYACO,1
+20424,Oaxaca,Santa María Ozolotepec,,,,,,,,OAXACA,SANTA MARIA OZOLOTEPEC,1
+20425,Oaxaca,Santa María Pápalo,,,,,,,,OAXACA,SANTA MARIA PAPALO,1
+20426,Oaxaca,Santa María Peñoles,,,,,,,,OAXACA,SANTA MARIA PEÑOLES,1
+20427,Oaxaca,Santa María Petapa,,,,,,,,OAXACA,SANTA MARIA PETAPA,1
+20428,Oaxaca,Santa María Quiegolani,,,,,,,,OAXACA,SANTA MARIA QUIEGOLANI,1
+20429,Oaxaca,Santa María Sola,,,,,,,,OAXACA,SANTA MARIA SOLA,1
+20430,Oaxaca,Santa María Tataltepec,,,,,,,,OAXACA,SANTA MARIA TATALTEPEC,1
+20431,Oaxaca,Santa María Tecomavaca,,,,,,,,OAXACA,SANTA MARIA TECOMAVACA,1
+20432,Oaxaca,Santa María Temaxcalapa,,,,,,,,OAXACA,SANTA MARIA TEMAXCALAPA,1
+20433,Oaxaca,Santa María Temaxcaltepec,,,,,,,,OAXACA,SANTA MARIA TEMAXCALTEPEC,1
+20434,Oaxaca,Santa María Teopoxco,,,,,,,,OAXACA,SANTA MARIA TEOPOXCO,1
+20435,Oaxaca,Santa María Tepantlali,,,,,,,,OAXACA,SANTA MARIA TEPANTLALI,1
+20436,Oaxaca,Santa María Texcatitlán,,,,,,,,OAXACA,SANTA MARIA TEXCATITLAN,1
+20437,Oaxaca,Santa María Tlahuitoltepec,,,,,,,,OAXACA,SANTA MARIA TLAHUITOLTEPEC,1
+20438,Oaxaca,Santa María Tlalixtac,,,,,,,,OAXACA,SANTA MARIA TLALIXTAC,1
+20440,Oaxaca,Santa María Totolapilla,,,,,,,,OAXACA,SANTA MARIA TOTOLAPILLA,1
+20441,Oaxaca,Santa María Xadani,,,,,,,,OAXACA,SANTA MARIA XADANI,1
+20442,Oaxaca,Santa María Yalina,,,,,,,,OAXACA,SANTA MARIA YALINA,1
+20443,Oaxaca,Santa María Yavesía,,,,,,,,OAXACA,SANTA MARIA YAVESIA,1
+20444,Oaxaca,Santa María Yolotepec,,,,,,,,OAXACA,SANTA MARIA YOLOTEPEC,1
+20445,Oaxaca,Santa María Yosoyúa,,,,,,,,OAXACA,SANTA MARIA YOSOYUA,1
+20446,Oaxaca,Santa María Yucuhiti,,,,,,,,OAXACA,SANTA MARIA YUCUHITI,1
+20447,Oaxaca,Santa María Zacatepec,,,,,,,,OAXACA,SANTA MARIA ZACATEPEC,1
+20448,Oaxaca,Santa María Zaniza,,,,,,,,OAXACA,SANTA MARIA ZANIZA,1
+20449,Oaxaca,Santa María Zoquitlán,,,,,,,,OAXACA,SANTA MARIA ZOQUITLAN,1
+20450,Oaxaca,Santiago Amoltepec,,,,,,,,OAXACA,SANTIAGO AMOLTEPEC,1
+20451,Oaxaca,Santiago Apoala,,,,,,,,OAXACA,SANTIAGO APOALA,1
+20452,Oaxaca,Santiago Apóstol,,,,,,,,OAXACA,SANTIAGO APOSTOL,1
+20453,Oaxaca,Santiago Astata,,,,,,,,OAXACA,SANTIAGO ASTATA,1
+20454,Oaxaca,Santiago Atitlán,,,,,,,,OAXACA,SANTIAGO ATITLAN,1
+20455,Oaxaca,Santiago Ayuquililla,,,,,,,,OAXACA,SANTIAGO AYUQUILILLA,1
+20456,Oaxaca,Santiago Cacaloxtepec,,,,,,,,OAXACA,SANTIAGO CACALOXTEPEC,1
+20457,Oaxaca,Santiago Camotlán,,,,,,,,OAXACA,SANTIAGO CAMOTLAN,1
+20458,Oaxaca,Santiago Comaltepec,,,,,,,,OAXACA,SANTIAGO COMALTEPEC,1
+20459,Oaxaca,Villa de Santiago Chazumba,,,,,,,,OAXACA,VILLA DE SANTIAGO CHAZUMBA,1
+20460,Oaxaca,Santiago Choápam,,,,,,,,OAXACA,SANTIAGO CHOAPAM,1
+20461,Oaxaca,Santiago del Río,,,,,,,,OAXACA,SANTIAGO DEL RIO,1
+20462,Oaxaca,Santiago Huajolotitlán,,,,,,,,OAXACA,SANTIAGO HUAJOLOTITLAN,1
+20463,Oaxaca,Santiago Huauclilla,,,,,,,,OAXACA,SANTIAGO HUAUCLILLA,1
+20464,Oaxaca,Santiago Ihuitlán Plumas,,,,,,,,OAXACA,SANTIAGO IHUITLAN PLUMAS,1
+20465,Oaxaca,Santiago Ixcuintepec,,,,,,,,OAXACA,SANTIAGO IXCUINTEPEC,1
+20466,Oaxaca,Santiago Ixtayutla,,,,,,,,OAXACA,SANTIAGO IXTAYUTLA,1
+20467,Oaxaca,Santiago Jamiltepec,,,,,,,,OAXACA,SANTIAGO JAMILTEPEC,1
+20468,Oaxaca,Santiago Jocotepec,,,,,,,,OAXACA,SANTIAGO JOCOTEPEC,1
+20470,Oaxaca,Santiago Lachiguiri,,,,,,,,OAXACA,SANTIAGO LACHIGUIRI,1
+20471,Oaxaca,Santiago Lalopa,,,,,,,,OAXACA,SANTIAGO LALOPA,1
+20472,Oaxaca,Santiago Laollaga,,,,,,,,OAXACA,SANTIAGO LAOLLAGA,1
+20473,Oaxaca,Santiago Laxopa,,,,,,,,OAXACA,SANTIAGO LAXOPA,1
+20474,Oaxaca,Santiago Llano Grande,,,,,,,,OAXACA,SANTIAGO LLANO GRANDE,1
+20475,Oaxaca,Santiago Matatlán,,,,,,,,OAXACA,SANTIAGO MATATLAN,1
+20476,Oaxaca,Santiago Miltepec,,,,,,,,OAXACA,SANTIAGO MILTEPEC,1
+20477,Oaxaca,Santiago Minas,,,,,,,,OAXACA,SANTIAGO MINAS,1
+20478,Oaxaca,Santiago Nacaltepec,,,,,,,,OAXACA,SANTIAGO NACALTEPEC,1
+20479,Oaxaca,Santiago Nejapilla,,,,,,,,OAXACA,SANTIAGO NEJAPILLA,1
+20480,Oaxaca,Santiago Nundiche,,,,,,,,OAXACA,SANTIAGO NUNDICHE,1
+20481,Oaxaca,Santiago Nuyoó,,,,,,,,OAXACA,SANTIAGO NUYOO,1
+20483,Oaxaca,Santiago Suchilquitongo,,,,,,,,OAXACA,SANTIAGO SUCHILQUITONGO,1
+20484,Oaxaca,Santiago Tamazola,,,,,,,,OAXACA,SANTIAGO TAMAZOLA,1
+20485,Oaxaca,Santiago Tapextla,,,,,,,,OAXACA,SANTIAGO TAPEXTLA,1
+20486,Oaxaca,Villa Tejúpam de la Unión,,,,,,,,OAXACA,VILLA TEJUPAM DE LA UNION,1
+20487,Oaxaca,Santiago Tenango,,,,,,,,OAXACA,SANTIAGO TENANGO,1
+20488,Oaxaca,Santiago Tepetlapa,,,,,,,,OAXACA,SANTIAGO TEPETLAPA,1
+20489,Oaxaca,Santiago Tetepec,,,,,,,,OAXACA,SANTIAGO TETEPEC,1
+20490,Oaxaca,Santiago Texcalcingo,,,,,,,,OAXACA,SANTIAGO TEXCALCINGO,1
+20491,Oaxaca,Santiago Textitlán,,,,,,,,OAXACA,SANTIAGO TEXTITLAN,1
+20492,Oaxaca,Santiago Tilantongo,,,,,,,,OAXACA,SANTIAGO TILANTONGO,1
+20493,Oaxaca,Santiago Tillo,,,,,,,,OAXACA,SANTIAGO TILLO,1
+20494,Oaxaca,Santiago Tlazoyaltepec,,,,,,,,OAXACA,SANTIAGO TLAZOYALTEPEC,1
+20495,Oaxaca,Santiago Xanica,,,,,,,,OAXACA,SANTIAGO XANICA,1
+20496,Oaxaca,Santiago Xiacuí,,,,,,,,OAXACA,SANTIAGO XIACUI,1
+20497,Oaxaca,Santiago Yaitepec,,,,,,,,OAXACA,SANTIAGO YAITEPEC,1
+20498,Oaxaca,Santiago Yaveo,,,,,,,,OAXACA,SANTIAGO YAVEO,1
+20499,Oaxaca,Santiago Yolomécatl,,,,,,,,OAXACA,SANTIAGO YOLOMECATL,1
+20500,Oaxaca,Santiago Yosondúa,,,,,,,,OAXACA,SANTIAGO YOSONDUA,1
+20501,Oaxaca,Santiago Yucuyachi,,,,,,,,OAXACA,SANTIAGO YUCUYACHI,1
+20502,Oaxaca,Santiago Zacatepec,,,,,,,,OAXACA,SANTIAGO ZACATEPEC,1
+20503,Oaxaca,Santiago Zoochila,,,,,,,,OAXACA,SANTIAGO ZOOCHILA,1
+20504,Oaxaca,Nuevo Zoquiápam,,,,,,,,OAXACA,NUEVO ZOQUIAPAM,1
+20505,Oaxaca,Santo Domingo Ingenio,,,,,,,,OAXACA,SANTO DOMINGO INGENIO,1
+20506,Oaxaca,Santo Domingo Albarradas,,,,,,,,OAXACA,SANTO DOMINGO ALBARRADAS,1
+20507,Oaxaca,Santo Domingo Armenta,,,,,,,,OAXACA,SANTO DOMINGO ARMENTA,1
+20508,Oaxaca,Santo Domingo Chihuitán,,,,,,,,OAXACA,SANTO DOMINGO CHIHUITAN,1
+20509,Oaxaca,Santo Domingo de Morelos,,,,,,,,OAXACA,SANTO DOMINGO DE MORELOS,1
+20510,Oaxaca,Santo Domingo Ixcatlán,,,,,,,,OAXACA,SANTO DOMINGO IXCATLAN,1
+20511,Oaxaca,Santo Domingo Nuxaá,,,,,,,,OAXACA,SANTO DOMINGO NUXAA,1
+20512,Oaxaca,Santo Domingo Ozolotepec,,,,,,,,OAXACA,SANTO DOMINGO OZOLOTEPEC,1
+20513,Oaxaca,Santo Domingo Petapa,,,,,,,,OAXACA,SANTO DOMINGO PETAPA,1
+20514,Oaxaca,Santo Domingo Roayaga,,,,,,,,OAXACA,SANTO DOMINGO ROAYAGA,1
+20516,Oaxaca,Santo Domingo Teojomulco,,,,,,,,OAXACA,SANTO DOMINGO TEOJOMULCO,1
+20517,Oaxaca,Santo Domingo Tepuxtepec,,,,,,,,OAXACA,SANTO DOMINGO TEPUXTEPEC,1
+20518,Oaxaca,Santo Domingo Tlatayápam,,,,,,,,OAXACA,SANTO DOMINGO TLATAYAPAM,1
+20519,Oaxaca,Santo Domingo Tomaltepec,,,,,,,,OAXACA,SANTO DOMINGO TOMALTEPEC,1
+20520,Oaxaca,Santo Domingo Tonalá,,,,,,,,OAXACA,SANTO DOMINGO TONALA,1
+20521,Oaxaca,Santo Domingo Tonaltepec,,,,,,,,OAXACA,SANTO DOMINGO TONALTEPEC,1
+20522,Oaxaca,Santo Domingo Xagacía,,,,,,,,OAXACA,SANTO DOMINGO XAGACIA,1
+20523,Oaxaca,Santo Domingo Yanhuitlán,,,,,,,,OAXACA,SANTO DOMINGO YANHUITLAN,1
+20524,Oaxaca,Santo Domingo Yodohino,,,,,,,,OAXACA,SANTO DOMINGO YODOHINO,1
+20525,Oaxaca,Santo Domingo Zanatepec,,,,,,,,OAXACA,SANTO DOMINGO ZANATEPEC,1
+20526,Oaxaca,Santos Reyes Nopala,,,,,,,,OAXACA,SANTOS REYES NOPALA,1
+20527,Oaxaca,Santos Reyes Pápalo,,,,,,,,OAXACA,SANTOS REYES PAPALO,1
+20528,Oaxaca,Santos Reyes Tepejillo,,,,,,,,OAXACA,SANTOS REYES TEPEJILLO,1
+20529,Oaxaca,Santos Reyes Yucuná,,,,,,,,OAXACA,SANTOS REYES YUCUNA,1
+20530,Oaxaca,Santo Tomás Jalieza,,,,,,,,OAXACA,SANTO TOMAS JALIEZA,1
+20531,Oaxaca,Santo Tomás Mazaltepec,,,,,,,,OAXACA,SANTO TOMAS MAZALTEPEC,1
+20532,Oaxaca,Santo Tomás Ocotepec,,,,,,,,OAXACA,SANTO TOMAS OCOTEPEC,1
+20533,Oaxaca,Santo Tomás Tamazulapan,,,,,,,,OAXACA,SANTO TOMAS TAMAZULAPAN,1
+20534,Oaxaca,San Vicente Coatlán,,,,,,,,OAXACA,SAN VICENTE COATLAN,1
+20535,Oaxaca,San Vicente Lachixío,,,,,,,,OAXACA,SAN VICENTE LACHIXIO,1
+20536,Oaxaca,San Vicente Nuñú,,,,,,,,OAXACA,SAN VICENTE NUÑU,1
+20537,Oaxaca,Silacayoápam,,,,,,,,OAXACA,SILACAYOAPAM,1
+20538,Oaxaca,Sitio de Xitlapehua,,,,,,,,OAXACA,SITIO DE XITLAPEHUA,1
+20539,Oaxaca,Soledad Etla,,,,,,,,OAXACA,SOLEDAD ETLA,1
+20540,Oaxaca,Villa de Tamazulápam del Progreso,,,,,,,,OAXACA,VILLA DE TAMAZULAPAM DEL PROGRESO,1
+20541,Oaxaca,Tanetze de Zaragoza,,,,,,,,OAXACA,TANETZE DE ZARAGOZA,1
+20542,Oaxaca,Taniche,,,,,,,,OAXACA,TANICHE,1
+20543,Oaxaca,Tataltepec de Valdés,,,,,,,,OAXACA,TATALTEPEC DE VALDES,1
+20544,Oaxaca,Teococuilco de Marcos Pérez,,,,,,,,OAXACA,TEOCOCUILCO DE MARCOS PEREZ,1
+20545,Oaxaca,Teotitlán de Flores Magón,,,,,,,,OAXACA,TEOTITLAN DE FLORES MAGON,1
+20546,Oaxaca,Teotitlán del Valle,,,,,,,,OAXACA,TEOTITLAN DEL VALLE,1
+20547,Oaxaca,Teotongo,,,,,,,,OAXACA,TEOTONGO,1
+20548,Oaxaca,Tepelmeme Villa de Morelos,,,,,,,,OAXACA,TEPELMEME VILLA DE MORELOS,1
+20549,Oaxaca,"Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca",,,,,,,,OAXACA,"HEROICA VILLA TEZOATLAN DE SEGURA Y LUNA, CUNA DE LA INDEPENDENCIA DE OAXACA",1
+20550,Oaxaca,San Jerónimo Tlacochahuaya,,,,,,,,OAXACA,SAN JERONIMO TLACOCHAHUAYA,1
+20552,Oaxaca,Tlacotepec Plumas,,,,,,,,OAXACA,TLACOTEPEC PLUMAS,1
+20553,Oaxaca,Tlalixtac de Cabrera,,,,,,,,OAXACA,TLALIXTAC DE CABRERA,1
+20554,Oaxaca,Totontepec Villa de Morelos,,,,,,,,OAXACA,TOTONTEPEC VILLA DE MORELOS,1
+20555,Oaxaca,Trinidad Zaachila,,,,,,,,OAXACA,TRINIDAD ZAACHILA,1
+20556,Oaxaca,La Trinidad Vista Hermosa,,,,,,,,OAXACA,LA TRINIDAD VISTA HERMOSA,1
+20557,Oaxaca,Unión Hidalgo,,,,,,,,OAXACA,UNION HIDALGO,1
+20558,Oaxaca,Valerio Trujano,,,,,,,,OAXACA,VALERIO TRUJANO,1
+20559,Oaxaca,San Juan Bautista Valle Nacional,,,,,,,,OAXACA,SAN JUAN BAUTISTA VALLE NACIONAL,1
+20560,Oaxaca,Villa Díaz Ordaz,,,,,,,,OAXACA,VILLA DIAZ ORDAZ,1
+20561,Oaxaca,Yaxe,,,,,,,,OAXACA,YAXE,1
+20562,Oaxaca,Magdalena Yodocono de Porfirio Díaz,,,,,,,,OAXACA,MAGDALENA YODOCONO DE PORFIRIO DIAZ,1
+20563,Oaxaca,Yogana,,,,,,,,OAXACA,YOGANA,1
+20564,Oaxaca,Yutanduchi de Guerrero,,,,,,,,OAXACA,YUTANDUCHI DE GUERRERO,1
+20566,Oaxaca,San Mateo Yucutindoo,,,,,,,,OAXACA,SAN MATEO YUCUTINDOO,1
+20567,Oaxaca,Zapotitlán Lagunas,,,,,,,,OAXACA,ZAPOTITLAN LAGUNAS,1
+20568,Oaxaca,Zapotitlán Palmas,,,,,,,,OAXACA,ZAPOTITLAN PALMAS,1
+20569,Oaxaca,Santa Inés de Zaragoza,,,,,,,,OAXACA,SANTA INES DE ZARAGOZA,1
+20570,Oaxaca,Zimatlán de Álvarez,,,,,,,,OAXACA,ZIMATLAN DE ALVAREZ,1
+21002,Puebla,Acateno,,,,,,,,PUEBLA,ACATENO,1
+21005,Puebla,Acteopan,,,,,,,,PUEBLA,ACTEOPAN,1
+21006,Puebla,Ahuacatlán,,,,,,,,PUEBLA,AHUACATLAN,1
+21007,Puebla,Ahuatlán,,,,,,,,PUEBLA,AHUATLAN,1
+21008,Puebla,Ahuazotepec,,,,,,,,PUEBLA,AHUAZOTEPEC,1
+21009,Puebla,Ahuehuetitla,,,,,,,,PUEBLA,AHUEHUETITLA,1
+21011,Puebla,Albino Zertuche,,,,,,,,PUEBLA,ALBINO ZERTUCHE,1
+21012,Puebla,Aljojuca,,,,,,,,PUEBLA,ALJOJUCA,1
+21013,Puebla,Altepexi,,,,,,,,PUEBLA,ALTEPEXI,1
+21014,Puebla,Amixtlán,,,,,,,,PUEBLA,AMIXTLAN,1
+21016,Puebla,Aquixtla,,,,,,,,PUEBLA,AQUIXTLA,1
+21018,Puebla,Atexcal,,,,,,,,PUEBLA,ATEXCAL,1
+21020,Puebla,Atoyatempan,,,,,,,,PUEBLA,ATOYATEMPAN,1
+21021,Puebla,Atzala,,,,,,,,PUEBLA,ATZALA,1
+21022,Puebla,Atzitzihuacán,,,,,,,,PUEBLA,ATZITZIHUACAN,1
+21023,Puebla,Atzitzintla,,,,,,,,PUEBLA,ATZITZINTLA,1
+21024,Puebla,Axutla,,,,,,,,PUEBLA,AXUTLA,1
+21025,Puebla,Ayotoxco de Guerrero,,,,,,,,PUEBLA,AYOTOXCO DE GUERRERO,1
+21026,Puebla,Calpan,,,,,,,,PUEBLA,CALPAN,1
+21027,Puebla,Caltepec,,,,,,,,PUEBLA,CALTEPEC,1
+21028,Puebla,Camocuautla,,,,,,,,PUEBLA,CAMOCUAUTLA,1
+21029,Puebla,Caxhuacan,,,,,,,,PUEBLA,CAXHUACAN,1
+21030,Puebla,Coatepec,,,,,,,,PUEBLA,COATEPEC,1
+21031,Puebla,Coatzingo,,,,,,,,PUEBLA,COATZINGO,1
+21032,Puebla,Cohetzala,,,,,,,,PUEBLA,COHETZALA,1
+21033,Puebla,Cohuecan,,,,,,,,PUEBLA,COHUECAN,1
+21034,Puebla,Coronango,,,,,,,,PUEBLA,CORONANGO,1
+21035,Puebla,Coxcatlán,,,,,,,,PUEBLA,COXCATLAN,1
+21036,Puebla,Coyomeapan,,,,,,,,PUEBLA,COYOMEAPAN,1
+21037,Puebla,Coyotepec,,,,,,,,PUEBLA,COYOTEPEC,1
+21038,Puebla,Cuapiaxtla de Madero,,,,,,,,PUEBLA,CUAPIAXTLA DE MADERO,1
+21039,Puebla,Cuautempan,,,,,,,,PUEBLA,CUAUTEMPAN,1
+21040,Puebla,Cuautinchán,,,,,,,,PUEBLA,CUAUTINCHAN,1
+21041,Puebla,Cuautlancingo,,,,,,,,PUEBLA,CUAUTLANCINGO,1
+21042,Puebla,Cuayuca de Andrade,,,,,,,,PUEBLA,CUAYUCA DE ANDRADE,1
+21043,Puebla,Cuetzalan del Progreso,,,,,,,,PUEBLA,CUETZALAN DEL PROGRESO,1
+21044,Puebla,Cuyoaco,,,,,,,,PUEBLA,CUYOACO,1
+21046,Puebla,Chapulco,,,,,,,,PUEBLA,CHAPULCO,1
+21049,Puebla,Chiconcuautla,,,,,,,,PUEBLA,CHICONCUAUTLA,1
+21050,Puebla,Chichiquila,,,,,,,,PUEBLA,CHICHIQUILA,1
+21052,Puebla,Chigmecatitlán,,,,,,,,PUEBLA,CHIGMECATITLAN,1
+21055,Puebla,Chila,,,,,,,,PUEBLA,CHILA,1
+21056,Puebla,Chila de la Sal,,,,,,,,PUEBLA,CHILA DE LA SAL,1
+21057,Puebla,Honey,,,,,,,,PUEBLA,HONEY,1
+21058,Puebla,Chilchotla,,,,,,,,PUEBLA,CHILCHOTLA,1
+21059,Puebla,Chinantla,,,,,,,,PUEBLA,CHINANTLA,1
+21060,Puebla,Domingo Arenas,,,,,,,,PUEBLA,DOMINGO ARENAS,1
+21061,Puebla,Eloxochitlán,,,,,,,,PUEBLA,ELOXOCHITLAN,1
+21062,Puebla,Epatlán,,,,,,,,PUEBLA,EPATLAN,1
+21063,Puebla,Esperanza,,,,,,,,PUEBLA,ESPERANZA,1
+21064,Puebla,Francisco Z. Mena,,,,,,,,PUEBLA,FRANCISCO Z. MENA,1
+21066,Puebla,Guadalupe,,,,,,,,PUEBLA,GUADALUPE,1
+21067,Puebla,Guadalupe Victoria,,,,,,,,PUEBLA,GUADALUPE VICTORIA,1
+21068,Puebla,Hermenegildo Galeana,,,,,,,,PUEBLA,HERMENEGILDO GALEANA,1
+21070,Puebla,Huatlatlauca,,,,,,,,PUEBLA,HUATLATLAUCA,1
+21072,Puebla,Huehuetla,,,,,,,,PUEBLA,HUEHUETLA,1
+21073,Puebla,Huehuetlán el Chico,,,,,,,,PUEBLA,HUEHUETLAN EL CHICO,1
+21075,Puebla,Hueyapan,,,,,,,,PUEBLA,HUEYAPAN,1
+21077,Puebla,Hueytlalpan,,,,,,,,PUEBLA,HUEYTLALPAN,1
+21078,Puebla,Huitzilan de Serdán,,,,,,,,PUEBLA,HUITZILAN DE SERDAN,1
+21079,Puebla,Huitziltepec,,,,,,,,PUEBLA,HUITZILTEPEC,1
+21080,Puebla,Atlequizayan,,,,,,,,PUEBLA,ATLEQUIZAYAN,1
+21081,Puebla,Ixcamilpa de Guerrero,,,,,,,,PUEBLA,IXCAMILPA DE GUERRERO,1
+21082,Puebla,Ixcaquixtla,,,,,,,,PUEBLA,IXCAQUIXTLA,1
+21083,Puebla,Ixtacamaxtitlán,,,,,,,,PUEBLA,IXTACAMAXTITLAN,1
+21084,Puebla,Ixtepec,,,,,,,,PUEBLA,IXTEPEC,1
+21086,Puebla,Jalpan,,,,,,,,PUEBLA,JALPAN,1
+21087,Puebla,Jolalpan,,,,,,,,PUEBLA,JOLALPAN,1
+21088,Puebla,Jonotla,,,,,,,,PUEBLA,JONOTLA,1
+21089,Puebla,Jopala,,,,,,,,PUEBLA,JOPALA,1
+21090,Puebla,Juan C. Bonilla,,,,,,,,PUEBLA,JUAN C. BONILLA,1
+21091,Puebla,Juan Galindo,,,,,,,,PUEBLA,JUAN GALINDO,1
+21092,Puebla,Juan N. Méndez,,,,,,,,PUEBLA,JUAN N. MENDEZ,1
+21093,Puebla,Lafragua,,,,,,,,PUEBLA,LAFRAGUA,1
+21095,Puebla,La Magdalena Tlatlauquitepec,,,,,,,,PUEBLA,LA MAGDALENA TLATLAUQUITEPEC,1
+21096,Puebla,Mazapiltepec de Juárez,,,,,,,,PUEBLA,MAZAPILTEPEC DE JUAREZ,1
+21097,Puebla,Mixtla,,,,,,,,PUEBLA,MIXTLA,1
+21098,Puebla,Molcaxac,,,,,,,,PUEBLA,MOLCAXAC,1
+21100,Puebla,Naupan,,,,,,,,PUEBLA,NAUPAN,1
+21101,Puebla,Nauzontla,,,,,,,,PUEBLA,NAUZONTLA,1
+21102,Puebla,Nealtican,,,,,,,,PUEBLA,NEALTICAN,1
+21103,Puebla,Nicolás Bravo,,,,,,,,PUEBLA,NICOLAS BRAVO,1
+21105,Puebla,Ocotepec,,,,,,,,PUEBLA,OCOTEPEC,1
+21107,Puebla,Olintla,,,,,,,,PUEBLA,OLINTLA,1
+21108,Puebla,Oriental,,,,,,,,PUEBLA,ORIENTAL,1
+21109,Puebla,Pahuatlán,,,,,,,,PUEBLA,PAHUATLAN,1
+21111,Puebla,Pantepec,,,,,,,,PUEBLA,PANTEPEC,1
+21112,Puebla,Petlalcingo,,,,,,,,PUEBLA,PETLALCINGO,1
+21113,Puebla,Piaxtla,,,,,,,,PUEBLA,PIAXTLA,1
+21116,Puebla,Quimixtlán,,,,,,,,PUEBLA,QUIMIXTLAN,1
+21117,Puebla,Rafael Lara Grajales,,,,,,,,PUEBLA,RAFAEL LARA GRAJALES,1
+21118,Puebla,Los Reyes de Juárez,,,,,,,,PUEBLA,LOS REYES DE JUAREZ,1
+21120,Puebla,San Antonio Cañada,,,,,,,,PUEBLA,SAN ANTONIO CAÑADA,1
+21121,Puebla,San Diego la Mesa Tochimiltzingo,,,,,,,,PUEBLA,SAN DIEGO LA MESA TOCHIMILTZINGO,1
+21122,Puebla,San Felipe Teotlalcingo,,,,,,,,PUEBLA,SAN FELIPE TEOTLALCINGO,1
+21123,Puebla,San Felipe Tepatlán,,,,,,,,PUEBLA,SAN FELIPE TEPATLAN,1
+21124,Puebla,San Gabriel Chilac,,,,,,,,PUEBLA,SAN GABRIEL CHILAC,1
+21125,Puebla,San Gregorio Atzompa,,,,,,,,PUEBLA,SAN GREGORIO ATZOMPA,1
+21126,Puebla,San Jerónimo Tecuanipan,,,,,,,,PUEBLA,SAN JERONIMO TECUANIPAN,1
+21127,Puebla,San Jerónimo Xayacatlán,,,,,,,,PUEBLA,SAN JERONIMO XAYACATLAN,1
+21128,Puebla,San José Chiapa,,,,,,,,PUEBLA,SAN JOSE CHIAPA,1
+21129,Puebla,San José Miahuatlán,,,,,,,,PUEBLA,SAN JOSE MIAHUATLAN,1
+21130,Puebla,San Juan Atenco,,,,,,,,PUEBLA,SAN JUAN ATENCO,1
+21131,Puebla,San Juan Atzompa,,,,,,,,PUEBLA,SAN JUAN ATZOMPA,1
+21133,Puebla,San Martín Totoltepec,,,,,,,,PUEBLA,SAN MARTIN TOTOLTEPEC,1
+21135,Puebla,San Miguel Ixitlán,,,,,,,,PUEBLA,SAN MIGUEL IXITLAN,1
+21136,Puebla,San Miguel Xoxtla,,,,,,,,PUEBLA,SAN MIGUEL XOXTLA,1
+21137,Puebla,San Nicolás Buenos Aires,,,,,,,,PUEBLA,SAN NICOLAS BUENOS AIRES,1
+21138,Puebla,San Nicolás de los Ranchos,,,,,,,,PUEBLA,SAN NICOLAS DE LOS RANCHOS,1
+21139,Puebla,San Pablo Anicano,,,,,,,,PUEBLA,SAN PABLO ANICANO,1
+21141,Puebla,San Pedro Yeloixtlahuaca,,,,,,,,PUEBLA,SAN PEDRO YELOIXTLAHUACA,1
+21144,Puebla,San Salvador Huixcolotla,,,,,,,,PUEBLA,SAN SALVADOR HUIXCOLOTLA,1
+21145,Puebla,San Sebastián Tlacotepec,,,,,,,,PUEBLA,SAN SEBASTIAN TLACOTEPEC,1
+21146,Puebla,Santa Catarina Tlaltempan,,,,,,,,PUEBLA,SANTA CATARINA TLALTEMPAN,1
+21147,Puebla,Santa Inés Ahuatempan,,,,,,,,PUEBLA,SANTA INES AHUATEMPAN,1
+21148,Puebla,Santa Isabel Cholula,,,,,,,,PUEBLA,SANTA ISABEL CHOLULA,1
+21150,Puebla,Huehuetlán el Grande,,,,,,,,PUEBLA,HUEHUETLAN EL GRANDE,1
+21151,Puebla,Santo Tomás Hueyotlipan,,,,,,,,PUEBLA,SANTO TOMAS HUEYOTLIPAN,1
+21152,Puebla,Soltepec,,,,,,,,PUEBLA,SOLTEPEC,1
+21155,Puebla,Tecomatlán,,,,,,,,PUEBLA,TECOMATLAN,1
+21156,Puebla,Tehuacán,,,,,,,,PUEBLA,TEHUACAN,1
+21157,Puebla,Tehuitzingo,,,,,,,,PUEBLA,TEHUITZINGO,1
+21158,Puebla,Tenampulco,,,,,,,,PUEBLA,TENAMPULCO,1
+21159,Puebla,Teopantlán,,,,,,,,PUEBLA,TEOPANTLAN,1
+21160,Puebla,Teotlalco,,,,,,,,PUEBLA,TEOTLALCO,1
+21162,Puebla,Tepango de Rodríguez,,,,,,,,PUEBLA,TEPANGO DE RODRIGUEZ,1
+21163,Puebla,Tepatlaxco de Hidalgo,,,,,,,,PUEBLA,TEPATLAXCO DE HIDALGO,1
+21165,Puebla,Tepemaxalco,,,,,,,,PUEBLA,TEPEMAXALCO,1
+21166,Puebla,Tepeojuma,,,,,,,,PUEBLA,TEPEOJUMA,1
+21167,Puebla,Tepetzintla,,,,,,,,PUEBLA,TEPETZINTLA,1
+21168,Puebla,Tepexco,,,,,,,,PUEBLA,TEPEXCO,1
+21170,Puebla,Tepeyahualco,,,,,,,,PUEBLA,TEPEYAHUALCO,1
+21171,Puebla,Tepeyahualco de Cuauhtémoc,,,,,,,,PUEBLA,TEPEYAHUALCO DE CUAUHTEMOC,1
+21173,Puebla,Teteles de Ávila Castillo,,,,,,,,PUEBLA,TETELES DE AVILA CASTILLO,1
+21175,Puebla,Tianguismanalco,,,,,,,,PUEBLA,TIANGUISMANALCO,1
+21176,Puebla,Tilapa,,,,,,,,PUEBLA,TILAPA,1
+21178,Puebla,Tlacuilotepec,,,,,,,,PUEBLA,TLACUILOTEPEC,1
+21181,Puebla,Tlaltenango,,,,,,,,PUEBLA,TLALTENANGO,1
+21182,Puebla,Tlanepantla,,,,,,,,PUEBLA,TLANEPANTLA,1
+21184,Puebla,Tlapacoya,,,,,,,,PUEBLA,TLAPACOYA,1
+21185,Puebla,Tlapanalá,,,,,,,,PUEBLA,TLAPANALA,1
+21187,Puebla,Tlaxco,,,,,,,,PUEBLA,TLAXCO,1
+21188,Puebla,Tochimilco,,,,,,,,PUEBLA,TOCHIMILCO,1
+21189,Puebla,Tochtepec,,,,,,,,PUEBLA,TOCHTEPEC,1
+21190,Puebla,Totoltepec de Guerrero,,,,,,,,PUEBLA,TOTOLTEPEC DE GUERRERO,1
+21191,Puebla,Tulcingo,,,,,,,,PUEBLA,TULCINGO,1
+21192,Puebla,Tuzamapan de Galeana,,,,,,,,PUEBLA,TUZAMAPAN DE GALEANA,1
+21193,Puebla,Tzicatlacoyan,,,,,,,,PUEBLA,TZICATLACOYAN,1
+21196,Puebla,Xayacatlán de Bravo,,,,,,,,PUEBLA,XAYACATLAN DE BRAVO,1
+21198,Puebla,Xicotlán,,,,,,,,PUEBLA,XICOTLAN,1
+21200,Puebla,Xochiapulco,,,,,,,,PUEBLA,XOCHIAPULCO,1
+21201,Puebla,Xochiltepec,,,,,,,,PUEBLA,XOCHILTEPEC,1
+21202,Puebla,Xochitlán de Vicente Suárez,,,,,,,,PUEBLA,XOCHITLAN DE VICENTE SUAREZ,1
+21203,Puebla,Xochitlán Todos Santos,,,,,,,,PUEBLA,XOCHITLAN TODOS SANTOS,1
+21204,Puebla,Yaonáhuac,,,,,,,,PUEBLA,YAONAHUAC,1
+21205,Puebla,Yehualtepec,,,,,,,,PUEBLA,YEHUALTEPEC,1
+21206,Puebla,Zacapala,,,,,,,,PUEBLA,ZACAPALA,1
+21209,Puebla,Zapotitlán,,,,,,,,PUEBLA,ZAPOTITLAN,1
+21210,Puebla,Zapotitlán de Méndez,,,,,,,,PUEBLA,ZAPOTITLAN DE MENDEZ,1
+21211,Puebla,Zaragoza,,,,,,,,PUEBLA,ZARAGOZA,1
+21212,Puebla,Zautla,,,,,,,,PUEBLA,ZAUTLA,1
+21213,Puebla,Zihuateutla,,,,,,,,PUEBLA,ZIHUATEUTLA,1
+21214,Puebla,Zinacatepec,,,,,,,,PUEBLA,ZINACATEPEC,1
+21215,Puebla,Zongozotla,,,,,,,,PUEBLA,ZONGOZOTLA,1
+21216,Puebla,Zoquiapan,,,,,,,,PUEBLA,ZOQUIAPAN,1
+21217,Puebla,Zoquitlán,,,,,,,,PUEBLA,ZOQUITLAN,1
+22003,Querétaro,Arroyo Seco,,,,,,,,QUERETARO,ARROYO SECO,1
+22006,Querétaro,Corregidora,,,,,,,,QUERETARO,CORREGIDORA,1
+22010,Querétaro,Landa de Matamoros,,,,,,,,QUERETARO,LANDA DE MATAMOROS,1
+22011,Querétaro,El Marqués,,,,,,,,QUERETARO,EL MARQUES,1
+22013,Querétaro,Peñamiller,,,,,,,,QUERETARO,PEÑAMILLER,1
+22015,Querétaro,San Joaquín,,,,,,,,QUERETARO,SAN JOAQUIN,1
+22016,Querétaro,San Juan del Río,,,,,,,,QUERETARO,SAN JUAN DEL RIO,1
+23004,Quintana Roo,Othón P. Blanco,,,,,,,,QUINTANA ROO,OTHON P. BLANCO,1
+23008,Quintana Roo,Solidaridad,,,,,,,,QUINTANA ROO,SOLIDARIDAD,1
+24001,San Luis Potosí,Ahualulco,,,,,,,,SAN LUIS POTOSI,AHUALULCO,1
+24002,San Luis Potosí,Alaquines,,,,,,,,SAN LUIS POTOSI,ALAQUINES,1
+24004,San Luis Potosí,Armadillo de los Infante,,,,,,,,SAN LUIS POTOSI,ARMADILLO DE LOS INFANTE,1
+24005,San Luis Potosí,Cárdenas,,,,,,,,SAN LUIS POTOSI,CARDENAS,1
+24006,San Luis Potosí,Catorce,,,,,,,,SAN LUIS POTOSI,CATORCE,1
+24007,San Luis Potosí,Cedral,,,,,,,,SAN LUIS POTOSI,CEDRAL,1
+24009,San Luis Potosí,Cerro de San Pedro,,,,,,,,SAN LUIS POTOSI,CERRO DE SAN PEDRO,1
+24012,San Luis Potosí,Tancanhuitz,,,,,,,,SAN LUIS POTOSI,TANCANHUITZ,1
+24013,San Luis Potosí,Ciudad Valles,,,,,,,,SAN LUIS POTOSI,CIUDAD VALLES,1
+24014,San Luis Potosí,Coxcatlán,,,,,,,,SAN LUIS POTOSI,COXCATLAN,1
+24018,San Luis Potosí,Huehuetlán,,,,,,,,SAN LUIS POTOSI,HUEHUETLAN,1
+24019,San Luis Potosí,Lagunillas,,,,,,,,SAN LUIS POTOSI,LAGUNILLAS,1
+24022,San Luis Potosí,Moctezuma,,,,,,,,SAN LUIS POTOSI,MOCTEZUMA,1
+24023,San Luis Potosí,Rayón,,,,,,,,SAN LUIS POTOSI,RAYON,1
+24026,San Luis Potosí,San Antonio,,,,,,,,SAN LUIS POTOSI,SAN ANTONIO,1
+24027,San Luis Potosí,San Ciro de Acosta,,,,,,,,SAN LUIS POTOSI,SAN CIRO DE ACOSTA,1
+24029,San Luis Potosí,San Martín Chalchicuautla,,,,,,,,SAN LUIS POTOSI,SAN MARTIN CHALCHICUAUTLA,1
+24030,San Luis Potosí,San Nicolás Tolentino,,,,,,,,SAN LUIS POTOSI,SAN NICOLAS TOLENTINO,1
+24031,San Luis Potosí,Santa Catarina,,,,,,,,SAN LUIS POTOSI,SANTA CATARINA,1
+24033,San Luis Potosí,Santo Domingo,,,,,,,,SAN LUIS POTOSI,SANTO DOMINGO,1
+24034,San Luis Potosí,San Vicente Tancuayalab,,,,,,,,SAN LUIS POTOSI,SAN VICENTE TANCUAYALAB,1
+24035,San Luis Potosí,Soledad de Graciano Sánchez,,,,,,,,SAN LUIS POTOSI,SOLEDAD DE GRACIANO SANCHEZ,1
+24038,San Luis Potosí,Tampacán,,,,,,,,SAN LUIS POTOSI,TAMPACAN,1
+24039,San Luis Potosí,Tampamolón Corona,,,,,,,,SAN LUIS POTOSI,TAMPAMOLON CORONA,1
+24041,San Luis Potosí,Tanlajás,,,,,,,,SAN LUIS POTOSI,TANLAJAS,1
+24042,San Luis Potosí,Tanquián de Escobedo,,,,,,,,SAN LUIS POTOSI,TANQUIAN DE ESCOBEDO,1
+24043,San Luis Potosí,Tierra Nueva,,,,,,,,SAN LUIS POTOSI,TIERRA NUEVA,1
+24044,San Luis Potosí,Vanegas,,,,,,,,SAN LUIS POTOSI,VANEGAS,1
+24045,San Luis Potosí,Venado,,,,,,,,SAN LUIS POTOSI,VENADO,1
+24046,San Luis Potosí,Villa de Arriaga,,,,,,,,SAN LUIS POTOSI,VILLA DE ARRIAGA,1
+24047,San Luis Potosí,Villa de Guadalupe,,,,,,,,SAN LUIS POTOSI,VILLA DE GUADALUPE,1
+24048,San Luis Potosí,Villa de la Paz,,,,,,,,SAN LUIS POTOSI,VILLA DE LA PAZ,1
+24051,San Luis Potosí,Villa Hidalgo,,,,,,,,SAN LUIS POTOSI,VILLA HIDALGO,1
+24052,San Luis Potosí,Villa Juárez,,,,,,,,SAN LUIS POTOSI,VILLA JUAREZ,1
+24056,San Luis Potosí,Villa de Arista,,,,,,,,SAN LUIS POTOSI,VILLA DE ARISTA,1
+25003,Sinaloa,Badiraguato,,,,,,,,SINALOA,BADIRAGUATO,1
+25005,Sinaloa,Cosalá,,,,,,,,SINALOA,COSALA,1
+25011,Sinaloa,Guasave,,,,,,,,SINALOA,GUASAVE,1
+25016,Sinaloa,San Ignacio,,,,,,,,SINALOA,SAN IGNACIO,1
+26001,Sonora,Aconchi,,,,,,,,SONORA,ACONCHI,1
+26004,Sonora,Altar,,,,,,,,SONORA,ALTAR,1
+26005,Sonora,Arivechi,,,,,,,,SONORA,ARIVECHI,1
+26006,Sonora,Arizpe,,,,,,,,SONORA,ARIZPE,1
+26007,Sonora,Atil,,,,,,,,SONORA,ATIL,1
+26008,Sonora,Bacadéhuachi,,,,,,,,SONORA,BACADEHUACHI,1
+26009,Sonora,Bacanora,,,,,,,,SONORA,BACANORA,1
+26010,Sonora,Bacerac,,,,,,,,SONORA,BACERAC,1
+26011,Sonora,Bacoachi,,,,,,,,SONORA,BACOACHI,1
+26013,Sonora,Banámichi,,,,,,,,SONORA,BANAMICHI,1
+26014,Sonora,Baviácora,,,,,,,,SONORA,BAVIACORA,1
+26015,Sonora,Bavispe,,,,,,,,SONORA,BAVISPE,1
+26016,Sonora,Benjamín Hill,,,,,,,,SONORA,BENJAMIN HILL,1
+26020,Sonora,Carbó,,,,,,,,SONORA,CARBO,1
+26021,Sonora,La Colorada,,,,,,,,SONORA,LA COLORADA,1
+26022,Sonora,Cucurpe,,,,,,,,SONORA,CUCURPE,1
+26023,Sonora,Cumpas,,,,,,,,SONORA,CUMPAS,1
+26024,Sonora,Divisaderos,,,,,,,,SONORA,DIVISADEROS,1
+26027,Sonora,Fronteras,,,,,,,,SONORA,FRONTERAS,1
+26028,Sonora,Granados,,,,,,,,SONORA,GRANADOS,1
+26031,Sonora,Huachinera,,,,,,,,SONORA,HUACHINERA,1
+26032,Sonora,Huásabas,,,,,,,,SONORA,HUASABAS,1
+26034,Sonora,Huépac,,,,,,,,SONORA,HUEPAC,1
+26035,Sonora,Imuris,,,,,,,,SONORA,IMURIS,1
+26037,Sonora,Mazatán,,,,,,,,SONORA,MAZATAN,1
+26038,Sonora,Moctezuma,,,,,,,,SONORA,MOCTEZUMA,1
+26039,Sonora,Naco,,,,,,,,SONORA,NACO,1
+26040,Sonora,Nácori Chico,,,,,,,,SONORA,NACORI CHICO,1
+26041,Sonora,Nacozari de García,,,,,,,,SONORA,NACOZARI DE GARCIA,1
+26043,Sonora,Nogales,,,,,,,,SONORA,NOGALES,1
+26044,Sonora,Ónavas,,,,,,,,SONORA,ONAVAS,1
+26045,Sonora,Opodepe,,,,,,,,SONORA,OPODEPE,1
+26046,Sonora,Oquitoa,,,,,,,,SONORA,OQUITOA,1
+26047,Sonora,Pitiquito,,,,,,,,SONORA,PITIQUITO,1
+26049,Sonora,Quiriego,,,,,,,,SONORA,QUIRIEGO,1
+26050,Sonora,Rayón,,,,,,,,SONORA,RAYON,1
+26051,Sonora,Rosario,,,,,,,,SONORA,ROSARIO,1
+26052,Sonora,Sahuaripa,,,,,,,,SONORA,SAHUARIPA,1
+26053,Sonora,San Felipe de Jesús,,,,,,,,SONORA,SAN FELIPE DE JESUS,1
+26054,Sonora,San Javier,,,,,,,,SONORA,SAN JAVIER,1
+26056,Sonora,San Miguel de Horcasitas,,,,,,,,SONORA,SAN MIGUEL DE HORCASITAS,1
+26057,Sonora,San Pedro de la Cueva,,,,,,,,SONORA,SAN PEDRO DE LA CUEVA,1
+26058,Sonora,Santa Ana,,,,,,,,SONORA,SANTA ANA,1
+26059,Sonora,Santa Cruz,,,,,,,,SONORA,SANTA CRUZ,1
+26060,Sonora,Sáric,,,,,,,,SONORA,SARIC,1
+26061,Sonora,Soyopa,,,,,,,,SONORA,SOYOPA,1
+26062,Sonora,Suaqui Grande,,,,,,,,SONORA,SUAQUI GRANDE,1
+26063,Sonora,Tepache,,,,,,,,SONORA,TEPACHE,1
+26064,Sonora,Trincheras,,,,,,,,SONORA,TRINCHERAS,1
+26065,Sonora,Tubutama,,,,,,,,SONORA,TUBUTAMA,1
+26066,Sonora,Ures,,,,,,,,SONORA,URES,1
+26067,Sonora,Villa Hidalgo,,,,,,,,SONORA,VILLA HIDALGO,1
+26068,Sonora,Villa Pesqueira,,,,,,,,SONORA,VILLA PESQUEIRA,1
+26069,Sonora,Yécora,,,,,,,,SONORA,YECORA,1
+26070,Sonora,General Plutarco Elías Calles,,,,,,,,SONORA,GENERAL PLUTARCO ELIAS CALLES,1
+26072,Sonora,San Ignacio Río Muerto,,,,,,,,SONORA,SAN IGNACIO RIO MUERTO,1
+27002,Tabasco,Cárdenas,,,,,,,,TABASCO,CARDENAS,1
+27005,Tabasco,Comalcalco,,,,,,,,TABASCO,COMALCALCO,1
+27007,Tabasco,Emiliano Zapata,,,,,,,,TABASCO,EMILIANO ZAPATA,1
+27011,Tabasco,Jonuta,,,,,,,,TABASCO,JONUTA,1
+28001,Tamaulipas,Abasolo,,,,,,,,TAMAULIPAS,ABASOLO,1
+28003,Tamaulipas,Altamira,,,,,,,,TAMAULIPAS,ALTAMIRA,1
+28004,Tamaulipas,Antiguo Morelos,,,,,,,,TAMAULIPAS,ANTIGUO MORELOS,1
+28005,Tamaulipas,Burgos,,,,,,,,TAMAULIPAS,BURGOS,1
+28006,Tamaulipas,Bustamante,,,,,,,,TAMAULIPAS,BUSTAMANTE,1
+28007,Tamaulipas,Camargo,,,,,,,,TAMAULIPAS,CAMARGO,1
+28008,Tamaulipas,Casas,,,,,,,,TAMAULIPAS,CASAS,1
+28009,Tamaulipas,Ciudad Madero,,,,,,,,TAMAULIPAS,CIUDAD MADERO,1
+28010,Tamaulipas,Cruillas,,,,,,,,TAMAULIPAS,CRUILLAS,1
+28011,Tamaulipas,Gómez Farías,,,,,,,,TAMAULIPAS,GOMEZ FARIAS,1
+28013,Tamaulipas,Güémez,,,,,,,,TAMAULIPAS,GüEMEZ,1
+28014,Tamaulipas,Guerrero,,,,,,,,TAMAULIPAS,GUERRERO,1
+28015,Tamaulipas,Gustavo Díaz Ordaz,,,,,,,,TAMAULIPAS,GUSTAVO DIAZ ORDAZ,1
+28016,Tamaulipas,Hidalgo,,,,,,,,TAMAULIPAS,HIDALGO,1
+28017,Tamaulipas,Jaumave,,,,,,,,TAMAULIPAS,JAUMAVE,1
+28018,Tamaulipas,Jiménez,,,,,,,,TAMAULIPAS,JIMENEZ,1
+28019,Tamaulipas,Llera,,,,,,,,TAMAULIPAS,LLERA,1
+28020,Tamaulipas,Mainero,,,,,,,,TAMAULIPAS,MAINERO,1
+28023,Tamaulipas,Méndez,,,,,,,,TAMAULIPAS,MENDEZ,1
+28024,Tamaulipas,Mier,,,,,,,,TAMAULIPAS,MIER,1
+28026,Tamaulipas,Miquihuana,,,,,,,,TAMAULIPAS,MIQUIHUANA,1
+28028,Tamaulipas,Nuevo Morelos,,,,,,,,TAMAULIPAS,NUEVO MORELOS,1
+28029,Tamaulipas,Ocampo,,,,,,,,TAMAULIPAS,OCAMPO,1
+28030,Tamaulipas,Padilla,,,,,,,,TAMAULIPAS,PADILLA,1
+28031,Tamaulipas,Palmillas,,,,,,,,TAMAULIPAS,PALMILLAS,1
+28034,Tamaulipas,San Carlos,,,,,,,,TAMAULIPAS,SAN CARLOS,1
+28036,Tamaulipas,San Nicolás,,,,,,,,TAMAULIPAS,SAN NICOLAS,1
+28038,Tamaulipas,Tampico,,,,,,,,TAMAULIPAS,TAMPICO,1
+28041,Tamaulipas,Victoria,,,,,,,,TAMAULIPAS,VICTORIA,1
+28042,Tamaulipas,Villagrán,,,,,,,,TAMAULIPAS,VILLAGRAN,1
+29001,Tlaxcala,Amaxac de Guerrero,,,,,,,,TLAXCALA,AMAXAC DE GUERRERO,1
+29002,Tlaxcala,Apetatitlán de Antonio Carvajal,,,,,,,,TLAXCALA,APETATITLAN DE ANTONIO CARVAJAL,1
+29003,Tlaxcala,Atlangatepec,,,,,,,,TLAXCALA,ATLANGATEPEC,1
+29004,Tlaxcala,Atltzayanca,,,,,,,,TLAXCALA,ATLTZAYANCA,1
+29005,Tlaxcala,Apizaco,,,,,,,,TLAXCALA,APIZACO,1
+29006,Tlaxcala,Calpulalpan,,,,,,,,TLAXCALA,CALPULALPAN,1
+29007,Tlaxcala,El Carmen Tequexquitla,,,,,,,,TLAXCALA,EL CARMEN TEQUEXQUITLA,1
+29008,Tlaxcala,Cuapiaxtla,,,,,,,,TLAXCALA,CUAPIAXTLA,1
+29009,Tlaxcala,Cuaxomulco,,,,,,,,TLAXCALA,CUAXOMULCO,1
+29010,Tlaxcala,Chiautempan,,,,,,,,TLAXCALA,CHIAUTEMPAN,1
+29011,Tlaxcala,Muñoz de Domingo Arenas,,,,,,,,TLAXCALA,MUÑOZ DE DOMINGO ARENAS,1
+29012,Tlaxcala,Españita,,,,,,,,TLAXCALA,ESPAÑITA,1
+29013,Tlaxcala,Huamantla,,,,,,,,TLAXCALA,HUAMANTLA,1
+29014,Tlaxcala,Hueyotlipan,,,,,,,,TLAXCALA,HUEYOTLIPAN,1
+29015,Tlaxcala,Ixtacuixtla de Mariano Matamoros,,,,,,,,TLAXCALA,IXTACUIXTLA DE MARIANO MATAMOROS,1
+29016,Tlaxcala,Ixtenco,,,,,,,,TLAXCALA,IXTENCO,1
+29017,Tlaxcala,Mazatecochco de José María Morelos,,,,,,,,TLAXCALA,MAZATECOCHCO DE JOSE MARIA MORELOS,1
+29018,Tlaxcala,Contla de Juan Cuamatzi,,,,,,,,TLAXCALA,CONTLA DE JUAN CUAMATZI,1
+29019,Tlaxcala,Tepetitla de Lardizábal,,,,,,,,TLAXCALA,TEPETITLA DE LARDIZABAL,1
+29020,Tlaxcala,Sanctórum de Lázaro Cárdenas,,,,,,,,TLAXCALA,SANCTORUM DE LAZARO CARDENAS,1
+29021,Tlaxcala,Nanacamilpa de Mariano Arista,,,,,,,,TLAXCALA,NANACAMILPA DE MARIANO ARISTA,1
+29022,Tlaxcala,Acuamanala de Miguel Hidalgo,,,,,,,,TLAXCALA,ACUAMANALA DE MIGUEL HIDALGO,1
+29023,Tlaxcala,Natívitas,,,,,,,,TLAXCALA,NATIVITAS,1
+29024,Tlaxcala,Panotla,,,,,,,,TLAXCALA,PANOTLA,1
+29025,Tlaxcala,San Pablo del Monte,,,,,,,,TLAXCALA,SAN PABLO DEL MONTE,1
+29026,Tlaxcala,Santa Cruz Tlaxcala,,,,,,,,TLAXCALA,SANTA CRUZ TLAXCALA,1
+29027,Tlaxcala,Tenancingo,,,,,,,,TLAXCALA,TENANCINGO,1
+29028,Tlaxcala,Teolocholco,,,,,,,,TLAXCALA,TEOLOCHOLCO,1
+29029,Tlaxcala,Tepeyanco,,,,,,,,TLAXCALA,TEPEYANCO,1
+29030,Tlaxcala,Terrenate,,,,,,,,TLAXCALA,TERRENATE,1
+29031,Tlaxcala,Tetla de la Solidaridad,,,,,,,,TLAXCALA,TETLA DE LA SOLIDARIDAD,1
+29032,Tlaxcala,Tetlatlahuca,,,,,,,,TLAXCALA,TETLATLAHUCA,1
+29033,Tlaxcala,Tlaxcala,,,,,,,,TLAXCALA,TLAXCALA,1
+29034,Tlaxcala,Tlaxco,,,,,,,,TLAXCALA,TLAXCO,1
+29035,Tlaxcala,Tocatlán,,,,,,,,TLAXCALA,TOCATLAN,1
+29036,Tlaxcala,Totolac,,,,,,,,TLAXCALA,TOTOLAC,1
+29037,Tlaxcala,Ziltlaltépec de Trinidad Sánchez Santos,,,,,,,,TLAXCALA,ZILTLALTEPEC DE TRINIDAD SANCHEZ SANTOS,1
+29038,Tlaxcala,Tzompantepec,,,,,,,,TLAXCALA,TZOMPANTEPEC,1
+29039,Tlaxcala,Xaloztoc,,,,,,,,TLAXCALA,XALOZTOC,1
+29040,Tlaxcala,Xaltocan,,,,,,,,TLAXCALA,XALTOCAN,1
+29041,Tlaxcala,Papalotla de Xicohténcatl,,,,,,,,TLAXCALA,PAPALOTLA DE XICOHTENCATL,1
+29042,Tlaxcala,Xicohtzinco,,,,,,,,TLAXCALA,XICOHTZINCO,1
+29043,Tlaxcala,Yauhquemehcan,,,,,,,,TLAXCALA,YAUHQUEMEHCAN,1
+29044,Tlaxcala,Zacatelco,,,,,,,,TLAXCALA,ZACATELCO,1
+29045,Tlaxcala,Benito Juárez,,,,,,,,TLAXCALA,BENITO JUAREZ,1
+29046,Tlaxcala,Emiliano Zapata,,,,,,,,TLAXCALA,EMILIANO ZAPATA,1
+29047,Tlaxcala,Lázaro Cárdenas,,,,,,,,TLAXCALA,LAZARO CARDENAS,1
+29048,Tlaxcala,La Magdalena Tlaltelulco,,,,,,,,TLAXCALA,LA MAGDALENA TLALTELULCO,1
+29049,Tlaxcala,San Damián Texóloc,,,,,,,,TLAXCALA,SAN DAMIAN TEXOLOC,1
+29050,Tlaxcala,San Francisco Tetlanohcan,,,,,,,,TLAXCALA,SAN FRANCISCO TETLANOHCAN,1
+29051,Tlaxcala,San Jerónimo Zacualpan,,,,,,,,TLAXCALA,SAN JERONIMO ZACUALPAN,1
+29052,Tlaxcala,San José Teacalco,,,,,,,,TLAXCALA,SAN JOSE TEACALCO,1
+29053,Tlaxcala,San Juan Huactzinco,,,,,,,,TLAXCALA,SAN JUAN HUACTZINCO,1
+29054,Tlaxcala,San Lorenzo Axocomanitla,,,,,,,,TLAXCALA,SAN LORENZO AXOCOMANITLA,1
+29055,Tlaxcala,San Lucas Tecopilco,,,,,,,,TLAXCALA,SAN LUCAS TECOPILCO,1
+29056,Tlaxcala,Santa Ana Nopalucan,,,,,,,,TLAXCALA,SANTA ANA NOPALUCAN,1
+29057,Tlaxcala,Santa Apolonia Teacalco,,,,,,,,TLAXCALA,SANTA APOLONIA TEACALCO,1
+29058,Tlaxcala,Santa Catarina Ayometla,,,,,,,,TLAXCALA,SANTA CATARINA AYOMETLA,1
+29059,Tlaxcala,Santa Cruz Quilehtla,,,,,,,,TLAXCALA,SANTA CRUZ QUILEHTLA,1
+29060,Tlaxcala,Santa Isabel Xiloxoxtla,,,,,,,,TLAXCALA,SANTA ISABEL XILOXOXTLA,1
+30001,Veracruz de Ignacio de la Llave,Acajete,,,,,,,,VERACRUZ,ACAJETE,1
+30002,Veracruz de Ignacio de la Llave,Acatlán,,,,,,,,VERACRUZ,ACATLAN,1
+30005,Veracruz de Ignacio de la Llave,Acula,,,,,,,,VERACRUZ,ACULA,1
+30007,Veracruz de Ignacio de la Llave,Camarón de Tejeda,,,,,,,,VERACRUZ,CAMARON DE TEJEDA,1
+30008,Veracruz de Ignacio de la Llave,Alpatláhuac,,,,,,,,VERACRUZ,ALPATLAHUAC,1
+30012,Veracruz de Ignacio de la Llave,Amatitlán,,,,,,,,VERACRUZ,AMATITLAN,1
+30017,Veracruz de Ignacio de la Llave,Apazapan,,,,,,,,VERACRUZ,APAZAPAN,1
+30018,Veracruz de Ignacio de la Llave,Aquila,,,,,,,,VERACRUZ,AQUILA,1
+30019,Veracruz de Ignacio de la Llave,Astacinga,,,,,,,,VERACRUZ,ASTACINGA,1
+30020,Veracruz de Ignacio de la Llave,Atlahuilco,,,,,,,,VERACRUZ,ATLAHUILCO,1
+30024,Veracruz de Ignacio de la Llave,Tlaltetela,,,,,,,,VERACRUZ,TLALTETELA,1
+30025,Veracruz de Ignacio de la Llave,Ayahualulco,,,,,,,,VERACRUZ,AYAHUALULCO,1
+30026,Veracruz de Ignacio de la Llave,Banderilla,,,,,,,,VERACRUZ,BANDERILLA,1
+30027,Veracruz de Ignacio de la Llave,Benito Juárez,,,,,,,,VERACRUZ,BENITO JUAREZ,1
+30029,Veracruz de Ignacio de la Llave,Calcahualco,,,,,,,,VERACRUZ,CALCAHUALCO,1
+30030,Veracruz de Ignacio de la Llave,Camerino Z. Mendoza,,,,,,,,VERACRUZ,CAMERINO Z. MENDOZA,1
+30031,Veracruz de Ignacio de la Llave,Carrillo Puerto,,,,,,,,VERACRUZ,CARRILLO PUERTO,1
+30035,Veracruz de Ignacio de la Llave,Citlaltépetl,,,,,,,,VERACRUZ,CITLALTEPETL,1
+30036,Veracruz de Ignacio de la Llave,Coacoatzintla,,,,,,,,VERACRUZ,COACOATZINTLA,1
+30037,Veracruz de Ignacio de la Llave,Coahuitlán,,,,,,,,VERACRUZ,COAHUITLAN,1
+30039,Veracruz de Ignacio de la Llave,Coatzacoalcos,,,,,,,,VERACRUZ,COATZACOALCOS,1
+30041,Veracruz de Ignacio de la Llave,Coetzala,,,,,,,,VERACRUZ,COETZALA,1
+30042,Veracruz de Ignacio de la Llave,Colipa,,,,,,,,VERACRUZ,COLIPA,1
+30043,Veracruz de Ignacio de la Llave,Comapa,,,,,,,,VERACRUZ,COMAPA,1
+30044,Veracruz de Ignacio de la Llave,Córdoba,,,,,,,,VERACRUZ,CORDOBA,1
+30046,Veracruz de Ignacio de la Llave,Cosautlán de Carvajal,,,,,,,,VERACRUZ,COSAUTLAN DE CARVAJAL,1
+30050,Veracruz de Ignacio de la Llave,Coxquihui,,,,,,,,VERACRUZ,COXQUIHUI,1
+30052,Veracruz de Ignacio de la Llave,Cuichapa,,,,,,,,VERACRUZ,CUICHAPA,1
+30054,Veracruz de Ignacio de la Llave,Chacaltianguis,,,,,,,,VERACRUZ,CHACALTIANGUIS,1
+30055,Veracruz de Ignacio de la Llave,Chalma,,,,,,,,VERACRUZ,CHALMA,1
+30056,Veracruz de Ignacio de la Llave,Chiconamel,,,,,,,,VERACRUZ,CHICONAMEL,1
+30057,Veracruz de Ignacio de la Llave,Chiconquiaco,,,,,,,,VERACRUZ,CHICONQUIACO,1
+30060,Veracruz de Ignacio de la Llave,Chinampa de Gorostiza,,,,,,,,VERACRUZ,CHINAMPA DE GOROSTIZA,1
+30062,Veracruz de Ignacio de la Llave,Chocamán,,,,,,,,VERACRUZ,CHOCAMAN,1
+30063,Veracruz de Ignacio de la Llave,Chontla,,,,,,,,VERACRUZ,CHONTLA,1
+30064,Veracruz de Ignacio de la Llave,Chumatlán,,,,,,,,VERACRUZ,CHUMATLAN,1
+30067,Veracruz de Ignacio de la Llave,Filomeno Mata,,,,,,,,VERACRUZ,FILOMENO MATA,1
+30068,Veracruz de Ignacio de la Llave,Fortín,,,,,,,,VERACRUZ,FORTIN,1
+30070,Veracruz de Ignacio de la Llave,Hidalgotitlán,,,,,,,,VERACRUZ,HIDALGOTITLAN,1
+30072,Veracruz de Ignacio de la Llave,Huayacocotla,,,,,,,,VERACRUZ,HUAYACOCOTLA,1
+30074,Veracruz de Ignacio de la Llave,Huiloapan de Cuauhtémoc,,,,,,,,VERACRUZ,HUILOAPAN DE CUAUHTEMOC,1
+30075,Veracruz de Ignacio de la Llave,Ignacio de la Llave,,,,,,,,VERACRUZ,IGNACIO DE LA LLAVE,1
+30076,Veracruz de Ignacio de la Llave,Ilamatlán,,,,,,,,VERACRUZ,ILAMATLAN,1
+30078,Veracruz de Ignacio de la Llave,Ixcatepec,,,,,,,,VERACRUZ,IXCATEPEC,1
+30079,Veracruz de Ignacio de la Llave,Ixhuacán de los Reyes,,,,,,,,VERACRUZ,IXHUACAN DE LOS REYES,1
+30081,Veracruz de Ignacio de la Llave,Ixhuatlancillo,,,,,,,,VERACRUZ,IXHUATLANCILLO,1
+30082,Veracruz de Ignacio de la Llave,Ixhuatlán del Sureste,,,,,,,,VERACRUZ,IXHUATLAN DEL SURESTE,1
+30083,Veracruz de Ignacio de la Llave,Ixhuatlán de Madero,,,,,,,,VERACRUZ,IXHUATLAN DE MADERO,1
+30084,Veracruz de Ignacio de la Llave,Ixmatlahuacan,,,,,,,,VERACRUZ,IXMATLAHUACAN,1
+30088,Veracruz de Ignacio de la Llave,Jalcomulco,,,,,,,,VERACRUZ,JALCOMULCO,1
+30090,Veracruz de Ignacio de la Llave,Jamapa,,,,,,,,VERACRUZ,JAMAPA,1
+30093,Veracruz de Ignacio de la Llave,Jilotepec,,,,,,,,VERACRUZ,JILOTEPEC,1
+30095,Veracruz de Ignacio de la Llave,Juchique de Ferrer,,,,,,,,VERACRUZ,JUCHIQUE DE FERRER,1
+30096,Veracruz de Ignacio de la Llave,Landero y Coss,,,,,,,,VERACRUZ,LANDERO Y COSS,1
+30097,Veracruz de Ignacio de la Llave,Lerdo de Tejada,,,,,,,,VERACRUZ,LERDO DE TEJADA,1
+30098,Veracruz de Ignacio de la Llave,Magdalena,,,,,,,,VERACRUZ,MAGDALENA,1
+30099,Veracruz de Ignacio de la Llave,Maltrata,,,,,,,,VERACRUZ,MALTRATA,1
+30103,Veracruz de Ignacio de la Llave,Mecatlán,,,,,,,,VERACRUZ,MECATLAN,1
+30104,Veracruz de Ignacio de la Llave,Mecayapan,,,,,,,,VERACRUZ,MECAYAPAN,1
+30106,Veracruz de Ignacio de la Llave,Miahuatlán,,,,,,,,VERACRUZ,MIAHUATLAN,1
+30107,Veracruz de Ignacio de la Llave,Las Minas,,,,,,,,VERACRUZ,LAS MINAS,1
+30110,Veracruz de Ignacio de la Llave,Mixtla de Altamirano,,,,,,,,VERACRUZ,MIXTLA DE ALTAMIRANO,1
+30111,Veracruz de Ignacio de la Llave,Moloacán,,,,,,,,VERACRUZ,MOLOACAN,1
+30113,Veracruz de Ignacio de la Llave,Naranjal,,,,,,,,VERACRUZ,NARANJAL,1
+30114,Veracruz de Ignacio de la Llave,Nautla,,,,,,,,VERACRUZ,NAUTLA,1
+30116,Veracruz de Ignacio de la Llave,Oluta,,,,,,,,VERACRUZ,OLUTA,1
+30119,Veracruz de Ignacio de la Llave,Otatitlán,,,,,,,,VERACRUZ,OTATITLAN,1
+30120,Veracruz de Ignacio de la Llave,Oteapan,,,,,,,,VERACRUZ,OTEAPAN,1
+30122,Veracruz de Ignacio de la Llave,Pajapan,,,,,,,,VERACRUZ,PAJAPAN,1
+30127,Veracruz de Ignacio de la Llave,La Perla,,,,,,,,VERACRUZ,LA PERLA,1
+30129,Veracruz de Ignacio de la Llave,Platón Sánchez,,,,,,,,VERACRUZ,PLATON SANCHEZ,1
+30135,Veracruz de Ignacio de la Llave,Rafael Delgado,,,,,,,,VERACRUZ,RAFAEL DELGADO,1
+30136,Veracruz de Ignacio de la Llave,Rafael Lucio,,,,,,,,VERACRUZ,RAFAEL LUCIO,1
+30137,Veracruz de Ignacio de la Llave,Los Reyes,,,,,,,,VERACRUZ,LOS REYES,1
+30139,Veracruz de Ignacio de la Llave,Saltabarranca,,,,,,,,VERACRUZ,SALTABARRANCA,1
+30140,Veracruz de Ignacio de la Llave,San Andrés Tenejapan,,,,,,,,VERACRUZ,SAN ANDRES TENEJAPAN,1
+30141,Veracruz de Ignacio de la Llave,San Andrés Tuxtla,,,,,,,,VERACRUZ,SAN ANDRES TUXTLA,1
+30145,Veracruz de Ignacio de la Llave,Soconusco,,,,,,,,VERACRUZ,SOCONUSCO,1
+30146,Veracruz de Ignacio de la Llave,Sochiapa,,,,,,,,VERACRUZ,SOCHIAPA,1
+30147,Veracruz de Ignacio de la Llave,Soledad Atzompa,,,,,,,,VERACRUZ,SOLEDAD ATZOMPA,1
+30149,Veracruz de Ignacio de la Llave,Soteapan,,,,,,,,VERACRUZ,SOTEAPAN,1
+30150,Veracruz de Ignacio de la Llave,Tamalín,,,,,,,,VERACRUZ,TAMALIN,1
+30152,Veracruz de Ignacio de la Llave,Tampico Alto,,,,,,,,VERACRUZ,TAMPICO ALTO,1
+30153,Veracruz de Ignacio de la Llave,Tancoco,,,,,,,,VERACRUZ,TANCOCO,1
+30154,Veracruz de Ignacio de la Llave,Tantima,,,,,,,,VERACRUZ,TANTIMA,1
+30156,Veracruz de Ignacio de la Llave,Tatatila,,,,,,,,VERACRUZ,TATATILA,1
+30159,Veracruz de Ignacio de la Llave,Tehuipango,,,,,,,,VERACRUZ,TEHUIPANGO,1
+30162,Veracruz de Ignacio de la Llave,Tenampa,,,,,,,,VERACRUZ,TENAMPA,1
+30163,Veracruz de Ignacio de la Llave,Tenochtitlán,,,,,,,,VERACRUZ,TENOCHTITLAN,1
+30164,Veracruz de Ignacio de la Llave,Teocelo,,,,,,,,VERACRUZ,TEOCELO,1
+30165,Veracruz de Ignacio de la Llave,Tepatlaxco,,,,,,,,VERACRUZ,TEPATLAXCO,1
+30166,Veracruz de Ignacio de la Llave,Tepetlán,,,,,,,,VERACRUZ,TEPETLAN,1
+30167,Veracruz de Ignacio de la Llave,Tepetzintla,,,,,,,,VERACRUZ,TEPETZINTLA,1
+30168,Veracruz de Ignacio de la Llave,Tequila,,,,,,,,VERACRUZ,TEQUILA,1
+30170,Veracruz de Ignacio de la Llave,Texcatepec,,,,,,,,VERACRUZ,TEXCATEPEC,1
+30171,Veracruz de Ignacio de la Llave,Texhuacán,,,,,,,,VERACRUZ,TEXHUACAN,1
+30172,Veracruz de Ignacio de la Llave,Texistepec,,,,,,,,VERACRUZ,TEXISTEPEC,1
+30176,Veracruz de Ignacio de la Llave,Tlacojalpan,,,,,,,,VERACRUZ,TLACOJALPAN,1
+30177,Veracruz de Ignacio de la Llave,Tlacolulan,,,,,,,,VERACRUZ,TLACOLULAN,1
+30178,Veracruz de Ignacio de la Llave,Tlacotalpan,,,,,,,,VERACRUZ,TLACOTALPAN,1
+30179,Veracruz de Ignacio de la Llave,Tlacotepec de Mejía,,,,,,,,VERACRUZ,TLACOTEPEC DE MEJIA,1
+30180,Veracruz de Ignacio de la Llave,Tlachichilco,,,,,,,,VERACRUZ,TLACHICHILCO,1
+30182,Veracruz de Ignacio de la Llave,Tlalnelhuayocan,,,,,,,,VERACRUZ,TLALNELHUAYOCAN,1
+30184,Veracruz de Ignacio de la Llave,Tlaquilpa,,,,,,,,VERACRUZ,TLAQUILPA,1
+30185,Veracruz de Ignacio de la Llave,Tlilapan,,,,,,,,VERACRUZ,TLILAPAN,1
+30186,Veracruz de Ignacio de la Llave,Tomatlán,,,,,,,,VERACRUZ,TOMATLAN,1
+30187,Veracruz de Ignacio de la Llave,Tonayán,,,,,,,,VERACRUZ,TONAYAN,1
+30188,Veracruz de Ignacio de la Llave,Totutla,,,,,,,,VERACRUZ,TOTUTLA,1
+30190,Veracruz de Ignacio de la Llave,Tuxtilla,,,,,,,,VERACRUZ,TUXTILLA,1
+30194,Veracruz de Ignacio de la Llave,Villa Aldama,,,,,,,,VERACRUZ,VILLA ALDAMA,1
+30195,Veracruz de Ignacio de la Llave,Xoxocotla,,,,,,,,VERACRUZ,XOXOCOTLA,1
+30196,Veracruz de Ignacio de la Llave,Yanga,,,,,,,,VERACRUZ,YANGA,1
+30197,Veracruz de Ignacio de la Llave,Yecuatla,,,,,,,,VERACRUZ,YECUATLA,1
+30198,Veracruz de Ignacio de la Llave,Zacualpan,,,,,,,,VERACRUZ,ZACUALPAN,1
+30199,Veracruz de Ignacio de la Llave,Zaragoza,,,,,,,,VERACRUZ,ZARAGOZA,1
+30200,Veracruz de Ignacio de la Llave,Zentla,,,,,,,,VERACRUZ,ZENTLA,1
+30202,Veracruz de Ignacio de la Llave,Zontecomatlán de López y Fuentes,,,,,,,,VERACRUZ,ZONTECOMATLAN DE LOPEZ Y FUENTES,1
+30203,Veracruz de Ignacio de la Llave,Zozocolco de Hidalgo,,,,,,,,VERACRUZ,ZOZOCOLCO DE HIDALGO,1
+30205,Veracruz de Ignacio de la Llave,El Higo,,,,,,,,VERACRUZ,EL HIGO,1
+30206,Veracruz de Ignacio de la Llave,Nanchital de Lázaro Cárdenas del Río,,,,,,,,VERACRUZ,NANCHITAL DE LAZARO CARDENAS DEL RIO,1
+30209,Veracruz de Ignacio de la Llave,Tatahuicapan de Juárez,,,,,,,,VERACRUZ,TATAHUICAPAN DE JUAREZ,1
+30210,Veracruz de Ignacio de la Llave,Uxpanapa,,,,,,,,VERACRUZ,UXPANAPA,1
+30212,Veracruz de Ignacio de la Llave,Santiago Sochiapan,,,,,,,,VERACRUZ,SANTIAGO SOCHIAPAN,1
+31001,Yucatán,Abalá,,,,,,,,YUCATAN,ABALA,1
+31002,Yucatán,Acanceh,,,,,,,,YUCATAN,ACANCEH,1
+31003,Yucatán,Akil,,,,,,,,YUCATAN,AKIL,1
+31004,Yucatán,Baca,,,,,,,,YUCATAN,BACA,1
+31005,Yucatán,Bokobá,,,,,,,,YUCATAN,BOKOBA,1
+31006,Yucatán,Buctzotz,,,,,,,,YUCATAN,BUCTZOTZ,1
+31007,Yucatán,Cacalchén,,,,,,,,YUCATAN,CACALCHEN,1
+31008,Yucatán,Calotmul,,,,,,,,YUCATAN,CALOTMUL,1
+31009,Yucatán,Cansahcab,,,,,,,,YUCATAN,CANSAHCAB,1
+31010,Yucatán,Cantamayec,,,,,,,,YUCATAN,CANTAMAYEC,1
+31011,Yucatán,Celestún,,,,,,,,YUCATAN,CELESTUN,1
+31012,Yucatán,Cenotillo,,,,,,,,YUCATAN,CENOTILLO,1
+31013,Yucatán,Conkal,,,,,,,,YUCATAN,CONKAL,1
+31014,Yucatán,Cuncunul,,,,,,,,YUCATAN,CUNCUNUL,1
+31015,Yucatán,Cuzamá,,,,,,,,YUCATAN,CUZAMA,1
+31016,Yucatán,Chacsinkín,,,,,,,,YUCATAN,CHACSINKIN,1
+31017,Yucatán,Chankom,,,,,,,,YUCATAN,CHANKOM,1
+31018,Yucatán,Chapab,,,,,,,,YUCATAN,CHAPAB,1
+31020,Yucatán,Chicxulub Pueblo,,,,,,,,YUCATAN,CHICXULUB PUEBLO,1
+31021,Yucatán,Chichimilá,,,,,,,,YUCATAN,CHICHIMILA,1
+31022,Yucatán,Chikindzonot,,,,,,,,YUCATAN,CHIKINDZONOT,1
+31023,Yucatán,Chocholá,,,,,,,,YUCATAN,CHOCHOLA,1
+31024,Yucatán,Chumayel,,,,,,,,YUCATAN,CHUMAYEL,1
+31025,Yucatán,Dzan,,,,,,,,YUCATAN,DZAN,1
+31026,Yucatán,Dzemul,,,,,,,,YUCATAN,DZEMUL,1
+31027,Yucatán,Dzidzantún,,,,,,,,YUCATAN,DZIDZANTUN,1
+31028,Yucatán,Dzilam de Bravo,,,,,,,,YUCATAN,DZILAM DE BRAVO,1
+31029,Yucatán,Dzilam González,,,,,,,,YUCATAN,DZILAM GONZALEZ,1
+31030,Yucatán,Dzitás,,,,,,,,YUCATAN,DZITAS,1
+31031,Yucatán,Dzoncauich,,,,,,,,YUCATAN,DZONCAUICH,1
+31032,Yucatán,Espita,,,,,,,,YUCATAN,ESPITA,1
+31033,Yucatán,Halachó,,,,,,,,YUCATAN,HALACHO,1
+31034,Yucatán,Hocabá,,,,,,,,YUCATAN,HOCABA,1
+31035,Yucatán,Hoctún,,,,,,,,YUCATAN,HOCTUN,1
+31036,Yucatán,Homún,,,,,,,,YUCATAN,HOMUN,1
+31037,Yucatán,Huhí,,,,,,,,YUCATAN,HUHI,1
+31039,Yucatán,Ixil,,,,,,,,YUCATAN,IXIL,1
+31042,Yucatán,Kantunil,,,,,,,,YUCATAN,KANTUNIL,1
+31043,Yucatán,Kaua,,,,,,,,YUCATAN,KAUA,1
+31044,Yucatán,Kinchil,,,,,,,,YUCATAN,KINCHIL,1
+31045,Yucatán,Kopomá,,,,,,,,YUCATAN,KOPOMA,1
+31046,Yucatán,Mama,,,,,,,,YUCATAN,MAMA,1
+31047,Yucatán,Maní,,,,,,,,YUCATAN,MANI,1
+31049,Yucatán,Mayapán,,,,,,,,YUCATAN,MAYAPAN,1
+31051,Yucatán,Mocochá,,,,,,,,YUCATAN,MOCOCHA,1
+31053,Yucatán,Muna,,,,,,,,YUCATAN,MUNA,1
+31054,Yucatán,Muxupip,,,,,,,,YUCATAN,MUXUPIP,1
+31055,Yucatán,Opichén,,,,,,,,YUCATAN,OPICHEN,1
+31057,Yucatán,Panabá,,,,,,,,YUCATAN,PANABA,1
+31060,Yucatán,Quintana Roo,,,,,,,,YUCATAN,QUINTANA ROO,1
+31061,Yucatán,Río Lagartos,,,,,,,,YUCATAN,RIO LAGARTOS,1
+31062,Yucatán,Sacalum,,,,,,,,YUCATAN,SACALUM,1
+31063,Yucatán,Samahil,,,,,,,,YUCATAN,SAMAHIL,1
+31064,Yucatán,Sanahcat,,,,,,,,YUCATAN,SANAHCAT,1
+31065,Yucatán,San Felipe,,,,,,,,YUCATAN,SAN FELIPE,1
+31066,Yucatán,Santa Elena,,,,,,,,YUCATAN,SANTA ELENA,1
+31067,Yucatán,Seyé,,,,,,,,YUCATAN,SEYE,1
+31068,Yucatán,Sinanché,,,,,,,,YUCATAN,SINANCHE,1
+31069,Yucatán,Sotuta,,,,,,,,YUCATAN,SOTUTA,1
+31070,Yucatán,Sucilá,,,,,,,,YUCATAN,SUCILA,1
+31071,Yucatán,Sudzal,,,,,,,,YUCATAN,SUDZAL,1
+31072,Yucatán,Suma,,,,,,,,YUCATAN,SUMA,1
+31073,Yucatán,Tahdziú,,,,,,,,YUCATAN,TAHDZIU,1
+31074,Yucatán,Tahmek,,,,,,,,YUCATAN,TAHMEK,1
+31075,Yucatán,Teabo,,,,,,,,YUCATAN,TEABO,1
+31076,Yucatán,Tecoh,,,,,,,,YUCATAN,TECOH,1
+31077,Yucatán,Tekal de Venegas,,,,,,,,YUCATAN,TEKAL DE VENEGAS,1
+31078,Yucatán,Tekantó,,,,,,,,YUCATAN,TEKANTO,1
+31080,Yucatán,Tekit,,,,,,,,YUCATAN,TEKIT,1
+31081,Yucatán,Tekom,,,,,,,,YUCATAN,TEKOM,1
+31082,Yucatán,Telchac Pueblo,,,,,,,,YUCATAN,TELCHAC PUEBLO,1
+31083,Yucatán,Telchac Puerto,,,,,,,,YUCATAN,TELCHAC PUERTO,1
+31084,Yucatán,Temax,,,,,,,,YUCATAN,TEMAX,1
+31085,Yucatán,Temozón,,,,,,,,YUCATAN,TEMOZON,1
+31086,Yucatán,Tepakán,,,,,,,,YUCATAN,TEPAKAN,1
+31087,Yucatán,Tetiz,,,,,,,,YUCATAN,TETIZ,1
+31088,Yucatán,Teya,,,,,,,,YUCATAN,TEYA,1
+31090,Yucatán,Timucuy,,,,,,,,YUCATAN,TIMUCUY,1
+31091,Yucatán,Tinum,,,,,,,,YUCATAN,TINUM,1
+31092,Yucatán,Tixcacalcupul,,,,,,,,YUCATAN,TIXCACALCUPUL,1
+31093,Yucatán,Tixkokob,,,,,,,,YUCATAN,TIXKOKOB,1
+31094,Yucatán,Tixmehuac,,,,,,,,YUCATAN,TIXMEHUAC,1
+31095,Yucatán,Tixpéhual,,,,,,,,YUCATAN,TIXPEHUAL,1
+31097,Yucatán,Tunkás,,,,,,,,YUCATAN,TUNKAS,1
+31098,Yucatán,Tzucacab,,,,,,,,YUCATAN,TZUCACAB,1
+31099,Yucatán,Uayma,,,,,,,,YUCATAN,UAYMA,1
+31100,Yucatán,Ucú,,,,,,,,YUCATAN,UCU,1
+31103,Yucatán,Xocchel,,,,,,,,YUCATAN,XOCCHEL,1
+31104,Yucatán,Yaxcabá,,,,,,,,YUCATAN,YAXCABA,1
+31105,Yucatán,Yaxkukul,,,,,,,,YUCATAN,YAXKUKUL,1
+31106,Yucatán,Yobaín,,,,,,,,YUCATAN,YOBAIN,1
+32001,Zacatecas,Apozol,,,,,,,,ZACATECAS,APOZOL,1
+32002,Zacatecas,Apulco,,,,,,,,ZACATECAS,APULCO,1
+32003,Zacatecas,Atolinga,,,,,,,,ZACATECAS,ATOLINGA,1
+32004,Zacatecas,Benito Juárez,,,,,,,,ZACATECAS,BENITO JUAREZ,1
+32006,Zacatecas,Cañitas de Felipe Pescador,,,,,,,,ZACATECAS,CAÑITAS DE FELIPE PESCADOR,1
+32007,Zacatecas,Concepción del Oro,,,,,,,,ZACATECAS,CONCEPCION DEL ORO,1
+32008,Zacatecas,Cuauhtémoc,,,,,,,,ZACATECAS,CUAUHTEMOC,1
+32009,Zacatecas,Chalchihuites,,,,,,,,ZACATECAS,CHALCHIHUITES,1
+32010,Zacatecas,Fresnillo,,,,,,,,ZACATECAS,FRESNILLO,1
+32011,Zacatecas,Trinidad García de la Cadena,,,,,,,,ZACATECAS,TRINIDAD GARCIA DE LA CADENA,1
+32012,Zacatecas,Genaro Codina,,,,,,,,ZACATECAS,GENARO CODINA,1
+32013,Zacatecas,General Enrique Estrada,,,,,,,,ZACATECAS,GENERAL ENRIQUE ESTRADA,1
+32015,Zacatecas,El Plateado de Joaquín Amaro,,,,,,,,ZACATECAS,EL PLATEADO DE JOAQUIN AMARO,1
+32016,Zacatecas,General Pánfilo Natera,,,,,,,,ZACATECAS,GENERAL PANFILO NATERA,1
+32017,Zacatecas,Guadalupe,,,,,,,,ZACATECAS,GUADALUPE,1
+32018,Zacatecas,Huanusco,,,,,,,,ZACATECAS,HUANUSCO,1
+32021,Zacatecas,Jiménez del Teul,,,,,,,,ZACATECAS,JIMENEZ DEL TEUL,1
+32022,Zacatecas,Juan Aldama,,,,,,,,ZACATECAS,JUAN ALDAMA,1
+32023,Zacatecas,Juchipila,,,,,,,,ZACATECAS,JUCHIPILA,1
+32025,Zacatecas,Luis Moya,,,,,,,,ZACATECAS,LUIS MOYA,1
+32026,Zacatecas,Mazapil,,,,,,,,ZACATECAS,MAZAPIL,1
+32027,Zacatecas,Melchor Ocampo,,,,,,,,ZACATECAS,MELCHOR OCAMPO,1
+32028,Zacatecas,Mezquital del Oro,,,,,,,,ZACATECAS,MEZQUITAL DEL ORO,1
+32030,Zacatecas,Momax,,,,,,,,ZACATECAS,MOMAX,1
+32031,Zacatecas,Monte Escobedo,,,,,,,,ZACATECAS,MONTE ESCOBEDO,1
+32032,Zacatecas,Morelos,,,,,,,,ZACATECAS,MORELOS,1
+32033,Zacatecas,Moyahua de Estrada,,,,,,,,ZACATECAS,MOYAHUA DE ESTRADA,1
+32035,Zacatecas,Noria de Ángeles,,,,,,,,ZACATECAS,NORIA DE ANGELES,1
+32037,Zacatecas,Pánuco,,,,,,,,ZACATECAS,PANUCO,1
+32041,Zacatecas,El Salvador,,,,,,,,ZACATECAS,EL SALVADOR,1
+32043,Zacatecas,Susticacán,,,,,,,,ZACATECAS,SUSTICACAN,1
+32044,Zacatecas,Tabasco,,,,,,,,ZACATECAS,TABASCO,1
+32045,Zacatecas,Tepechitlán,,,,,,,,ZACATECAS,TEPECHITLAN,1
+32046,Zacatecas,Tepetongo,,,,,,,,ZACATECAS,TEPETONGO,1
+32047,Zacatecas,Teúl de González Ortega,,,,,,,,ZACATECAS,TEUL DE GONZALEZ ORTEGA,1
+32050,Zacatecas,Vetagrande,,,,,,,,ZACATECAS,VETAGRANDE,1
+32052,Zacatecas,Villa García,,,,,,,,ZACATECAS,VILLA GARCIA,1
+32053,Zacatecas,Villa González Ortega,,,,,,,,ZACATECAS,VILLA GONZALEZ ORTEGA,1
+32054,Zacatecas,Villa Hidalgo,,,,,,,,ZACATECAS,VILLA HIDALGO,1
+32058,Zacatecas,Santa María de la Paz,,,,,,,,ZACATECAS,SANTA MARIA DE LA PAZ,1
